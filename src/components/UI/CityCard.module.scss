@@ -1,0 +1,44 @@
+@import "../../styles/base";
+.cityCard{
+    position: relative;
+    width: 123px;
+    height: 151px;
+    border-radius: 1.5rem;
+    // border: 1px solid #888;
+    @include flexCenter;
+    flex-direction: column;
+    z-index: 1;
+    box-shadow: 0 .4rem 4rem rgba(0, 0, 0,.12);
+    background-color: #fff;
+    &:not(:last-child){
+        // background-color: red;
+        // padding: 20px;
+        margin-right: 35px;
+    }
+    &__outer{
+        display: flex;
+    }
+    
+    &__circle{
+        width: 76px;
+        height: 76px;
+        justify-content: center;
+        align-items: center;
+
+        border-radius: 50%;
+        background-image:linear-gradient(to right bottom,$color-gradient-1,$color-gradient-2);
+        @include flexCenter;
+        // margin-bottom: .876rem;
+    }
+    &__icon{
+        filter:invert(.99);
+        width: 65%;
+        // width: 20px;
+        display: block;
+    }
+    & > span{
+        font-size: 1.6rem;
+        font-weight: 500;
+    }
+    
+}

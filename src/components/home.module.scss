@@ -1,0 +1,247 @@
+@import "../styles/base";
+main{
+    // margin: 0 7%;
+    // width: 100%;
+    // max-width: 1440px;
+    // background-color: rebeccapurple;
+}
+.banner{
+    background: url('../../public/img/banner_home.jpg') no-repeat center;
+    background-size: cover;
+    // background-repeat: no-repeat;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    &__main-text{
+        font-size: 4rem;
+        font-weight: 700;
+        margin-top: 14.9rem;
+        margin-bottom: .4rem;
+    }
+    &__sub-text{
+        margin-bottom: 5.3rem;
+    }
+    &__search{
+        width: 60%;
+        position: relative;
+        margin-bottom: 15.4rem;
+        &-input{
+            width: 100%;
+            border: 6px solid #f0f0f0;
+            outline: none;
+            padding: 1rem ;
+            padding-left: 1.5rem;
+            border-radius: 3.4rem;
+        }
+        &-icon{
+            padding-right: .5rem;
+        }
+        &-btn{
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            right: .6rem;
+            color: #fff;
+            background-image:linear-gradient(to right bottom,$color-gradient-1,$color-gradient-2);
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 2rem;
+            cursor: pointer;
+        }
+    }
+}
+.cityChoose{
+    position: relative;
+    // display: flex;
+    padding-top: 9.2rem;
+    // width: 81%;
+    height: 32.9rem;
+    margin-bottom: 15.8rem;
+    @include flexCenter();
+    &::after{
+        content: '';
+        background-color: $color-tertiary;
+        width: 81%;
+        height: 32.9rem;
+        border-bottom-right-radius: 13.6rem;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    &::before{
+        content: '';
+        background: $right-bottom-gradient;
+        // width: 13.4%;
+        width: 10.6%;
+        height: 13.26vw;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 0;
+        z-index: 1;
+        // left: -6.7%;
+        left: -5.3%;
+        transform: translate(0%, 50%); 
+    }
+    &__text{
+        // position: relative;
+        // z-index: 2;
+        // margin-right: 11.2rem;
+        &-main{
+            // font-size: 3.2rem;
+            // font-weight: 500;
+            // margin-bottom: 1.4rem;
+        }
+        &-sub{
+            // font-size: 1.4rem;
+            // font-weight: 500;
+            // color: #9a9a9a;
+            // text-transform: uppercase;
+            // letter-spacing: 0.1rem;
+        }
+    }
+    &__icon{
+        width: 10%;
+        filter:invert(.88) opacity(.9);
+        position: absolute;
+        z-index: 2;
+        bottom: 2.5%;
+        left: 1.4%;
+
+    }
+    
+    &__decoration{
+        background: $right-bottom-gradient;
+    }
+}
+.common{
+    &__text{
+        // position: relative;
+        // z-index: 2;
+        &--city{
+            position: relative;
+            z-index: 2;
+            margin-right: 11.2rem;
+        }
+        &--getout{
+            // display: block;
+            // margin-top: 1.3rem;
+            // margin-bottom: 2.7rem;
+        }
+        &-main{
+            font-size: 3.2rem;
+            font-weight: 500;
+            margin-bottom: 1.4rem;
+            margin: 0;
+            letter-spacing: 0.3rem;
+        }
+        &-sub{
+            font-size: 1.4rem;
+            font-weight: 500;
+            color: #9a9a9a;
+            text-transform: uppercase;
+            letter-spacing: 0.1rem;
+            display: block;
+            margin-top: 1.2rem;
+            margin-bottom: 2.7rem;
+        }
+    }
+}
+.festival{
+    // padding: 0 rem;
+    // margin-top: 15.8rem;
+    // max-width: 1000px;
+    // display: flex;
+    // justify-content: left;
+    @include flexCenter();
+    // justify-content: center;
+    // padding-right: 20rem;
+
+    &__text{
+        // position: relative;
+        // z-index: 2;
+        // margin-left: 5.3rem;
+
+        &-main{
+            // font-size: 3.2rem;
+            // font-weight: 500;
+            // margin-bottom: 1.4rem;
+           
+        }
+        &-sub{
+            // font-size: 1.4rem;
+            // font-weight: 500;
+            // color: #9a9a9a;
+            // text-transform: uppercase;
+            // letter-spacing: 0.1rem;
+
+            // display: block;
+            // margin-top: 1.3rem;
+            // margin-bottom: 2.7rem;
+
+        }
+    }
+    &__btn{
+        @include moretButton();
+        width:13.7rem;   
+        height: 4.5rem;
+        color: #fff;
+        font-size: 1.4rem;
+        font-weight: 500;
+        border-radius: 5.3rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        position: relative;
+        padding-left: 1.5rem;
+
+        &::before{
+            content: '';
+            position: absolute;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 5;
+            // border: .3px solid #fff;
+            height: 0.6px;
+            background-color: #fff;
+            width: 2.6rem;
+        }
+        &::after{
+            content: '●';
+            font-size: .75rem;
+        }
+    }
+
+}
+.tasty{
+    position: relative;
+    display: flex;
+
+    &::after{
+        content: 'aaaaaaaaaaaaaaaaaa';
+        display: block;
+        background-color: $color-tertiary;
+        background-color: red;
+        width: 51%;
+        height: 48.4rem;
+        // border-bottom-right-radius: 13.6rem;
+        border-radius: 0 24.2rem 24.2rem 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+    &__outer{
+    }
+    &__foodCard{
+        display: flex;
+        // position: absolute;
+    }
+}
+.accommodation{
+    margin-top: 20rem;
+    
+}

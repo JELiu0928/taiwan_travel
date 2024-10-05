@@ -1,0 +1,31 @@
+$color-primary:#1EB893;
+$color-secondary:#0085FF;
+$color-tertiary:#F6F6F6;
+$color-gradient-1:#78E389;
+$color-gradient-2:#1EB893;
+$right-bottom-gradient:linear-gradient(to right bottom,$color-gradient-1,$color-gradient-2);
+// #78E389 #1EB893 //漸變
+html{
+    font-size: 62.5%; //1rem = 10px (10px/16px = 62.5%)
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans TC", sans-serif;
+    font-weight: 400;
+}
+
+@mixin flexCenter{
+    display: flex; 
+    justify-content: center;       
+    align-items: center;
+}
+@mixin moretButton{
+    background-image:linear-gradient(to right bottom,$color-gradient-1,$color-gradient-2);
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
