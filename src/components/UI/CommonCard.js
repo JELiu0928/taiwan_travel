@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from 'react'
 import styles from './CommonCard.module.scss'
 import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faLocationDot} from '@fortawesome/free-solid-svg-icons'
+import {faLocationDot,faPhone} from '@fortawesome/free-solid-svg-icons'
 
 // import activityData from '../../data/activity01.json'
 const CommonCard = (props) => {
-    const {activityData,type,accommodationData,attractionData} = props
-    console.log('type',type)
+    const {activityData,type,accommodationData,attractionData,eventData} = props
+    // console.log('type',type)
     // const {} = props
     // const [cardType,setCardType] = useState('')
     
     // attractionData && console.log('CommonCard-->attractiondata',attractionData.Images)
-    let pic,name,address,city,description;
+    let pic,name,address,city,description,fullAddress,tel;
     let tags = []
     useEffect(()=>{
         
@@ -37,11 +37,11 @@ const CommonCard = (props) => {
             name = accommodationData ? accommodationData.HotelName : "data not found"
             address = accommodationData ? accommodationData.Address :"地址未提供"
             // console.log('accommodationData',accommodationData)
-        
+            break;
         case 'attraction':
             pic = attractionData ? attractionData.Images[0].URL : "/img/test.jpg"
             name = attractionData ? attractionData.AttractionName : "data not found"
-            let fullAddress = attractionData && `${attractionData.PostalAddress.City}${attractionData.PostalAddress.Town}${attractionData.PostalAddress.StreetAddress}`
+            fullAddress = attractionData && `${attractionData.PostalAddress.City}${attractionData.PostalAddress.Town}${attractionData.PostalAddress.StreetAddress}`
             address = attractionData ? fullAddress :"地址未提供"
             // console.log('address',address)
             description = attractionData ? attractionData.Description :"未提供描述"
@@ -50,7 +50,14 @@ const CommonCard = (props) => {
                 description = description.substring(0,textLength) + "..."
             }
             // console.log('accommodationData',accommodationData)
-        
+            break;
+        case 'event':
+            name = eventData ? eventData.EventName : "data not found"
+            fullAddress = eventData && `${eventData.PostalAddress.City}${eventData.PostalAddress.Town}${eventData.PostalAddress.StreetAddress}`
+            // address = eventData ? fullAddress :"地址未提供"
+            tel = eventData ? eventData.Telephones[0].Tel : "Tel not found"
+            console.log('tel',tel)
+            break;
     }
   
     useEffect(()=>{
@@ -80,6 +87,14 @@ const CommonCard = (props) => {
                             {address}
                         </span> :  <span className={styles["commonCard__text-sub"]}>{address}</span>
                 }
+                {
+                    type === "event" ? 
+                        <span className={styles["commonCard__text-address"]}>
+                                <FontAwesomeIcon icon={faPhone} />{tel}
+                        </span> : 
+                        ''
+                }
+                
             </div>
             <div className={styles["commonCard__tag-zone"]}>
                 <div className={styles["commonCard__tag-zone--keyword"]}>
@@ -90,6 +105,7 @@ const CommonCard = (props) => {
                         )    
                     })
                     }
+                    
                 </div>
                 <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
             </div>

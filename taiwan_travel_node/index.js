@@ -53,6 +53,25 @@ app.get('/attraction', async (req, res) => {
         res.status(500).json({"error": "獲取資料失敗"});
     }
 });
+app.get('/event', async (req, res) => {
+    // let randomSkip = Math.floor(Math.random() * 100) //隨機跳過
+    // console.log(randomSkip)
+    try {
+        const accessToken = await getAccessToken(); // 先獲取 Access Token
+        const apiUrl = "https://tdx.transportdata.tw/api/tourism/service/odata/V2/Tourism/Event?%24filter=Images%20ne%20null&%24top=10"
+        // const apiUrl = 'https://tdx.transportdata.tw/api/tourism/service/odata/V2/Tourism/Activity/Taipei?%24top=30'; // API URL
+        const response = await axios.get(apiUrl, {
+            headers: {
+                'Authorization': `Bearer ${accessToken}`,
+                'accept': 'application/json;odata.metadata=none'
+            }
+        });
+        res.json(response.data);
+    } catch (error) {
+        console.error('呼叫 API 錯誤:', error.response ? error.response.data : error.message);
+        res.status(500).json({"error": "獲取資料失敗"});
+    }
+});
 
 
 

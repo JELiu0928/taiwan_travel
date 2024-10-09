@@ -15,10 +15,12 @@ import activityData from '../data/activity01.json'
 import foodData from '../data/food01.json'
 import accommodationData from '../data/accommodation01.json'
 import attractionDatas from '../data/attraction.json'
+import eventDatas from '../data/event.json'
 const City = () => {
     const {selectedArea,setSelectedArea} = useContext(RegionContext)
     
     const [attractionData,setAttractionData] = useState([]) 
+    const [eventData,setEventData] = useState([]) 
     // console.log('attractionDatas:', attractionDatas);
     // console.log('attractionDatas type:', typeof attractionDatas.value);
 
@@ -27,10 +29,13 @@ const City = () => {
         let newAttractionData = [...attractionDatas.value]
         newAttractionData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
         // console.log('newAttractionData',newAttractionData)
-        setAttractionData(newAttractionData.slice(0,6)) //取六筆
+        setAttractionData(newAttractionData.slice(0,8)) //取六筆
         // console.log('attractionData',attractionData)
 
-
+        let eventData = [...eventDatas.value]
+        eventData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
+        // console.log('newAttractionData',newAttractionData)
+        setEventData(eventData.slice(0,8)) 
 
         // console.log('activityData',activityData)
         // fetch(`http://localhost:3010/attraction`)
@@ -47,34 +52,38 @@ const City = () => {
         //     console.log('我是err',e)
         // });
     },[])
-    const moveLeft = ()=>{
-        let attractionCard = document.querySelector(`.${styles["city__attraction-card"]}`);
-        // let cartWidth2 = [...document.querySelector(`.${styles["city__attraction-card"]}`).children]
-        // console.log(cartWidth2[cartWidth2.length-1])
-        if(attractionCard){
-            let cartWidth = attractionCard.children[0].offsetWidth + 25
-            attractionCard.scrollBy({
-                left:cartWidth
-            })
-            console.log('scrollWidth',attractionCard.scrollWidth)
-            console.log('clientWidth',attractionCard.clientWidth)
-            console.log('offsetWidth',attractionCard.offsetWidth)
-        }
-        console.log('clientWidth',attractionCard.clientWidth)
-    }
-    let moveRight = ()=>{
-        const attractionCard = document.querySelector(`.${styles["city__attraction-card"]}`);
-        if(attractionCard){
-            let cartWidth = attractionCard.children[0].offsetWidth + 25
-            attractionCard.scrollBy({
-                left:-cartWidth
-            })
-            console.log(cartWidth)
-        }
-    }
+    
     const SelectAreaHandler = (area)=>{
         setSelectedArea(area)
     }
+    // let leftoffset=0
+    let [leftOffset,setLeftOffset] = useState(0)
+    const moveLeft = ()=>{
+        let attractionCard = document.querySelector(`.${styles["city__attraction-card"]}`);
+        console.log('點選了',leftOffset,attractionCard.left)
+        if(attractionCard){
+            let cartWidth = attractionCard.children[0].offsetWidth + 25
+
+            setLeftOffset((preOffset)=> preOffset - cartWidth)
+        }
+        console.log(window.getComputedStyle(attractionCard).getPropertyPriority("left"))
+    }
+
+    const moveRight = ()=>{
+        console.log('點選了右鍵',leftOffset)
+
+        let attractionCard = document.querySelector(`.${styles["city__attraction-card"]}`);
+
+        if(attractionCard){
+            let cartWidth = attractionCard.children[0].offsetWidth + 25
+
+            setLeftOffset((preOffset)=> preOffset + cartWidth)
+            
+        }
+    }
+
+   
+    
     return (
         <>
         <Header/>
@@ -103,12 +112,14 @@ const City = () => {
                 <span>景點介紹</span>
             </h2>
             <div className={styles.city__attraction}>
-                <div className={styles["city__attraction-card"]}>
-                    {
-                        attractionData && attractionData.map((item,i)=>{
-                            return <CommonCard attractionData={item} key={i} type={"attraction"}/>
-                        })
-                    }
+                <div className={styles["city__attraction-card--container"]}>
+                    <div className={styles["city__attraction-card"]} style={{ transform: `translateX(${leftOffset}px)`}}>
+                        {
+                            attractionData && attractionData.map((item,i)=>{
+                                return <CommonCard attractionData={item} key={i} type={"attraction"}/>
+                            })
+                        }
+                    </div>
                 </div>
                 <button 
                     onClick={moveLeft}
@@ -126,29 +137,28 @@ const City = () => {
             </div>
 
         </section>
-        <section className={styles.container}>
+        <section className={styles["city__activity"]}>
             <h2 className={styles["city__attraction-text"]}>
                 <span>台北市</span>
                 <span>特色活動</span>
             </h2>
-            <div className={styles.city__activiry}>
-                <div className={styles["city__activiry-card"]}>
-                    <CommonCard/>
-                    <CommonCard/>
-                    <CommonCard/>
-                    <CommonCard/>
-                    <CommonCard/>
-                    <CommonCard/>
+            <div className={styles.city__activity222}>
+                <div className={styles["city__activity-card"]}>
+                    {
+                        eventData && eventData.map((item,i)=>{
+                            return <CommonCard eventData={item} key={i} type={"event"}/>
+                        })
+                    }
                 </div>
                 <button 
                     onClick={moveLeft}
-                    className={`${styles["city__activiry--leftBtn"]} ${styles["city__activiry--btn"]}`}>
+                    className={`${styles["city__activity--leftBtn"]} ${styles["city__activity--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
                 <button 
                     onClick={moveRight}
-                    className={`${styles["city__activiry--rightBtn"]} ${styles["city__activiry--btn"]}`}>
+                    className={`${styles["city__activity--rightBtn"]} ${styles["city__activity--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
-                <div className={styles["city__activiry-cardState"]}>
+                <div className={styles["city__activity-cardState"]}>
                     <span></span>
                     <span></span>
                     <span></span>
