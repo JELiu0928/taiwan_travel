@@ -1,8 +1,10 @@
 import React from 'react'
-
+import Activity from '../components/Activity'
 const ActivityPage = () => {
   return (
-    <div>ActivityPage</div>
+    <div>
+        <Activity/>
+    </div>
   )
 }
 

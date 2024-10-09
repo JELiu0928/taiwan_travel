@@ -53,6 +53,9 @@ main{
         }
     }
 }
+.common__text-main{
+    // background-color: aqua;
+}
 .cityChoose{
     position: relative;
     // display: flex;
@@ -116,102 +119,68 @@ main{
         background: $right-bottom-gradient;
     }
 }
-.common{
-    &__text{
-        // position: relative;
-        // z-index: 2;
-        &--city{
-            position: relative;
-            z-index: 2;
-            margin-right: 11.2rem;
-        }
-        &--getout{
-            // display: block;
-            // margin-top: 1.3rem;
-            // margin-bottom: 2.7rem;
-        }
-        &-main{
-            font-size: 3.2rem;
-            font-weight: 500;
-            margin-bottom: 1.4rem;
-            margin: 0;
-            letter-spacing: 0.3rem;
-        }
-        &-sub{
-            font-size: 1.4rem;
-            font-weight: 500;
-            color: #9a9a9a;
-            text-transform: uppercase;
-            letter-spacing: 0.1rem;
-            display: block;
-            margin-top: 1.2rem;
-            margin-bottom: 2.7rem;
-        }
-    }
-}
+// .common{
+//     &__text{
+//         flex: 0 0 10.42%;
+//         margin-right: 8.33%;
+//         &--city{
+//             position: relative;
+//             z-index: 2;
+//             margin-right: 11.2rem;
+//         }
+//         &--accommodation{
+//             margin-bottom: 5rem;
+//             text-align: center;
+//             margin-right: 0;
+//         }
+//         &-main{
+//             font-size: 3.6rem;
+//             font-weight: 600;
+//             margin-bottom: 1.4rem;
+//             margin: 0;
+//             letter-spacing: 0.3rem;
+//         }
+//         &-sub{
+//             font-size: 1.4rem;
+//             font-weight: 500;
+//             color: #9a9a9a;
+//             text-transform: uppercase;
+//             letter-spacing: 0.1rem;
+//             display: block;
+//             margin-top: 1.2rem;
+//             margin-bottom: 2.7rem;
+//         }
+//     }
+// }
 .festival{
     // padding: 0 rem;
     // margin-top: 15.8rem;
     // max-width: 1000px;
-    // display: flex;
+    &:not(:last-child){
+        margin-bottom: 3rem;
+    }
+    & > div:not(:nth-child(3)){
+        margin-right: 2.5rem;
+
+    }
+    display: flex;
     // justify-content: left;
     @include flexCenter();
     // justify-content: center;
     // padding-right: 20rem;
-
     &__text{
-        // position: relative;
-        // z-index: 2;
-        // margin-left: 5.3rem;
-
-        &-main{
-            // font-size: 3.2rem;
-            // font-weight: 500;
-            // margin-bottom: 1.4rem;
-           
-        }
-        &-sub{
-            // font-size: 1.4rem;
-            // font-weight: 500;
-            // color: #9a9a9a;
-            // text-transform: uppercase;
-            // letter-spacing: 0.1rem;
-
-            // display: block;
-            // margin-top: 1.3rem;
-            // margin-bottom: 2.7rem;
-
-        }
+        margin-left: 5.5rem;
     }
     &__btn{
         @include moretButton();
-        width:13.7rem;   
-        height: 4.5rem;
-        color: #fff;
-        font-size: 1.4rem;
-        font-weight: 500;
-        border-radius: 5.3rem;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
         position: relative;
         padding-left: 1.5rem;
 
         &::before{
-            content: '';
-            position: absolute;
-            right: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            z-index: 5;
-            // border: .3px solid #fff;
-            height: 0.6px;
-            background-color: #fff;
-            width: 2.6rem;
+            @include moretButtonBefore();
         }
         &::after{
-            content: '●';
-            font-size: .75rem;
+            @include moretButtonAfter();
         }
     }
 
@@ -219,15 +188,21 @@ main{
 .tasty{
     position: relative;
     display: flex;
-
+    height: 48.4rem; 
+    // flex-direction: column;
+    align-items: center;
+    // justify-content: center;
+    &__text{
+        margin-left: 10.3rem;
+        margin-right: 11.1rem;
+    }
     &::after{
-        content: 'aaaaaaaaaaaaaaaaaa';
+        content: '';
         display: block;
+        // background-color: red;
         background-color: $color-tertiary;
-        background-color: red;
         width: 51%;
         height: 48.4rem;
-        // border-bottom-right-radius: 13.6rem;
         border-radius: 0 24.2rem 24.2rem 0;
         position: absolute;
         top: 0;
@@ -235,13 +210,112 @@ main{
         z-index: -1;
     }
     &__outer{
+        margin-top: 14rem;
+        overflow: hidden
+    }
+    &__btn{
+        @include moretButton();
+        position: relative;
+        padding-left: 1.5rem;
+
+        &::before{
+            @include moretButtonBefore();
+            width: 3rem;
+        }
+        &::after{
+            @include moretButtonAfter();
+        }
     }
     &__foodCard{
-        display: flex;
-        // position: absolute;
+
+        &-container{
+            // display: flex;
+            // align-items: center;
+            // justify-content: center;
+            // max-width: (23.1rem *6 + 23.1rem/3);
+            width:85vw;
+            // overflow-x: auto;
+            // scroll-behavior: smooth;
+            padding-right: 19.5rem;
+            &--wrap{
+                display: flex;
+                // width: 200%;
+                overflow-x: hidden;
+                overflow-y: hidden;
+                 scroll-behavior: smooth;
+                
+            }
+        }
+        // height: 100%;
+        // overflow: hidden;
+        
+        &-outer{
+            // position: relative;
+            // overflow: hidden;
+            // display: flex;
+            // justify-content: flex-end; /* 使子元素靠右對齊 */
+        }
+        &--btn{
+            @include directionButton();
+        }
+        &--leftBtn{
+            @include leftButton();
+            // left: (-7.2rem /2);
+            
+            left: 31.5rem;
+            // top: 6.5rem;
+            bottom: 30rem;
+
+        }
+        &--rightBtn{
+            @include rightButton();
+            right: (7.2rem /2);
+            // right:20%;
+            bottom: 10rem;
+        }
     }
 }
 .accommodation{
-    margin-top: 20rem;
+    margin-top: 12.7rem;
+    @include flexCenter();
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    &::after{
+        content: '';
+        height: 72.8rem;
+        width: 100%;
+        background-color: $color-tertiary;
+        border-radius: 40%;
+        position: absolute;
+        top: 34rem;
+        z-index: -1;
+    }
     
+    &__card{
+        // display: flex;
+        @include flexCenter();
+        & > div:not(:last-child){
+            margin-right: 3rem;
+        }
+        & > div:nth-child(even){
+            transform: translateY(3rem);
+        }
+    }
+  
+    &__btn{
+        @include moretButton();
+        margin-bottom: 6.8rem;
+        margin-top: 9.8rem;
+        position: relative;
+        padding-left: 1.5rem;
+
+        &::before{
+            @include moretButtonBefore();
+            width: 3rem;
+        }
+        &::after{
+            @include moretButtonAfter();
+        }
+    }
 }

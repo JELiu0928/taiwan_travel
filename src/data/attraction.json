@@ -1,0 +1,3468 @@
+{
+    "value": [
+        {
+            "AttractionID": "Attraction_345040000G_020021",
+            "AttractionName": "林後四林平地森林園區",
+            "AlternateNames": [],
+            "Description": "「林後四林平地森林園區」位處屏東縣潮州鎮，為政府愛台12建設─綠色造林計畫中，所評選出三處平地森林園區的地點之一。園區期望運用森林遊憩結合綠色造林的概念，搭配符合生態、節能、減碳、健康的低密度、綠建築設計，創造一個能作為環境教育的完整生態體系，教導民眾及學童對資源環境的尊重、對生態的概念及對生活的態度；並融合屏東當地的環境特色、歷史文化、地方產業，帶動屏東地區的發展，促進區域的經濟效益並提昇傳統農業生產的價值，打造出具地方特色、導向之多元生態的知性園區，發展生態教學及深度旅遊的遊憩型態，達到綠色造林的價值。",
+            "PositionLat": 22.5386889641441,
+            "PositionLon": 120.590405980885,
+            "Geometry": null,
+            "AttractionClasses": [
+                17
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］西部路線：一般開車路線可沿國道1號接快速道路88 號，或由國道3號南州交流道下，接省道一號轉屏185甲縣道即可抵達。［開車前往］東部路線：東部地區旅客，可由基地東側沿山公路走185 縣道即可抵達基地南側。［大眾運輸］605公車(潮州轉運站<-->水門轉運站)：行駛路線：潮州轉運站-->林後四林-->金石咖啡休閒農場-->排灣-->休閒農場-->佳義國小-->銘泉農場-->涼山遊憩區-->水門轉運站查詢網址:https://www.ksbus.com.tw/bus_info.asp?id=238",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forest/FP?typ_id=06001",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Forest/FP/photo/06001/01/%E6%9E%97%E5%BE%8C%E5%9C%92%E5%8D%80%E5%B0%8E%E8%A6%BD%E5%9C%B0%E5%9C%96-A4-%E4%B8%AD.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "屏東縣",
+                "CityCode": "10013",
+                "Town": "潮州鎮",
+                "TownCode": "10013020",
+                "ZipCode": "920",
+                "StreetAddress": "潮義路221之1"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(08)7813529",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "林後四林平地森林園區裝置藝術",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/03_BASE_03.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "自行車道",
+                    "Description": "照片提供｜羅國文",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/05_%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%81%93-%E7%BE%85%E5%9C%8B%E6%96%87%E6%8F%90%E4%BE%9B.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "生態池",
+                    "Description": "照片提供｜林聖陽",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06_%E7%94%9F%E6%85%8B%E6%B1%A0-%E6%9E%97%E8%81%96%E9%99%BD%E6%8F%90%E4%BE%9B.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "夕陽餘暉 窗裡窗外",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E5%A4%95%E9%99%BD%E9%A4%98%E6%9A%89%E2%97%8F%E7%AA%97%E8%A3%A1%E7%AA%97%E5%A4%96.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "我是燕?喔",
+                    "Description": "照片提供｜曾珈珥",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E6%88%91%E6%98%AF%E7%87%95%E9%B4%B4.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "標準燕型",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E6%A8%99%E6%BA%96%E7%87%95%E5%9E%8B.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "無患子-冬",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E7%84%A1%E6%82%A3%E5%AD%90-%E5%86%AC.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "猜猜我是誰",
+                    "Description": "照片提供｜曾珈珥",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E7%8C%9C%E7%8C%9C%E6%88%91%E6%98%AF%E8%AA%B0.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "看我翱翔",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E7%9C%8B%E6%88%91%E7%BF%B1%E7%BF%94.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "看我飛",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E7%9C%8B%E6%88%91%E9%A3%9B.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "遠山近水",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E9%81%A0%E5%B1%B1%E8%BF%91%E6%B0%B4.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "遠眺山景",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E9%81%A0%E7%9C%BA%E5%B1%B1%E6%99%AF.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "鳥在林中.下金蛋",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E9%B3%A5%E5%9C%A8%E6%9E%97%E4%B8%AD.%E4%B8%8B%E9%87%91%E8%9B%8B.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "鳥兒望山",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_%E9%B3%A5%E6%9C%9B%E5%B1%B1.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "飛行中的燕?",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_5-1-1.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏秋",
+                    "Description": "照片提供｜李峻維",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_5-1-5.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "流水平沙",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_DSC_0243%E4%BF%AE%E6%94%B9.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "燕?的飛行姿態",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_0729.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "自行車道",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_0737.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "鷺群",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_1189.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "毛西番蓮開花了",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_1240.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "倒地鈴",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_1241.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "藍天下的自行車道",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_2269.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林中精靈",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_4006.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]預備，跑",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5006.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]炭化爐展示-食",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5038.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]炭化爐展示-衣",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5039.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]炭化爐展示-住",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5040.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]集體藝術創作-聚",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5049.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]親子DIY-無患小人",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5061.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]大手小手DIY",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5062.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]野餐去",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5075.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]親子DIY-稻草人",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5084.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]滿足",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5086.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]親子DIY-民俗植物相框",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5114.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]野餐，趣",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5137.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]藝術品創作評比",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5161.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]藝術品創作解說",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5169.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0607開園暖場活動]藝術家創作解說",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5180.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "雨後，彩虹從大武山來",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5186.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "暮",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5194.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]原住民傳統祈福儀式",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5195.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]樂遊林後",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5224.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]做稻草人真好玩",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5279.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大武山下，窗裡窗外",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5295.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]親子DIY-民俗植物相框",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5304.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]有獎徵答",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5305.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]親子DIY-拓印",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5312.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]不要搶我的稻草啦",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5333.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]你說什麼？",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5373.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]舞台表演野餐區",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5405.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "展示室",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5416.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]祈願竹炭片",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5432.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0608開園暖場活動]我是DIY達人",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5437.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "二峰圳解說牌",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5656.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "迎賓大道竹棚",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5663.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]給你一個微笑",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5669.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]為大家服務的志工團隊",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5678.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]鐵馬GOGOGO",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5711.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]騎鐵馬不畏風雨",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5720.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]摸彩兌獎",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5779.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]二峰圳體驗",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5787.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]炭化爐展示",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5866.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]炭化爐展示-竹炭祈福卡",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5869.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]阿禮古謠傳唱隊演出",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5940.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]行政院江宜樺院長、院長夫人及農委會陳保基主委蒞臨",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5968.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]感謝各級長官蒞臨指導",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5992.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]熱情參與的民眾",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5993.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]國寶謝水能大師演奏鼻笛",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5994.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]行政院江宜樺院長偕同夫人觀賞演出",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5996.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]阿禮部落包基成頭目獻上祝福詞",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5997.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]泰武國小古謠傳唱隊演出",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_5998.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]行政院江宜樺院長暨各級長官為二峰圳進行啟用儀式",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6011.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]行政院江宜樺院長暨各級長官為園區種下希望之樹",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6023.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0614開園]行政院江宜樺院長暨各級長官為裝置藝術作品「聚」留下簽名",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6141.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0615開園系列活動]祈願-一個竹炭片一個願望",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6165.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "[0615開園系列活動]稻草捲",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6196.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "工作假期的馬要把我載去哪裡？",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6204.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "彎腰收割",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6205.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "滿載而歸",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6206.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "生態賞鳥",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6212.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "二峰圳解說",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6244.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "自然之道",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6280.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "我們是好朋友喔",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6304.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "夕陽西下",
+                    "Description": "照片提供｜屏東分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001_PHOTO_IMG_6496.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區水塘",
+                    "Description": "照片提供｜蔡耀文",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001202407160.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森林舞台",
+                    "Description": "照片提供｜洪國棟",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001202407161.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "無患子林及竹構藝術",
+                    "Description": "照片提供｜洪國棟",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001202407163.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "北大武山",
+                    "Description": "照片提供｜洪國棟",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/06001202407164.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "二峰圳-許文鄉提供",
+                    "Description": "照片提供｜許文鄉",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/06001/08_%E4%BA%8C%E5%B3%B0%E5%9C%B3-%E8%A8%B1%E6%96%87%E9%84%89%E6%8F%90%E4%BE%9B.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "林後四林平地森林園區",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/linhousihlin",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "林務局林後四林平地森林園區3分鐘影片",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/IrxTbUF7THc",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_020022",
+            "AttractionName": "大農大富平地森林園區",
+            "AlternateNames": [],
+            "Description": "「大農大富平地森林園區」位於花蓮縣光復鄉，地處花東縱谷，兩側是中央山脈與海岸山脈。從縱谷一路南下，約莫到了中段，過花蓮糖廠煙囪，緊接著就是一大片連綿不絕的森林。森林的外圍，有多元民族共同書寫的歷史。台灣是一座處處森林的美麗島嶼，但數百年的開發讓原始森林退出平野。21世紀開始，林務局積極推動平地造林，十年樹木，花蓮人擁有了全國第一座平地森林--大農大富平地森林園區。位於中央山脈與海岸山脈之間，1,250公頃的園區，相當於48座大安森林公園，可說是名副其實的超級吸碳造氧機。這裡種了近20種，逾百萬株低海拔常見的樹種，好看、好用，與人類的生活息息相關。涵養大地，供應人類與其他動物日常所需，它們的丰姿、色彩，是大地最美的一頁詩篇。整體大農大富平地森林園區的規劃以結合周邊農業、城鄉文化、社區營造及環境教育等產業與資源，打造符合生態、節能、減碳、健康導向的規劃與設計，企圖形成多元知性旅遊場域，且與縱谷內遊憩景點連線，提供優質遊憩服務，同時希冀可為平地森林、在地生態景觀、地方居民生活、國人身心健康與環境產業的永續再創新機。",
+            "PositionLat": 23.615172797937,
+            "PositionLon": 121.414621516005,
+            "Geometry": null,
+            "AttractionClasses": [
+                17
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］西部路線：一般開車由國道五號經雪山隧道到蘇澳，行駛臺9線至花蓮光復，在240.8公里處轉入大農路即可到達。［開車前往］東部路線：東部地區旅客行駛台9線在240.8公里處轉入大農路即可到達。［大眾運輸］搭乘火車：遊客可搭乘台灣鐵路東部幹線至鄰近園區之大富火車站(距離園區約2.5公里)，再步行進入園區。惟該站目前為無人服務之車站，停靠之班次少。另可搭乘至光復火車站，再轉搭乘計程車進入園區。［大眾運輸］搭乘客運：目前園區無客運抵達。可搭乘花蓮客運至光復火車站，再轉搭乘計程車進入園區。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forest/FP?typ_id=08001",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Forest/FP/photo/08001/01/2024%E5%A4%A7%E8%BE%B2%E5%A4%A7%E5%AF%8C%E6%91%BA%E9%A0%81%E5%9C%B0%E5%9C%96-%E6%96%B0%E7%89%88-%E6%AD%A3%20(1).jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "花蓮縣",
+                "CityCode": "10015",
+                "Town": "光復鄉",
+                "TownCode": "10015070",
+                "ZipCode": "976",
+                "StreetAddress": "農場路32號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)8700870",
+                    "Ext": 9
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "大農大富平地森林園區春節花海",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/01_%E5%A4%A7%E8%BE%B2%E5%A4%A7%E5%AF%8C%E5%B9%B3%E5%9C%B0%E6%A3%AE%E6%9E%97%E5%9C%92%E5%8D%80%E6%98%A5%E7%AF%80%E8%8A%B1%E6%B5%B72.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大農大富空拍-花海與日地",
+                    "Description": "照片提供｜道綺",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/03_20140206%20%E7%85%A7%E7%89%87-%E5%A4%A7%E8%BE%B2%E5%A4%A7%E5%AF%8C%E7%A9%BA%E6%8B%8D-%E8%8A%B1%E6%B5%B7%E8%88%87%E6%97%A5%E5%9C%B0%EF%BC%88%E9%81%93%E7%B6%BA%E6%8B%8D%E6%94%9D%EF%BC%89-21.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大農大富平地森林園區春節花海",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/04_BASE_01.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大農大富平地森林園區自行車道",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/05_BASE_02.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "螢火蟲",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08_%E8%9E%A2%E7%81%AB%E8%9F%B2-3.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "遊客中心",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "平地森林園區內環頸雉",
+                    "Description": "照片提供｜邱建福",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_%E7%92%B0%E9%A0%B8%E9%9B%89-%E9%82%B1%E5%BB%BA%E7%A6%8F.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "平地森林園區內環頸雉",
+                    "Description": "照片提供｜道綺全球傳播公司",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_%E7%92%B0%E9%A0%B8%E9%9B%89_004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "七彩釣竿橋",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO__MG_4125.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "圖騰花海",
+                    "Description": "照片提供｜道綺全球傳播",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_1.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "花海油菜花田",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_2.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "2014年圖騰花海",
+                    "Description": "照片提供｜花蓮分署陳美彤",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_2014.1.28%E5%A4%A7%E8%BE%B2%E5%A4%A7%E5%AF%8C%E8%8A%B1%E6%B5%B7-%E5%9C%96%E9%A8%B0%E8%8A%B1%E6%B5%B7.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "2014年空拍大農大富平地森林園區",
+                    "Description": "照片提供｜道綺全球傳播公司",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_20140206%E8%8A%B1%E6%B5%B7%E8%88%87%E6%97%A5%E5%9C%B0.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "2014年空拍圖騰花海",
+                    "Description": "照片提供｜道綺全球傳播公司",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_20140206%E8%8A%B1%E6%B5%B7%E8%88%87%E6%97%A5%E5%9C%B006%E5%B0%8F%E6%AA%94.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森林自行車道",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_29-6.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "熱氣球活動照",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_IMG_0024.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "雨後森林自行車道",
+                    "Description": "照片提供｜花蓮分署王元均",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001_PHOTO_IMG_7060.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大農大富平地森林園區春節花海-1",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001202109270.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大農大富春節花海",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forest/FP/photo/album/08001/08001202202240.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "大農大富平地森林園區",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/MASADIFOREST/",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "豐美綠境－大農大富平地森林園區",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/kpH0IkCT6Tg",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030023",
+            "AttractionName": "奧萬大自然教育中心",
+            "AlternateNames": [],
+            "Description": "嬉遊在繽紛多彩的松楓林，透過身歷其境的活動，感受自然的脈動，體驗森林多功能價值，了解山林與文明的連結。奧萬大自然教育中心位於奧萬大國家森林遊樂區內，全區屬狹谷地形，為多條溪流匯集處，四面環山，「春櫻、夏瀑、秋月、冬楓」四季皆美，且是野生物良好的棲息環境。奧萬大吊橋可遠眺溪谷之美及能高南峰，是園區最佳賞景攬勝之處。",
+            "PositionLat": 23.9536448892615,
+            "PositionLon": 121.179026687262,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］國道三號：霧峰系統交流道→國道六號埔里端左轉台14→霧社→右轉投83線→奧萬大。［開車前往］路線一：南下路線：國道一號南下彰化系統交流道(193K)→國道三號→霧峰系統交流道(214K)→國道六號埔里端→左轉台14→霧社→右轉投83線→奧萬大。［開車前往］路線二：北上路線：國道一號北上經東西向快速道路(例如台78、82、84)→國道三號→霧峰系統交流道(214K)→國道六號埔里端→左轉台14→霧社→右轉投83線→奧萬大。［大眾運輸］南投客運奧萬大賞楓專車：於賞楓旺季期間(10月至隔年3月底)之星期六日，由南投客運干城站發車採預約訂位(站牌與時刻表資訊:http://www.ntbus.com.tw/bs-tour.html)訂位專線049-2984031分機29 林小姐。台中干城站：台中市雙十路一段35-8號。高鐵台中站：高鐵站區一樓五號出口。［大眾運輸］南投客運DRTS：每日以九人座行駛固定班次，採預約訂位適合清境等周邊景點(站牌與時刻表資訊: http://www.ntbus.com.tw/bs-tour.html)，資訊請洽南投客運049-2984031分機29。搭乘火車(台中站)及高鐵(台中站)遊客，可搭乘「南投客運」往清境，或先搭乘往埔里再轉搭往清境至霧社下車後再站轉乘DRTS。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=AWD",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/AWD/02/AWD_awd-lst-amil.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "南投縣",
+                "CityCode": "10008",
+                "Town": "仁愛鄉",
+                "TownCode": "10008130",
+                "ZipCode": "546",
+                "StreetAddress": "親愛村大安路153號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(049)2974499",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "學生課程活動照片",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/01_%E6%B4%BB%E5%8B%95%E7%85%A7%E7%89%873.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "活動照片",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/02_%E6%B4%BB%E5%8B%95%E7%85%A7%E7%89%874.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森林調查",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/03_%E6%A3%AE%E6%9E%97%E8%AA%BF%E6%9F%A52.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "低階探索",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/04_%E4%BD%8E%E9%9A%8E%E6%8E%A2%E7%B4%A2%20(1).JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "低階探索",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/05_%E4%BD%8E%E9%9A%8E%E6%8E%A2%E7%B4%A2.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "自然教育中心中心外觀",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/06_%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E5%A4%96%E8%A7%801.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "天空",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/07_%E5%A4%A9%E7%A9%BA.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "松林區",
+                    "Description": "照片提供｜奧萬大自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/AWD/08_%E6%9D%BE%E6%9E%97%E5%8D%80.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "奧萬大自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/AWDNC",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "奧萬大自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.instagram.com/awd_nature_center/",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "奧萬大自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/iM4TAkWaCb0",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030024",
+            "AttractionName": "八仙山自然教育中心",
+            "AlternateNames": [],
+            "Description": "穿越林場歷史看山、水、林、人的變遷脈絡，深入八仙山體驗蟲、魚、鳥、獸的變幻萬千。八仙山國家森林遊樂區早期為八仙山林場，曾與太平山及阿里山林場併稱台灣三大林場。八仙山因主峰海拔2,366公尺，折算為8,000台尺之日文讀音而得名。區內群山環繞，林相多變，加上雨量充沛，孕育出豐富精采的森林資源，貫穿全區的十文溪及佳保溪刻畫出廣闊的河階台地景觀。",
+            "PositionLat": 24.1990533361056,
+            "PositionLon": 121.002283813089,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］國道一號：國道1號→國道4號(往豐原、東勢)→臺3線左轉，往東勢方向→經東勢大橋右轉進入臺8線、往谷關→經和平→臺8線33K至篤銘橋右轉→至八仙山森林遊樂區［大眾運輸］搭乘客運（平日）：車次：豐原客運153路(市政中心-谷關)、153副(臺中高鐵站-谷關)、207路(豐原-谷關)、266路(東勢-谷關)。搭乘方式：台中、豐原搭乘豐原客運往谷關班車，於佳保臺站下車步行約1公里即可達收費站，入園後沿林道步行約5公里可至遊客服務中心。 ［大眾運輸］搭乘客運（假日）：車次：豐原客運269路(谷關-八仙山森林遊樂區)。班次：早上下午各一班，谷關（10：40、14：20 ） 、八仙山（10：55、14：35）。註：到收費站下車買票，繼續搭車上山。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=BSS",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/BSS/02/0300002.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "臺中市",
+                "CityCode": "66000",
+                "Town": "和平區",
+                "TownCode": "66000290",
+                "ZipCode": "424",
+                "StreetAddress": "東關路一段200之8號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(04)25950299",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "管處志工水生植物研習暨生態池清理",
+                    "Description": "照片提供｜莉雯",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/BSS/01_20140413_%E7%AE%A1%E8%99%95%E5%BF%97%E5%B7%A5%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E7%A0%94%E7%BF%92%E6%9A%A8%E7%94%9F%E6%85%8B%E6%B1%A0%E6%B8%85%E7%90%86_%E8%8E%89%E9%9B%AF-35.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "落櫻繽紛賞鳥樂新聞稿照片",
+                    "Description": "照片提供｜八仙山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/BSS/02_%E8%90%BD%E6%AB%BB%E7%B9%BD%E7%B4%9B%E8%B3%9E%E9%B3%A5%E6%A8%82%E6%96%B0%E8%81%9E%E7%A8%BF%E7%85%A7%E7%89%87%20(3).JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生進行課程",
+                    "Description": "照片提供｜八仙山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/BSS/03_IMG_1265.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "八仙山自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/BSSNC.tw",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030025",
+            "AttractionName": "觸口自然教育中心",
+            "AlternateNames": [],
+            "Description": "接觸淺山生態的窗口，開啟人與林業的對話，實踐友善環境綠生活。位於嘉義縣番路鄉省道台18線上，是前往阿里山國家森林遊樂區必經之路，距離嘉義市區僅約20分鐘車程，交通便利。中心所在地為南區樹木銀行，亦為觸口工作站，區內有多棵珍貴老樹、漂流木存放區、生態水道、黃金級綠建築之綠意館等，凸顯人類與自然共處的和諧。",
+            "PositionLat": 23.4531676010768,
+            "PositionLon": 120.559498197095,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］位於省道台18號公路29.5K處，從國道1號接東西向82號快速道路，轉接國道3號於中埔交流道下，往阿里山方向沿省道台18號公路約20分鐘即抵達。［大眾運輸］搭乘嘉義縣公車：搭乘嘉義至阿里山、達邦、奮起湖線，在五虎寮站下車即可到達；班次資訊查詢：(05)2788177。［大眾運輸］搭乘嘉義客運：嘉義至觸口線，在五虎寮站下車即可到達；班次資訊查詢：(05)2750895轉289。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=CK",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/CK/02/ck_routeS.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "嘉義縣",
+                "CityCode": "10010",
+                "Town": "番路鄉",
+                "TownCode": "10010160",
+                "ZipCode": "602",
+                "StreetAddress": "新福村1鄰五虎寮18號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(05)2590211",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2593035",
+                    "Ext": 610
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "戶外教學-大樹好朋友",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/02_%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8-%E5%A4%A7%E6%A8%B9%E5%A5%BD%E6%9C%8B%E5%8F%8B.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "戶外教學-沃特(water)奇遇記",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/03_%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8-%E6%B2%83%E7%89%B9(water)%E5%A5%87%E9%81%87%E8%A8%98.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "戶外教學-森林總動員",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/04_%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8-%E6%A3%AE%E6%9E%97%E7%B8%BD%E5%8B%95%E5%93%A1.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "主題活動-來觸口住一晚",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/05_%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E4%BE%86%E8%A7%B8%E5%8F%A3%E4%BD%8F%E4%B8%80%E6%99%9A.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "戶外教學-賽恩斯行動",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/06_%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8-%E8%B3%BD%E6%81%A9%E6%96%AF%E8%A1%8C%E5%8B%95.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "戶外教學-特派任務",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/07_%E6%88%B6%E5%A4%96%E6%95%99%E5%AD%B8-%E7%89%B9%E6%B4%BE%E4%BB%BB%E5%8B%99.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "主題活動-美麗的蟹逅",
+                    "Description": "照片提供｜觸口自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/08_%E4%B8%BB%E9%A1%8C%E6%B4%BB%E5%8B%95-%E7%BE%8E%E9%BA%97%E7%9A%84%E8%9F%B9%E9%80%85.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "綠意館外觀",
+                    "Description": "照片提供｜游鏡騰",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CK/CK.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "觸口自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/cycknc",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "觸口自然教育中心n",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/2t2HWO8fEbQ",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030026",
+            "AttractionName": "池南自然教育中心",
+            "AlternateNames": [],
+            "Description": "走進洄瀾林業時光森林，體驗低海拔森林山水之美，實踐友善環境生活。位於池南國家森林遊樂區內，介於中央山脈與海岸山脈之間的斷層谷地中，鄰近的鯉魚山林相完整，加上鯉魚潭水域環境，孕育豐富動植物生態資源。該區早期是木材生產轉運站，隨處可見過去林木生產的歷史痕跡，感受未曾褪去的林業記憶。",
+            "PositionLat": 23.918392673553,
+            "PositionLon": 121.50153951887,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=CN",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/CN/02/CN_%E5%9C%B0%E5%9C%9601%E5%B0%8D%E5%A4%96%E4%BA%A4%E9%80%9A%E8%B7%AF%E7%B7%9A%E5%9C%962.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "花蓮縣",
+                "CityCode": "10015",
+                "Town": "壽豐鄉",
+                "TownCode": "10015060",
+                "ZipCode": "974",
+                "StreetAddress": "池南村林園路65號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)8641594",
+                    "Ext": 15
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "學生校外教學",
+                    "Description": "照片提供｜池南自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CN/01_%E6%B1%A0%E5%8D%97%E8%87%AA%E7%84%B6%E4%B8%AD%E5%BF%832.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生夾球合作課程",
+                    "Description": "照片提供｜池南自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CN/02_%E6%B1%A0%E5%8D%97%E8%87%AA%E7%84%B6%E4%B8%AD%E5%BF%835.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "植物辨識課程",
+                    "Description": "照片提供｜池南自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CN/03_%E6%B1%A0%E5%8D%97%E8%87%AA%E7%84%B6%E4%B8%AD%E5%BF%834.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "室內中心課程教學",
+                    "Description": "照片提供｜池南自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/CN/04_%E6%B1%A0%E5%8D%97%E8%87%AA%E7%84%B6%E4%B8%AD%E5%BF%831.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "池南自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/ChihnanNatureCenter",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030027",
+            "AttractionName": "東眼山自然教育中心",
+            "AlternateNames": [],
+            "Description": "在雪山山脈尾稜的柳杉林裡，在真實的環境學習中，創造「人與人」、「人與環境」、「人與社會」之對話。東眼山自然教育中心位於東眼山國家森林遊樂區內，屬石門水庫集水區範圍，為雪山山脈西稜之一部份，山形恰似人倒臥的側臉，清晨日出由側臉眼窩的位置升起，因而得名。森林組成兼具整齊優美的人工林及豐富多樣的天然林，還有三千萬年前蝦蟹留下的生痕化石，及其他海相沈積等地質景觀。",
+            "PositionLat": 24.8250176374241,
+            "PositionLon": 121.417557571084,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：大溪交流道→省道台七線→復興→桃119縣道→東眼山國家森林遊樂區，遊覽車車程約80分鐘。［開車前往］路線二：三鶯交流道→大埔→省道台七乙線→三民→省道台七線→復興→桃119縣道→東眼山國家森林遊樂區，遊覽車車程約90分鐘。［開車前往］路線三：三鶯交流道→大埔→省道台七乙線→北114縣道→北113縣道→東眼山國家森林遊樂區，車程約80分鐘。【北113縣道僅限小客車通行】［大眾運輸］搭乘客運：從大溪區公所對面搭乘桃園免費公車L807線「東眼山二線」，於終點站東眼山森林遊樂區下車(車程約2小時)。由大溪區公所往東眼山森林遊樂區發車時間：06:30、15:00；由東眼山森林遊樂區往大溪區公所發車時間：08:30、17:00。其他乘車資訊可洽東眼山遊樂區(03-3821506)、桃園客運(0800-053808)。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=DYS",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/DYS/02/DYS_%E5%91%A8%E9%82%8A%E6%AD%A5%E9%81%93%E5%9C%96_%E5%8E%9F%E5%9C%96.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "桃園市",
+                "CityCode": "68000",
+                "Town": "復興區",
+                "TownCode": "68000130",
+                "ZipCode": "336",
+                "StreetAddress": "霞雲里成福路600號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)3821533",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "學生漫步於園區步道",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/01_DYS.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "東眼山自然教育中心照片",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/02_%E6%9D%B1%E7%9C%BC%E5%B1%B1%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E7%85%A7%E7%89%87.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "自然教育中心外夕陽",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/03_%E8%87%AA%E7%84%B6%E4%B8%AD%E5%BF%83%E5%A4%96%E5%A4%95%E9%99%BD.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "利用低空平面探索設施培養學員的團隊精神",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/04_%E3%80%90%E6%9D%B1%E5%BF%8D%E5%AD%B8%E5%A0%82%E4%B9%8B%E6%A3%AE%E6%9E%97%E4%BF%AE%E7%85%89%E5%B8%96%E3%80%91%E5%88%A9%E7%94%A8%E4%BD%8E%E7%A9%BA%E5%B9%B3%E9%9D%A2%E6%8E%A2%E7%B4%A2%E8%A8%AD%E6%96%BD%E5%9F%B9%E9%A4%8A%E5%AD%B8%E5%93%A1%E7%9A%84%E5%9C%98%E9%9A%8A%E7%B2%BE%E7%A5%9E.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生學習地圖判讀",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/05_%E3%80%90%E6%A3%AE%E6%9E%97%E8%B6%B4%E8%B6%B4%E8%B5%B0%E3%80%91%EF%BC%8D%E5%AD%B8%E7%94%9F%E5%AD%B8%E7%BF%92%E5%9C%B0%E5%9C%96%E5%88%A4%E8%AE%80.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生觀察樹爺爺後，將大樹的外表與特徵紀錄在紀錄單上",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/06_%E3%80%90%E6%A3%AE%E6%9E%97%E5%BE%B5%E4%BF%A1%E7%A4%BE%E3%80%91%EF%BC%8D%E5%AD%B8%E7%94%9F%E8%A7%80%E5%AF%9F%E6%A8%B9%E7%88%BA%E7%88%BA%E5%BE%8C%EF%BC%8C%E5%B0%87%E5%A4%A7%E6%A8%B9%E7%9A%84%E5%A4%96%E8%A1%A8%E8%88%87%E7%89%B9%E5%BE%B5%E7%B4%80%E9%8C%84%E5%9C%A8%E7%B4%80%E9%8C%84%E5%96%AE%E4%B8%8A.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "東眼山自然教育中心教室",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/07_DSC08841_%E5%89%AF%E6%9C%AC.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "東眼山自然教育中心外座椅",
+                    "Description": "照片提供｜東眼山自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/DYS/08_DSC08860_%E5%89%AF%E6%9C%AC.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "東眼山自然教育中心－環境教育/戶外學習",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/DYSNEC/",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "東眼山自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.instagram.com/dys.forest.learning.center/",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "東眼山自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.youtube.com/@dys.forest.learning.center",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030028",
+            "AttractionName": "知本自然教育中心",
+            "AlternateNames": [],
+            "Description": "在知本的熱帶季風林裡遇見多樣的文化與自然生態，在溫泉的縷縷輕煙中看見生．活．美．學。知本國家森林遊樂區屬熱帶季風氣候，主要代表性植物是榕樹、茄苳及藤本植物，演化出熱帶植物特有的纏勒、絞殺等現象，白榕氣根形成的「千根榕」自然奇景，亦是知本重要的「地標」。區內建築以融入地景為設計原則，同時包容臺東多元民族的文化，呈現自然與人文的融合。",
+            "PositionLat": 22.6871678139608,
+            "PositionLon": 120.992126290285,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線說明：台東→11號省道→知本→樂山產業道路(東58線)→循知本溫泉指標即可到達。［大眾運輸］搭乘客運：台東市或知本火車站搭乘鼎東客運（山線http://ett333023.com.tw/page3.htm）至內溫泉站下車，往知本國家森林遊樂區方向步行約300公尺即可抵達（每日約10班次）。鼎東客運查詢電話：089-328269。［大眾運輸］出租摩托車：遊客亦可搭乘台鐵南迴線至知本火車站下車，再租騎摩托車往知本溫泉方向至知本國家森林遊樂區(騎機車約15分鐘)。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=JB",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/JB/02/JB_0700001.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "臺東縣",
+                "CityCode": "10014",
+                "Town": "卑南鄉",
+                "TownCode": "10014040",
+                "ZipCode": "954",
+                "StreetAddress": "溫泉村龍泉路290號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(089)510961",
+                    "Ext": 18
+                },
+                {
+                    "Tel": "(089)510961",
+                    "Ext": 21
+                },
+                {
+                    "Tel": "(089)510961",
+                    "Ext": 22
+                },
+                {
+                    "Tel": "(089)510961",
+                    "Ext": 23
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "體驗設施(鯨魚船)",
+                    "Description": "照片提供｜知本自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/JB/01_A7-%E9%AB%94%E9%A9%97%E8%A8%AD%E6%96%BD(%E9%AF%A8%E9%AD%9A%E8%88%B9)1.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "動物偵探社",
+                    "Description": "照片提供｜知本自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/JB/02_SP0406-%E5%8B%95%E7%89%A9%E5%81%B5%E6%8E%A2%E7%A4%BE2.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "小觀察．大發現",
+                    "Description": "照片提供｜知本自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/JB/03_TA0412-%E5%B0%8F%E8%A7%80%E5%AF%9F%EF%BC%8E%E5%A4%A7%E7%99%BC%E7%8F%BE3.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "知本自然教育中心大門",
+                    "Description": "照片提供｜知本自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/JB/04_M16_3505.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "教室外觀照",
+                    "Description": "照片提供｜知本自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/JB/05_M16_3514.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "知本跑跳碰",
+                    "Description": "照片提供｜知本自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/JB/06_TA0404-%E7%9F%A5%E6%9C%AC%E8%B7%91%E8%B7%B3%E7%A2%B01.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "知本自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/Jhihbencenter",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030029",
+            "AttractionName": "羅東自然教育中心",
+            "AlternateNames": [],
+            "Description": "乘著百年鐵道走進林業文化，踏訪蘭陽青山綠水，我們在城市中與自然一起生活。位於羅東林業文化園區內，是早期林產業興盛時期太平山林場的重要轉運中心，日據時期的建築與產業遺址仍保留至今，包含運材火車、鐵道文物、竹林車站等，當時的貯木池如今則化身為生態池，水域與陸域環境構成多樣化的棲地，生物相十分豐富。",
+            "PositionLat": 24.6831755366078,
+            "PositionLon": 121.771892666844,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線說明：走北宜高速公路（國道五號）羅東出口，右轉接縣道196線，直行約5分鐘，過十字路口後穿過鐵路地下道，第一個紅綠燈右轉中正北路，直行約1分鐘即可抵達林業文化園區南停車場（林場肉羹斜對面），本停車場為收費停車場，停車費以小時計算。［大眾運輸］搭乘國道客運：首都客運『首都之星』：起訖點：台北市政府轉運站－羅東轉運站。於羅東站下車後，步行至萊爾富便利商店右轉直行至羅東火車站後站，穿越火車站至前站出口，直行至中正北路口右轉，沿中正北路直行約700公尺便可抵達羅東林業文化園區。步行時間約20分鐘。［大眾運輸］搭乘國道客運：葛瑪蘭客運：起訖點：板橋轉運站－台北轉運站－羅東轉運站。於羅東站下車後，步行至萊爾富便利商店右轉直行至羅東火車站後站，穿越火車站至前站出口，直行至中正北路口右轉，沿中正北路直行約700公尺便可抵達羅東林業文化園區。步行時間約20分鐘。［大眾運輸］搭乘國道客運：大都會客運『都會之星』：起訖點：捷運大坪林站－羅東轉運站。於羅東站下車後，步行至萊爾富便利商店右轉直行至羅東火車站後站，穿越火車站至前站出口，直行至中正北路口右轉，沿中正北路直行約700公尺便可抵達羅東林業文化園區。步行時間約20分鐘。［大眾運輸］搭乘國道客運：國光客運：起訖點：捷運圓山站－捷運南港展覽館站－羅東轉運站。於羅東站下車後，步行至萊爾富便利商店右轉直行至羅東火車站後站，穿越火車站至前站出口，直行至中正北路口右轉，沿中正北路直行約700公尺便可抵達羅東林業文化園區。步行時間約20分鐘。［大眾運輸］搭乘宜蘭縣內客運：國光客運：起訖點：頭城─南方澳線（路線編號：1766及1767），於「竹林站」下車後，轉林場路約步行3分鐘後即可抵達羅東林業文化園區。［大眾運輸］搭乘火車：羅東火車站前站出口，直行至中正北路口右轉，沿中正北路直行約700公尺便可抵達羅東林業文化園區。步行時間約10～15分鐘。詳情請至交通部台灣鐵路管理局網站查詢。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=LD",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/LD/02/LD_%E7%BE%85%E6%9D%B1%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BA%A4%E9%80%9A%E8%B7%AF%E7%B7%9A%E5%9C%96(%E6%AD%A3%E5%B8%B8%E7%89%88)-20140305%E4%BF%AE%E6%AD%A3.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "宜蘭縣",
+                "CityCode": "10002",
+                "Town": "羅東鎮",
+                "TownCode": "10002020",
+                "ZipCode": "265",
+                "StreetAddress": "中正北路118號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)9540823",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "鐵道之謎",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/01_%E9%90%B5%E9%81%93%E4%B9%8B%E8%AC%8E.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "濕地生態",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/02_%E6%BF%95%E5%9C%B0%E7%94%9F%E6%85%8B2.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "課程搬運木材",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/03_DSC_1944.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "池畔日誌",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/04_%E6%B1%A0%E7%95%94%E6%97%A5%E8%AA%8C%20(1).JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東自然教育中心大門",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/05_DSCN1911.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森動館",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/06_p3%E6%A3%AE%E5%8B%95%E9%A4%A8.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生課程活動",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/07_DSC_0680_%E5%90%9B.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "風車課程活動",
+                    "Description": "照片提供｜羅東自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/LD/08_P7276072.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "羅東自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/luodong",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_030030",
+            "AttractionName": "雙流自然教育中心",
+            "AlternateNames": [],
+            "Description": "穿梭熱帶季風林，順沿溪流訪瀑布，探索生態樂學習，看見土地與人永續共存。雙流國家森林遊樂區地處中央山脈與恒春半島之間的山區，內文溪貫穿其間，地形和水域多元的變化，造就兼具熱帶雨林、亞熱帶雨林、熱帶季風雨林、暖溫帶森林之複雜林相及多樣性物種等生態特色。此地亦為排灣族聚落之所在，區內仍可見該原住民族的人文遺蹟。",
+            "PositionLat": 22.2175313114158,
+            "PositionLon": 120.799386506335,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：國號3號南州交流道下→省道台17線→枋寮→楓港→省道台9線→全家便利商店前右轉，即可進入雙流國家森林遊樂區。［開車前往］路線二：台東→省道台9線→知本→太麻里→太武→過全家便利商店後左轉，即可進入雙流國家森林遊樂區。［大眾運輸］搭乘客運：從國光客運高雄站搭往台東的客運【1778】高雄－臺東，在雙流站下車(建議可直接與司機告知於雙流國家森林遊樂區路口處下車)，於全家便利商店轉入雙流路口，再步行350公尺即可到達。查詢電話：國光客運高雄站：0800-010-138",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/NC?typ_id=SL",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/NC/photo/SL/02/SL_%E8%AA%BF%E5%B0%8F%E9%9B%99%E6%B5%81%E5%9C%B0%E5%9C%96.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "屏東縣",
+                "CityCode": "10013",
+                "Town": "獅子鄉",
+                "TownCode": "10013320",
+                "ZipCode": "943",
+                "StreetAddress": "丹路村丹路2巷23號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(08)8701499",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "學生辨識植物",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/01_IMG_6166.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "一同去郊遊",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/02_%E4%B8%80%E5%90%8C%E5%8E%BB%E9%83%8A%E9%81%8A3.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生課程結束合照",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/03_DSCN4043.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "建立團隊默契",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/04_%E5%BB%BA%E7%AB%8B%E5%9C%98%E9%9A%8A%E9%BB%98%E5%A5%91.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "學生課程中合照",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/05_IMG_0501.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "生活智慧王",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/06_%E7%94%9F%E6%B4%BB%E6%99%BA%E6%85%A7%E7%8E%8B3.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "雙流FBI",
+                    "Description": "照片提供｜雙流自然教育中心",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/NC/Album/SL/07_%E9%9B%99%E6%B5%81FBI.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "雙流自然教育中心",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/SLNC123",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_100031",
+            "AttractionName": "羅東林業文化園區",
+            "AlternateNames": [],
+            "Description": "日據時代有三大官營林場：阿里山、八仙山以及太平山林場，其中太平山林場是比較晚開發的。羅東林業文化園區即為日治時期羅東出張所及貯木池舊址。自1982年太平山伐木終止至今大都維持原貌，林業保育署宜蘭分署於 2004年規劃此地為林業文化園區，經重新修整，融合林業歷史、生態永續之規劃設計，除恢復昔日林業文化風采外，更能彰顯太平山林業及羅東鎮發展的歷史地位。本園區於2012年以羅東林場舊稱，正式依文化資產保存法登錄為文化景觀。",
+            "PositionLat": 24.6844548111666,
+            "PositionLon": 121.77242424818,
+            "Geometry": null,
+            "AttractionClasses": [
+                2
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］南下路線：國道5號→羅東交流道下→右轉196縣道→進入羅東市區→過地下道→第一個紅綠燈右轉中正北路行約50公尺，右側即羅東林業文化園區。［開車前往］北上路線：國道5號→羅東交流道下→左轉196縣道→進入羅東市區→過地下道→至中正北路右轉後行約50公尺後，右側即羅東林業文化園區。［大眾運輸］搭乘火車：羅東火車站前站出口，直行至中正北路口右轉，沿中正北路直行約1000公尺可達(步行約20-25分鐘)。［大眾運輸］搭乘客運（路線一）：國道客運台北─羅東路線(首都客運及葛瑪蘭客運)：於羅東總站下車後，步行至火車站後站穿越至前站出口，直行至中正北路口右轉，沿中正北路直行約1000公尺可達。步行約20分鐘。［大眾運輸］搭乘客運（路線二）：省道客運頭城─南方澳線(國光號)：竹林站下車，轉林場路約3分鐘後可抵達園區入口。",
+            "ParkingInfo": "小型車：免收費，小型車:平日15元/半時，當日最高100元。入場未過10分鐘離場，不予收費。未滿1小時以1小時計。小型車：免收費，小型車:假日25元/半時，無當日最高。入場未過10分鐘離場，不予收費。未滿1小時以1小時計。大型車：免收費，大型車:平日30元/半小時(無當日最高)。入場未過10分鐘離場，不予收費。未滿1小時以1小時計。大型車：免收費，大型車:假日40元/半小時(無當日最高)。入場未過10分鐘離場，不予收費。未滿1小時以1小時計。",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/CP?typ_id=0100021",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/0100021/01/1130531-1-%E6%9E%97%E5%8B%99%E5%B1%80-%E5%A4%A7%E5%9C%B0%E5%9C%96%E5%85%A8-W121XH99-GW.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "宜蘭縣",
+                "CityCode": "10002",
+                "Town": "羅東鎮",
+                "TownCode": "10002020",
+                "ZipCode": "265",
+                "StreetAddress": "中正北路118號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)9544247",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "羅東林業文化園區",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/001.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "入口處台灣三大林場地圖",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森林、鐵道、小火車",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森活館-深山電影院",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/005.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森活館-圍爐取暖話家常",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/006.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "木雕廣場",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/008.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東林鐵展示區空拍",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/009.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東林業文化園區貯木池",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/01_BASE_01.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "場長宿舍",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/010.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東林業文化園區貯木池夕陽",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/02_BASE_02.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "貯木池旁步道",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/03_LDFCG_011.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "展示館車廂",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/04_P23.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林業展覽館",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/06_007.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東林業文化園區貯木池",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/07_%E7%BE%85%E6%9D%B1%E6%9E%97%E6%A5%AD%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80%E8%B2%AF%E6%9C%A8%E6%B1%A0.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東林業文化園區貯木池",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/08_%E7%BE%85%E6%9D%B1%E6%9E%97%E6%A5%AD%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80%E8%B2%AF%E6%9C%A8%E6%B1%A03.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林業鐵道軌跡",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/DSC_0038.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "貯木池",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/DSC_0274.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "羅東林業文化園區",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/DSC_1944.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區景色",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0100021/L1290991.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "羅東林業文化園區",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/lfcgexhibition",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "記憶的清香－羅東林業文化園區 ",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/t2AW_3i7dtM",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_100032",
+            "AttractionName": "東勢林業文化園區",
+            "AlternateNames": [],
+            "Description": "大雪山林區蘊藏豐富的林木資源，為妥善利用資源並創造經濟收益、帶動地方繁榮，民國45年起開始籌設「大雪山林業公司」，並於民國51年開始興建大製材廠，民國53年竣工，當時引進先進伐木及製材技術，創造臺灣示範性的林產工業，採用機械伐木、利用卡車運材，提高了效率與產量。大製材廠於民國53年5月26日落成啟用，歷經近10個輝煌歲月，由於美式鋸製器材不適用於省產原木，林木耗損量大，致提早結束大雪山林區之林木生產作業，並於62年12月底停止營運。",
+            "PositionLat": 24.2438288877854,
+            "PositionLon": 120.833449997229,
+            "Geometry": null,
+            "AttractionClasses": [
+                2
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］：國道１／國道３－轉國道４東西向－下豐原交流道往東勢方向約11公里。［大眾運輸］搭乘客運：搭乘豐原客運於「東勢林業文化園區站」下車，步行約1分鐘即可到達本園區。",
+            "ParkingInfo": "大型車：免收費，停車格數 14。小型車：免收費，小型車停車格數 58，無障礙停車格數 3。",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/CP?typ_id=0300021",
+            "ReservationURLs": [],
+            "MapURLs": [],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "臺中市",
+                "CityCode": "66000",
+                "Town": "東勢區",
+                "TownCode": "66000100",
+                "ZipCode": "423",
+                "StreetAddress": "東關路六段1368號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(04)25774146",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "木雕藝術殿堂",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/001.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "木雕藝術殿堂2",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/002.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大雪山林業公司-大製材廠",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "大雪山林業公司-大製材廠2",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "臺灣紅豆杉風倒木",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/005.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "東勢_觀景台",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/006.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "風雲際會",
+                    "Description": "照片提供｜朱碧瑩",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/01_106%E5%B9%B4-%E6%9C%B1%E7%A2%A7%E7%91%A9-%20%E9%A2%A8%E9%9B%B2%E9%9A%9B%E6%9C%83-%E4%BD%B3%E4%BD%9C.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "夏豔",
+                    "Description": "照片提供｜張連宏",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/02_106%E5%B9%B4-%E5%BC%B5%E9%80%A3%E5%AE%8F-%E5%A4%8F%E8%B1%94-%E4%BD%B3%E4%BD%9C.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "荷花之美",
+                    "Description": "照片提供｜張欽森",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/03_103%E5%B9%B4-%E4%BD%B3%E4%BD%9C2-%E8%8D%B7%E8%8A%B1%E4%B9%8B%E7%BE%8E-%E5%BC%B5%E6%AC%BD%E6%A3%AE.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "荷池倒影",
+                    "Description": "照片提供｜莊王震",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/04_106-%E8%8E%8A%E7%8E%8B%E9%9C%87-%E8%8D%B7%E6%B1%A0%E5%80%92%E5%BD%B1-%E4%BD%B3%E4%BD%9C.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "荷塘戲水",
+                    "Description": "照片提供｜劉祐裮",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/05_103%E5%B9%B4-%E4%BD%B3%E4%BD%9C12-%E8%8D%B7%E5%A1%98%E6%88%B2%E6%B0%B4-%E5%8A%89%E7%A5%90%E8%A3%AE.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林屋倒影",
+                    "Description": "照片提供｜劉張美紅",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/06_104%E5%B9%B4-%E5%84%AA%E5%8B%9D2-%E5%8A%89%E5%BC%B5%E7%BE%8E%E7%B4%85-%E6%9E%97%E5%B1%8B%E5%80%92%E5%BD%B1.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "貯木池＆垂柳",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/07_%E8%B2%AF%E6%9C%A8%E6%B1%A0%EF%BC%86%E5%9E%82%E6%9F%B3.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "燃料倉",
+                    "Description": "照片提供｜臺中分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0300021/08_%E7%87%83%E6%96%99%E5%80%89.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "東勢林業文化園區",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/DongshihForestryCulturePark",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_100033",
+            "AttractionName": "林田山林業文化園區",
+            "AlternateNames": [],
+            "Description": "隱身花蓮鳳林的林田山，舊稱摩里沙卡(MORISAKA-即日語\"森坂\"發音)，光復後改稱森榮，是台灣遺留下來最完整、最具特色的伐木基地，無論規模或重要性，都是\"台灣林業開發史\"上最重要的據點與見證。早於日據時期，日本人在林場範圍內萬里溪發現溫泉，於是將泉水引出 修建旅社經營管理，到民國28年開始探採紙漿原料，開啟了林業之始。在1960年代伐木的全盛時期，林田山一片人聲鼎沸景象，讓這裡有 『小上海』之稱，為台灣四大林場之一。後隨著政府禁伐林木的政策實 施，林田山的伐木工人漸漸散去，一併帶走原有的繁華，但林田山仍舊 保留保存了最完整的伐木場景與意象。",
+            "PositionLat": 23.7185264823442,
+            "PositionLon": 121.401491800036,
+            "Geometry": null,
+            "AttractionClasses": [
+                2
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］南下路線：由花蓮往台東方向行駛，沿9號省道，於萬榮244公里右轉入16號省道，再依指標前進即可抵達。［開車前往］北上路線：由台東往花蓮方向行駛，沿9號省道，於萬榮244公里處左轉入16號省道，再依指標前進即可抵達。［大眾運輸］搭乘火車：由花蓮火車站搭前往光復、瑞穗、玉里的班車，於萬榮站下車，再步行約2.3公里即可抵達。［大眾運輸］搭乘公車(台灣好行)：由花蓮火車站前方-花蓮轉運站搭乘「台灣好行-縱谷花蓮線半日遊303D」，於「林田山外停車場」站下車，往西步行3-5分鐘即抵達園區大門口；或於「林田山中山堂」站下車即抵園區。交通部觀光署-台灣好行旅遊服務網https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0088［大眾運輸］幸福巴士：行經路線：鳳林鎮公所→萬森路→林田山→萬榮國中→萬榮郵局→台糖加油站→鳳信健康站→鳳林鎮公所營運時間：週一至六上午往返共2班次，下午提供預約營運單位/聯絡方式：鳳林鎮公所/ 03-8762771參考網址：https://www.fonglin.gov.tw/cp.aspx?n=1883",
+            "ParkingInfo": "大型車：免收費，可停放 9 輛大型車。(園區現正進行多項工程，遊客車輛請停放於園區外停車場，再步行3-5分鐘路程即可進入園區)。小型車：免收費，小型車停車格數 18，無障礙停車格數 3。(園區現正進行多項工程，遊客車輛請停放於園區外停車場，再步行3-5分鐘路程即可進入園區)。機車：免收費，機車停車格數 14，無障礙停車格數 2。(園區現正進行多項工程，遊客車輛請停放於園區外停車場，再步行3-5分鐘路程即可進入園區)。小型車：免收費，小型車停車格數 43，無障礙停車格數 3。(園區現正進行多項工程，遊客車輛請停放於園區外停車場，再步行3-5分鐘路程即可進入園區)。",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/CP?typ_id=0800021",
+            "ReservationURLs": [],
+            "MapURLs": [],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "花蓮縣",
+                "CityCode": "10015",
+                "Town": "鳳林鎮",
+                "TownCode": "10015020",
+                "ZipCode": "975",
+                "StreetAddress": "森榮里林森路99巷99號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)8751703",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "修理工廠",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "日製電影放映機",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "塵封的記憶被開啟",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/005.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "中山堂翻修重建",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/006.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區建材取自林場",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/007.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "萬森線鐵路月台開出的交通車",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/009.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區步道",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/01_%E6%9E%97%E7%94%B0%E5%B1%B1%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%807.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山旭東庭及軌道",
+                    "Description": "照片提供｜陳美彤",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/02_%E6%9E%97%E7%94%B0%E5%B1%B1%E6%97%AD%E6%9D%B1%E5%BA%AD%E5%8F%8A%E8%BB%8C%E9%81%93--%E9%99%B3%E7%BE%8E%E5%BD%A4%E6%94%9D.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山文化園區空拍景色",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/03_%E6%9E%97%E7%94%B0%E5%B1%B1%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%804-%E4%BF%AE.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "中山堂",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/04_%E6%9E%97%E7%94%B0%E5%B1%B1%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%801.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山-服務1館",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/05_%E6%9E%97%E7%94%B0%E5%B1%B1-%E6%9C%8D%E5%8B%991%E9%A4%A8-%E4%BF%AE.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山-場長館",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/07_%E6%9E%97%E7%94%B0%E5%B1%B1-%E5%A0%B4%E9%95%B7%E9%A4%A82.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山-醫務室",
+                    "Description": "照片提供｜花蓮分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/08_%E6%9E%97%E7%94%B0%E5%B1%B1-%E9%86%AB%E5%8B%99%E5%AE%A42.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山林業文化園區入口",
+                    "Description": "照片提供｜李德俞",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/0800021.jpeg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山林業文化園區入口景觀",
+                    "Description": "照片提供｜李德俞",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/0800021.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "林田山原子炭工廠",
+                    "Description": "照片提供｜李德俞",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0800021/0800021202404260.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": []
+        },
+        {
+            "AttractionID": "Attraction_345040000G_100034",
+            "AttractionName": "阿里山林業村暨檜意森活村",
+            "AlternateNames": [],
+            "Description": "阿里山林業村暨檜意森活村本民間企業藤田組成立嘉義施工所，為興建阿里山森林鐵路開啟序幕，惟因工程艱鉅且經費膨脹，於1908年2月告終。至1910年起臺灣總督府接手，阿里山鐵路繼續興築，1914年阿里山林業鐵路本線全長71.9公里，就此完成。",
+            "PositionLat": 23.4859904348625,
+            "PositionLon": 120.448438306864,
+            "Geometry": null,
+            "AttractionClasses": [
+                2
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：由國道（梅花1）中山高速公路，於嘉義交流道下，往嘉義方向，直行北港路（縣道159），左轉博愛路（省道1），過博愛路橋，右轉忠孝路，直行至林森東路，即可抵達。 ［開車前往］路線二：由國道（梅花3）高速公路，於竹崎交流道下，往嘉義方向行駛林森東路，直行至忠孝路口，即可抵達。［大眾運輸］搭乘火車、客運：1.搭乘火車或客運至嘉義站下車，沿森林西路步行約20分鐘即可抵達。2.前往檜意森活村(北門)另可搭乘幸福巴士(樂活1-1路)，網址：https://www.thb.gov.tw/News_Content_Table.aspx?n=10738&s=212475［大眾運輸］搭乘計程車：於嘉義後火車站搭乘計程車約5-6分鐘可達。［大眾運輸］租摩托車：沿林森西路直行約10分鐘可達。［大眾運輸］搭乘高鐵：至嘉義高鐵站下車，轉搭BRT至嘉義轉運站後：　　(1) 於嘉義轉運站搭乘 6880 至文化中心（嘉義林務局）站下車。　　(2) 經由天橋至嘉義車站（嘉義火車站）後：　　　　a) 搭乘 101、7312、7312A、7313、7313A、7319、7319A/C/D、7321、7321A/B、7323、7323A/B/C/D、66路（原市區6路）至北門（檜村）站下車，再步行至目的地。　　　　b) 搭乘 102、102A、7304、7304A/B、7305、7309、7315、7315A、7316、7316A至文化中心（嘉義林務局）站下車，再步行至目的地。參考公車資訊：https://bus.cyhg.gov.tw。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/CP?typ_id=0900021",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/0900021/01/0900021-1_MAP.png"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "新竹市",
+                "CityCode": "10018",
+                "Town": "東區",
+                "TownCode": "10018010",
+                "ZipCode": "300",
+                "StreetAddress": "林森西路4號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(05)2779843",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "所長宿舍",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "動力室活動1",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "動力室活動2",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/005.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "檜意森活村-景觀水池區",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/006.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "阿里山林業鐵路車庫園區",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/008.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "檜意森活村全覽圖",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/01_BASE_01.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "檜意森活村生態池",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/02_BASE_02.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區日式建築物",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/03_BASE_03.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "森林之歌",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/04_BASE_04.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區夜景",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/05_facebook.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "日式建築懷舊燈座",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/06_facebook.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "日式建築內部",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/07_facebook.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "園區日式建築群",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/CP/photo/album/0900021/08_facebook.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [
+                {
+                    "Name": "園區涵蓋範圍",
+                    "Class": 8,
+                    "City": "嘉義市",
+                    "CityCode": "10020",
+                    "Town": "東區",
+                    "TownCode": "10020010"
+                }
+            ],
+            "SocialMediaURLs": [
+                {
+                    "Name": "嘉義阿里山林業村暨檜意森活村",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/hinokivillage",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "走過歷史一百年－檜意森活村",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/XQ7zSuh6XXA",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_110035",
+            "AttractionName": "太平山蹦蹦車",
+            "AlternateNames": [],
+            "Description": "太平山蹦蹦車的前身為太平山森林鐵路茂興線，起站太平山莊，終站為茂興站，全長約3公里，行車時間約20分鐘，巨木參天的林蔭下，陽光透了些許的光，軌道逕自在林間穿梭，旅客乘坐在開放式的蹦蹦車廂中，更可直接親近沿途秀麗的山巒疊翠。終點的茂興站設置自導式森林步道、蕨類原生園及茂興國家森林步道。本署持續進行軌道、路線及軟體改善，加強乘務人員落實各項標準作業程序，並定期舉辦在職訓練，以提高服務品質及確保維行車安全。",
+            "PositionLat": 24.4931759734523,
+            "PositionLon": 121.535830426591,
+            "Geometry": null,
+            "AttractionClasses": [
+                2,
+                23
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］從台北出發（經宜蘭交流道）：台北→國道5號→宜蘭(交流道)→省道台7線→省道台7甲線(3.7K)→宜專1線→土場→鳩之澤→太平山。［開車前往］從台北出發（經羅東交流道）：台北→國道5號→羅東(交流道)→省道台7丙線→省道台7線→省道台7甲線(3.7K)→宜專1線→土場→鳩之澤→太平山。［開車前往］從台北出發（經省道台9線(北宜公路)）：台北→省道台9線(北宜公路)→頭城鎮→宜蘭市→省道台7線→省道台7甲線(3.7K)→宜專1線→土場→鳩之澤→太平山［開車前往］從基隆出發：基隆→省道台2線(濱海公路) →壯圍→省道台7線→省道台7甲線(3.7K)→宜專1線→土場→鳩之澤→太平山。［開車前往］從桃園出發：桃園→大溪→省道台7線(北橫公路)→省道台7甲線(3.7K)→宜專1線→土場→鳩之澤→太平山。［大眾運輸］搭乘國光客運：每日行駛。旅程時間：約2時30分鐘。電話：宜蘭站03-9384171、羅東站03-9567505網址：www.kingbus.com.tw ◎去程(發車時間)：宜蘭07:40、羅東08:00(宜蘭+20分鐘為羅東發車時間) ；抵達太平山10:30。◎回程(發車時間)：太平山14:30；鳩之澤16:10，抵達羅東17:30、宜蘭17:50。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/FR?typ_id=0100041",
+            "ReservationURLs": [],
+            "MapURLs": [],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "宜蘭縣",
+                "CityCode": "10002",
+                "Town": "大同鄉",
+                "TownCode": "10002110",
+                "ZipCode": "267",
+                "StreetAddress": "太平巷58之1號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(03)9809812",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "蹦蹦車",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/001.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "穿梭山林中的蹦蹦車",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/002.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "蹦蹦車冬季景觀",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "茂興車站",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "蹦蹦車行駛於軌道",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/01_BASE_01.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "蹦蹦車機車頭轉向",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/02_BASE_02.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "蹦蹦車貓頭鷹車掌",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/03_BASE_03.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "蹦蹦車車廂",
+                    "Description": "照片提供｜宜蘭分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0100041/04_BASE_04.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": []
+        },
+        {
+            "AttractionID": "Attraction_345040000G_110036",
+            "AttractionName": "烏來台車",
+            "AlternateNames": [],
+            "Description": "烏來台車初期僅為輸運木材，因烏來瀑布觀光發展遊客需求，於52年正式開辦客運，以人力推送遊客，為因應日漸成長之遊客量，乃於63年實施機動化，以柴油引擎推動台車，再於76年排除萬難在瀑布站開鑿隧道取代原來的轉盤迴轉，沿用迄今。營運路線由烏來至瀑布全長1.5公里，於每日9至17時往返行駛，並配合夏季旺季時節調整營運時間，隨到隨開以服務旅客。",
+            "PositionLat": 24.8610074095749,
+            "PositionLon": 121.550516094076,
+            "Geometry": null,
+            "AttractionClasses": [
+                2,
+                23
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］：國道3號高速公路下新店交流道 → 新店中興路 → 北宜路 → 右轉新烏路 → 烏來，路程約30-40分鐘。［大眾運輸］搭乘捷運轉客運：搭乘捷運新店線至終點新店站 → 轉乘新店客運「台北 -849- 烏來」（發車時間、路線詳新店客運網站查詢）至烏來總站(烏來老街)。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/FR?typ_id=0200041",
+            "ReservationURLs": [
+                "https://forestpass.welcometw.com/tour/listAll?category=BAV"
+            ],
+            "MapURLs": [],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "新北市",
+                "CityCode": "65000",
+                "Town": "烏來區",
+                "TownCode": "65000290",
+                "ZipCode": "233",
+                "StreetAddress": "溫泉街86巷2號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(02)26617826",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "台車行駛於軌道",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/001.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車乘車處",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/002.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車博物館",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車隧道",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/004.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車景觀",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/005.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車站內",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/006.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車起站",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/01_%E7%83%8F%E4%BE%86%E5%8F%B0%E8%BB%8A%E8%B5%B7%E7%AB%99.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "櫻花下的烏來台車",
+                    "Description": "照片提供｜古善添",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/02_%E6%AB%BB%E8%8A%B1%E4%B8%8B%E7%9A%84%E7%83%8F%E4%BE%86%E5%8F%B0%E8%BB%8A(%E5%8F%A4%E5%96%84%E6%B7%BB%E6%8F%90%E4%BE%9B).JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "烏來台車新列車",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/0200041202302230.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "彩繪車廂",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/03_BASE_01.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "台車軌道彎處",
+                    "Description": "照片提供｜陳鳳珠",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/04_%E5%8F%B0%E8%BB%8A%E8%BB%8C%E9%81%93%E5%BD%8E%E8%99%95(%E9%99%B3%E9%B3%B3%E7%8F%A0%E6%8B%8D%E6%94%9D).JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "台車瀑布站",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/05_BASE_04.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "瀑布站乘車處",
+                    "Description": "照片提供｜新竹分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0200041/06_BASE_03.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "烏來台車",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/wulai.localvoice/",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_110037",
+            "AttractionName": "阿里山林業鐵路",
+            "AlternateNames": [],
+            "Description": "阿里山林業鐵路係日據時期為開採森林資源而鋪設的產業鐵道，全線分為本線及支線，沿途歷經熱、暖、溫帶三種林相，自海拔30公尺的嘉義站，一路爬升至海拔2,216公尺的阿里山站。此外，旅客還可以在清晨時分搭乘祝山線小火車，前往臺灣最高海拔車站－祝山站(2,451公尺)，欣賞聞名遐邇的阿里山日出。阿里山林業鐵路為克服險惡地形，擁有登山鐵路五大工法其中四項，包括螺旋式路線、之字形折返路線、Ω type turn及特殊設計的登山蒸汽火車等，集登山鐵路、森林鐵路與高山鐵路於一身，驗證具世界登山鐵路之實力，為臺灣世界遺產潛力點之一。",
+            "PositionLat": 23.5101501673165,
+            "PositionLon": 120.80424611549,
+            "Geometry": null,
+            "AttractionClasses": [
+                2,
+                23
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：由國道3號（南二高）中埔交流道下後接臺18線省道（阿里山公路）至阿里山國家森林遊樂區（88.2K處）。［開車前往］路線二：由國道1號（中山高）嘉義交流道下後接臺18線省道（阿里山公路）至阿里山國家森林遊樂區（88.2K處）。［大眾運輸］搭乘火車：搭乘火車至嘉義火車站，出站後於阿里山林業鐵路售票窗口購票：本線、神木線、沼平線及祝山線，再進站前往林鐵月台搭車。　※阿里山林業鐵路嘉義站售票處：(05)2256918；嘉義縣公車：(05)2788177、網站：https://bus.cyhg.gov.tw。［大眾運輸］搭乘公車：嘉義縣公車［嘉義⇆阿里山］、［嘉義⇆奮起湖］、［嘉義高鐵⇆阿里山］、［嘉義高鐵⇆奮起湖］、﹝奮起湖⇆阿里山﹞，車班及行駛狀況請洽嘉義縣公車嘉義站：(05)224-3140或網站：https://bus.cyhg.gov.tw。另外嘉義車站亦可搭乘幸福巴士及幸福小黃前往，請點選網址：https://www.thb.gov.tw/News.aspx?n=10738&sms=13903&_CSN=4018［大眾運輸］搭乘員林客運：員林客運［日月潭⇆阿里山］6739線，日月潭代售處：049-2856879；時刻問題請洽：049-2770041；網站：http://www.ylbus.com.tw/Shuili.html。［大眾運輸］搭乘國光客運：國光客運［臺北轉運站⇆阿里山］1835線，車班及行駛狀況，請洽國光客運：0800-010-138、臺北轉運站電話：02-25583060、及網站：http://www.kingbus.com.tw/ticketPriceResult.php?sid=163。［大眾運輸］鐵路轉乘公路：1. 於嘉義火車站搭乘阿里山林業鐵路［嘉義⇆奮起湖站］，阿里山林業鐵路嘉義站售票處：(05)2256918、時刻表：https://afrch.forest.gov.tw/0000115、網路訂票：https://afrts.forest.gov.tw/。2. 於奮起湖站步行約600公尺至公車站。3. 於公車站搭乘嘉義縣公車前往阿里山，電話：(05)2788177、網站：https://bus.cyhg.gov.tw。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041",
+            "ReservationURLs": [],
+            "MapURLs": [],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "新竹市",
+                "CityCode": "10018",
+                "Town": "東區",
+                "TownCode": "10018010",
+                "ZipCode": "300",
+                "StreetAddress": "文化路308號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(05)2256918",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2561007",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2611275",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2679086",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2679200",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2768094",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(05)2779843",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "阿里山_祝山觀日出",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/001.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "阿里山雲海",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/002.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "阿里山森林火車",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/003.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "台灣紅榨槭",
+                    "Description": "照片提供｜謝坤宏",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/006.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "小笠原日出",
+                    "Description": "照片提供｜陳志彰",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/007.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "栗背林鴝",
+                    "Description": "照片提供｜謝坤宏",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/008.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "阿里山_蒸車與神木",
+                    "Description": "照片提供｜林鐵及文資處",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/009.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "櫻花火車",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/01_BASE_01.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "雲海晚霞",
+                    "Description": "照片提供｜謝坤宏",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/010.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "蒸氣火車進站",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/02_BASE_02.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "楓葉鐵道",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/03_BASE_03.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "楓葉雲海",
+                    "Description": "照片提供｜嘉義分署",
+                    "URL": "https://recreation.forest.gov.tw/Files/Forestry/FR/photo/album/0900041/04_BASE_04.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [
+                {
+                    "Name": "園區涵蓋範圍",
+                    "Class": 8,
+                    "City": "嘉義縣",
+                    "CityCode": "10010",
+                    "Town": "阿里山鄉",
+                    "TownCode": "10010180"
+                }
+            ],
+            "SocialMediaURLs": [
+                {
+                    "Name": "阿里山林業鐵路",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/AlishanForestRailway.Taiwan/",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "阿里山林業鐵路及文化資產管理處",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.instagram.com/afrchoforest/",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "阿里山百年記憶",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://youtu.be/NhlpOYealgY",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_120038",
+            "AttractionName": "阿里山生態教育館",
+            "AlternateNames": [],
+            "Description": "阿里山生態教育館位於阿里山國家森林遊樂區範圍內，但其保育關切場域包含了臺灣一葉蘭自然保留區、塔山野生動物重要棲息環境以及鹿林山野生動物重要棲息環境等三處。林業及自然保育署阿里山工作站的工作人員長期參與周邊保護留區的環境監測與資源調查，另外也針對阿里山山椒魚及臺灣一葉蘭進行棲地復育工作，長年下來已頗有成效。為了讓大眾了解保護留區棲地環境與物種保育重要性，以保育物種－阿里山山椒魚及臺灣一葉蘭作為故事館的主軸，向大眾說明研究工作的執行過程與成果。為宣導自然保育觀念及讓遊客認識阿里山自然生態，林業及自然保育署嘉義分署利用舊阿里山工作站及其他舊建物重新規劃整建成阿里山生態教育館、臺灣一葉蘭生態故事館及阿里山山椒魚館。",
+            "PositionLat": 23.5133844109058,
+            "PositionLon": 120.812780234111,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：國道3號(南二高)：由中埔交流道下後接臺18線省道（阿里山公路）至阿里山國家森林遊樂區(88.2K處)。 ［開車前往］路線二：國道1號(中山高)：由嘉義交流道下後接臺18線省道（阿里山公路）至阿里山國家森林遊樂區(88.2K處)。［大眾運輸］搭乘公車：嘉義縣公車﹝嘉義-阿里山﹞、﹝嘉義高鐵-阿里山﹞、﹝奮起湖-阿里山﹞，車班及行駛狀況請洽嘉義縣公車嘉義站：(05)2788-177或網站https://bus.cyhg.gov.tw/［大眾運輸］搭乘客運：員林客運：員林客運﹝日月潭-阿里山﹞，車班及行駛狀況請洽員林客運水里站： 049-2770041。 ［大眾運輸］搭乘客運：國光客運：國光客運﹝臺北轉運站-阿里山﹞，車班及行駛狀況請洽國光客運0800-010-138或臺北轉運站 電話：02-25583060。 ［大眾運輸］搭乘火車：■阿里山林業鐵路，目前「十字路-阿里山」段尚未通車。■「嘉義-十字路」路段，上午9:00由嘉義上山至十字路，13:50由十字路下山。假日增開一班9:30上山，13:00下山。■詳細訂票辦法及時刻表，請上阿里山林業鐵路網站訂票系統 https://afrts.forest.gov.tw/TP01_1.aspx 或電洽北門車站詢問:05-2768094。 ■旅客可至奮起湖或十字路站轉乘嘉義縣公車至阿里山森林遊樂區。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/EE?typ_id=ALS",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/EE/photo/ALS/02/0500001.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "嘉義縣",
+                "CityCode": "10010",
+                "Town": "阿里山鄉",
+                "TownCode": "10010180",
+                "ZipCode": "605",
+                "StreetAddress": "中正村68號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(05)2679755",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "阿里山生態教育中心館",
+                    "Description": "照片提供｜阿里山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/ALS/01_%E9%98%BF%E9%87%8C%E5%B1%B1%E7%94%9F%E6%85%8B%E6%95%99%E8%82%B2%E9%A4%A8.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "臺灣一葉蘭",
+                    "Description": "照片提供｜陳坤志",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/ALS/02_%E4%B8%80%E8%91%89%E8%98%AD%E9%99%B3%E5%9D%A4%E5%BF%97.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "阿里山山椒魚",
+                    "Description": "照片提供｜蕭明學",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/ALS/04_%E9%98%BF%E9%87%8C%E5%B1%B1%E5%B1%B1%E6%A4%92%E9%AD%9A_%E6%98%8E%E5%AD%B8.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "阿里山山椒魚館",
+                    "Description": "照片提供｜阿里山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/ALS/05_%E9%98%BF%E9%87%8C%E5%B1%B1%E5%B1%B1%E6%A4%92%E9%AD%9A%E9%A4%A8.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": []
+        },
+        {
+            "AttractionID": "Attraction_345040000G_120039",
+            "AttractionName": "大武山生態教育館",
+            "AlternateNames": [],
+            "Description": "大武山生態教育館對大武山自然保留區的人文及森林生態環境有深入淺出的介紹，是一具現代化設備之訓練研習場所，可使民眾了解設置保留區的目的、功能，並索取相關資訊，進而達到愛護環境、自然保育，獲得環境教育之知識。大武山生態教育館是一棟結合生態、人文展示及教育訓練的多功能建築，為使民眾瞭解政府設置保留區目的及展示大武山自然保留區生態之美，故設立大武山生態教育館。",
+            "PositionLat": 22.5302037996062,
+            "PositionLon": 120.93959963814,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：從台東行駛台9線南下412k+575處，右轉往金崙溫泉指標約2.5公里處抵達。［開車前往］路線二：從屏東行駛台9線北上於413k+950處左轉往金崙溫泉指標約2.5公里處抵達。［大眾運輸］搭乘公車：公車可於台東市區搭鼎東客運山線(http://ett333023.com.tw/page3.htm)壢坵線往金崙溫泉方向，至大武山生態教育館下車。［大眾運輸］火車轉乘：搭乘火車南迴線在金崙站下車後，轉搭鼎東客運(http://ett333023.com.tw/page3.htm)壢坵線往金崙溫泉方向，至大武山生態教育館下車。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/EE?typ_id=DWS",
+            "ReservationURLs": [],
+            "MapURLs": [
+                "https://recreation.forest.gov.tw/Files/Education/EE/photo/DWS/02/%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%94%9F%E6%85%8B%E6%95%99%E8%82%B2%E9%A4%A8%E4%BA%A4%E9%80%9A%E8%B7%AF%E7%B7%9A.jpg"
+            ],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "臺東縣",
+                "CityCode": "10014",
+                "Town": "太麻里鄉",
+                "TownCode": "10014090",
+                "ZipCode": "963",
+                "StreetAddress": "金崙村溫泉35-2號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(089)771912",
+                    "Ext": null
+                },
+                {
+                    "Tel": "(089)771957",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "生態館外觀",
+                    "Description": "照片提供｜大武山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/DWS/01_%E7%94%9F%E6%85%8B%E9%A4%A8%E5%A4%96%E8%A7%80.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "一樓原住民文物展示",
+                    "Description": "照片提供｜大武山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/DWS/02_%E4%B8%80%E6%A8%93%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E7%89%A9%E5%B1%95%E7%A4%BA-1.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "一樓休憩活動空間",
+                    "Description": "照片提供｜大武山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/DWS/03_%E4%B8%80%E6%A8%93%E4%BC%91%E6%86%A9%E6%B4%BB%E5%8B%95%E7%A9%BA%E9%96%93.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "二樓生態展示室",
+                    "Description": "照片提供｜大武山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/DWS/04_%E4%BA%8C%E6%A8%93%E7%94%9F%E6%85%8B%E5%B1%95%E7%A4%BA%E5%AE%A4-1.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "二樓大型哺乳類標本展示",
+                    "Description": "照片提供｜大武山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/DWS/05_%E4%BA%8C%E6%A8%93%E5%A4%A7%E5%9E%8B%E5%93%BA%E4%B9%B3%E9%A1%9E%E6%A8%99%E6%9C%AC%E5%B1%95%E7%A4%BA.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "戶外泡腳池",
+                    "Description": "照片提供｜大武山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/DWS/06_%E5%A4%96%E5%A4%96%E6%B3%A1%E8%85%B3%E6%B1%A0-3.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "大武山生態教育館",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/1692657107680666/",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        },
+        {
+            "AttractionID": "Attraction_345040000G_120042",
+            "AttractionName": "火炎山生態教育館",
+            "AlternateNames": [],
+            "Description": "火炎山生態教育館是為一幢地上三層樓地下二樓的景觀建築，無論是外觀或內部設計，都以火炎山獨樹一格的天然特色為設計考量。火炎山生態教育館坐落於苗栗縣三義鄉，於2005年4月16日啟用，是目前國內少見針對自然地景所設置的展示解說教育場域，設立的宗旨為「讓火炎山生態教育館成為國內重要地景環境教育場域」，鄰近苗栗三義火炎山自然保留區，在2020年6月17日成為環境教育認證場所、2023年獲國家教育研究院「環境教育設施場所評鑑優異」的肯定，為苗栗地區保育宣導重要的入口平台。",
+            "PositionLat": 24.4148979456907,
+            "PositionLon": 120.772898785171,
+            "Geometry": null,
+            "AttractionClasses": [
+                26
+            ],
+            "ServiceTimeInfo": "",
+            "TrafficInfo": "［開車前往］路線一：從銅鑼交流道下閘道後，向南沿台13線往三義行駛，經過三義火車站後不久，目的地即在左手邊。［開車前往］路線二：從三義交流道下閘道後，向北沿台13縣往三義市區一路行駛，經過郵局之後，目的地即在右手邊。［大眾運輸］搭乘火車：本館離三義火車站約700m，步行約10分鐘。",
+            "ParkingInfo": "",
+            "Facilities": [],
+            "ServiceStatus": 1,
+            "IsPublicAccess": 1,
+            "IsAccessibleForFree": 0,
+            "FeeInfo": "",
+            "PaymentMethods": [],
+            "WebsiteUrl": "https://recreation.forest.gov.tw/Education/EE?typ_id=HYS",
+            "ReservationURLs": [],
+            "MapURLs": [],
+            "SameAsURLs": [],
+            "VisitDuration": null,
+            "AssetsClass": null,
+            "Remarks": "",
+            "UpdateTime": "2024-10-08T12:20:05+08:00",
+            "PostalAddress": {
+                "City": "苗栗縣",
+                "CityCode": "10005",
+                "Town": "三義鄉",
+                "TownCode": "10005130",
+                "ZipCode": "367",
+                "StreetAddress": "中正路73號"
+            },
+            "Telephones": [
+                {
+                    "Tel": "(037)878851",
+                    "Ext": null
+                }
+            ],
+            "Images": [
+                {
+                    "Name": "石虎面具團照",
+                    "Description": "照片提供｜火炎山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/HYS/01_%E7%9F%B3%E8%99%8E%E9%9D%A2%E5%85%B7%E5%9C%98%E7%85%A7.JPG",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "自然保留區解說",
+                    "Description": "照片提供｜火炎山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/HYS/02_%E8%87%AA%E7%84%B6%E4%BF%9D%E7%95%99%E5%8D%80%E8%A7%A3%E8%AA%AA.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "石虎小學堂解說",
+                    "Description": "照片提供｜火炎山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/HYS/03_%E7%9F%B3%E8%99%8E%E5%B0%8F%E5%AD%B8%E5%A0%82%E8%A7%A3%E8%AA%AA.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                },
+                {
+                    "Name": "DIY手作課程",
+                    "Description": "照片提供｜火炎山生態教育館",
+                    "URL": "https://recreation.forest.gov.tw/Files/Education/EE/Album/HYS/04_DIY%E6%89%8B%E4%BD%9C%E8%AA%B2%E7%A8%8B.jpg",
+                    "Width": null,
+                    "Height": null,
+                    "Keywords": []
+                }
+            ],
+            "Organizations": [],
+            "LocatedCities": [],
+            "SocialMediaURLs": [
+                {
+                    "Name": "火炎山生態教育館",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.facebook.com/HuoyanshanEcocenter",
+                    "Keywords": [],
+                    "Tags": []
+                },
+                {
+                    "Name": "火炎山生態教育館",
+                    "Description": null,
+                    "Class": null,
+                    "URL": "https://www.instagram.com/mt.hoyen/",
+                    "Keywords": [],
+                    "Tags": []
+                }
+            ]
+        }
+    ]
+}

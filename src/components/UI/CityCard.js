@@ -1,19 +1,31 @@
-import React from 'react'
+import React, { useState ,useContext } from 'react'
 import styles from './CityCard.module.scss'
+import {regions} from '../../data/regions'
+import RegionContext from '../../store/RegionContext'
+
 const CityCard = (props) => {
-    const CityArr = ["/img/north.png","/img/central.png","/img/south.png","/img/east.png","/img/islands.png"]
+    const {selectedArea,setSelectedArea,selectedCity,setSelectedCity} = useContext(RegionContext)
+    // setSelectedArea()
+
+    // const [selectedArea,setSelectedArea] = useState('north')
+ 
     return (
         <>
         
         <div className={styles.cityCard__outer}>
-            {CityArr.map((item,i)=> {
+            {regions.map((item,i)=> {
+                // console.log(item)
+                // ${styles["cityCard--active"]}
                 return (
-                    <div className={styles.cityCard}>
+                    <button onClick={()=>  props.onSelectArea(item.area) }
+                        className={`${styles.cityCard} ${selectedArea === item.area ? styles["cityCard--active"] : ''}`} 
+                        key={i} 
+                        data-areaname={item.area}>
                         <div className={styles.cityCard__circle}>
-                            <img src={CityArr[i]} alt="" className={styles.cityCard__icon} />
+                            <img src={item.img} alt="" className={styles.cityCard__icon} />
                         </div>
-                        <span>{"北部"}</span>
-                    </div>
+                        <span>{item.name}</span>
+                    </button>
                     
                 )
             })}

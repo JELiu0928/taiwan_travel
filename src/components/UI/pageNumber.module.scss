@@ -1,0 +1,40 @@
+@import "../../styles/base";
+.pageNumber{
+    display: grid;
+    grid-auto-flow: column;
+    list-style: none;
+    grid-auto-columns: min-content;
+    gap: 1.5rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+    justify-content: center;
+   
+    &__page{
+        @include flexCenter();
+        height: 3.4rem;
+        width: 3.4rem;
+        border-radius: 50%;
+        border: 1px solid #000;
+        // background-color: aquamarine;
+        &:not(.pageNumber__page--active){
+            // background-color: aqua;
+            border-color: #D0D0D0;
+            color: #D0D0D0;
+        }
+        &--active{
+            background-color: #000;
+            color: #fff;
+        }
+    }
+    &__button{
+        & > svg{
+            color: #000;
+        }
+        // @include flexCenter();
+        border: none;    
+        background-color: transparent;
+        color: inherit;
+
+    }
+
+}

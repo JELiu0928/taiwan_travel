@@ -1,9 +1,17 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import City from '../components/City'
+// import RegionContext from '../store/RegionContext'
 
 const CityPage = () => {
-  return (
-    <div>CityPage</div>
-  )
+    // const RegionContext = useContext()
+    return (
+        <>
+        {/* <RegionContext.Provider> */}
+
+        <City/>
+        {/* </RegionContext.Provider> */}
+        </>
+    )
 }
 
 export default CityPage

@@ -1,0 +1,757 @@
+[
+  {
+    "HotelID": "C4_A15010000H_000539",
+    "HotelName": "福正民宿",
+    "Description": "位於連江縣的民宿",
+    "Address": "連江縣莒光鄉福正村10號",
+    "ZipCode": "211",
+    "Phone": "886-836-88213",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/79235.jpg?v=20241007",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/79240.jpg?v=20241007",
+      "PictureDescription2": "外觀",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/79238.jpg?v=20241007",
+      "PictureDescription3": "房間"
+    },
+    "Position": {
+      "PositionLon": 119.98617553710938,
+      "PositionLat": 25.96262550354004,
+      "GeoHash": "wst7dq772"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000818",
+    "HotelName": "海明威民宿",
+    "Description": "位於臺東縣的民宿",
+    "Address": "臺東縣綠島鄉公館村柴口61-30號",
+    "ZipCode": "951",
+    "Phone": "886-905-112766",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/66124.jpg?v=20241007",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/66123.jpg?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 121.48532104492188,
+      "PositionLat": 22.67732048034668,
+      "GeoHash": "wsn3h2qbv"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車10輛、機車10輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_004881",
+    "HotelName": "屋裏民宿",
+    "Description": "位於澎湖縣的民宿",
+    "Address": "澎湖縣湖西鄉北寮村6鄰北寮41之11號",
+    "ZipCode": "885",
+    "Phone": "886-976-266699",
+    "WebsiteUrl": "https://hygge.tw/",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/135273.jpg?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 119.67176055908203,
+      "PositionLat": 23.59859848022461,
+      "GeoHash": "wsjn5pyrf"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_006558",
+    "HotelName": "望海軒民宿",
+    "Description": "位於臺東縣的民宿",
+    "Address": "臺東縣綠島鄉公館村柴口路33號",
+    "ZipCode": "951",
+    "Phone": "886-89-672838",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/1221.jpg?v=20241007",
+      "PictureDescription1": "大廳或櫃檯",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/19395.jpg?v=20241007",
+      "PictureDescription2": "房間1",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/23489.jpg?v=20241007",
+      "PictureDescription3": "外觀"
+    },
+    "Position": {
+      "PositionLon": 121.47998809814453,
+      "PositionLat": 22.67424774169922,
+      "GeoHash": "wsn2urep0"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_007525",
+    "HotelName": "大浦民宿",
+    "Description": "歡迎您來電訂房訂房專線:0836-88039    0937-056402  0920170141Facebook粉絲專頁 https://www.facebook.com/dapuinn/匯款帳號：郵局(銀行代碼700)局號及帳號：0003558 0038494戶名：陳木蘭本民宿另有機車出租，歡迎來電預訂",
+    "Address": "連江縣莒光鄉大坪村100之1號",
+    "ZipCode": "211",
+    "Phone": "886-836-88039",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/33573.jpg?v=20241007",
+      "PictureDescription1": "民宿外觀",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/19683.jpg?v=20241007",
+      "PictureDescription2": "大廳",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/25603.JPG?v=20241007",
+      "PictureDescription3": "二人房"
+    },
+    "Position": {
+      "PositionLon": 119.97765350341797,
+      "PositionLat": 25.95195770263672,
+      "GeoHash": "wst7dhmj1"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_009726",
+    "HotelName": "東莒幸福居民宿",
+    "Description": "民宿周邊鄰近景點：1.東莒燈塔騎車5分鐘2.大浦石刻騎車8分鐘3.福正沙灘福正聚落騎車5分鐘4.64據點走路3分鐘5.東洋山環山步道奇車5分鐘6.犀牛嶼(陸連島)騎車5分鐘7.大浦港走路3分鐘8.頂山步道騎車6分鐘。",
+    "Address": "連江縣莒光鄉大坪村106之1號",
+    "ZipCode": "211",
+    "Phone": "886-836-89021",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/16944.jpg?v=20241007",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/12067.jpg?v=20241007",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/50010.jpg?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 119.9783706665039,
+      "PositionLat": 25.953250885009766,
+      "GeoHash": "wst7dhtsd"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_013058",
+    "HotelName": "屋光拾舍民宿",
+    "Description": "Hygge是一種用心生活的態度，是和喜歡的人在一起、一種家的感覺、沒有惱人的事物。它代表著舒適、溫暖的意思。這也是我們想與大家分享的，希望你們來到這兒能丟棄生活所帶來的焦慮和混亂，重新找回自己的時間和精力，享受這慢下來的時光，一起擁抱生活。",
+    "Address": "澎湖縣湖西鄉北寮村6鄰北寮41之10號",
+    "ZipCode": "885",
+    "Phone": "886-6-9921212",
+    "Fax": "886-6-9920202",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/129640.JPG?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 119.67176055908203,
+      "PositionLat": 23.59859848022461,
+      "GeoHash": "wsjn5pyrf"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "無線網路,國民旅遊卡,停車場,,,,接送服務,行動支付,,,自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_013400",
+    "HotelName": "長泰民宿",
+    "Description": "位於臺東縣的民宿",
+    "Address": "臺東縣綠島鄉公館村柴口41-1號",
+    "ZipCode": "951",
+    "Phone": "886-89-672790",
+    "Fax": "886-89-671191",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/18072.jpg?v=20241007",
+      "PictureDescription1": "房間1",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/31213.jpg?v=20241007",
+      "PictureDescription2": "外觀",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/40394.jpg?v=20241007",
+      "PictureDescription3": "大廳或櫃檯"
+    },
+    "Position": {
+      "PositionLon": 121.47901916503906,
+      "PositionLat": 22.674272537231445,
+      "GeoHash": "wsn2urdr4"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_015572",
+    "HotelName": "TORO民宿",
+    "Description": "位於臺東縣的民宿",
+    "Address": "臺東縣綠島鄉公館村柴口33-2號",
+    "ZipCode": "951",
+    "Phone": "886-955-737555",
+    "Fax": "886-3-3643247",
+    "WebsiteUrl": "http://www.torovilla.com.tw",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/407.JPG?v=20241007",
+      "PictureDescription1": "房間1",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/2521.jpg?v=20241007",
+      "PictureDescription2": "外觀",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/20831.JPG?v=20241007",
+      "PictureDescription3": "房間2"
+    },
+    "Position": {
+      "PositionLon": 121.47933959960938,
+      "PositionLat": 22.674564361572266,
+      "GeoHash": "wsn2urf8c"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_016258",
+    "HotelName": "友愛閤睏漫旅",
+    "Description": "友愛閤睏漫旅位於台南市區，周邊眾多美食與景點林立，地理位置方便。鄰近台南孔廟、台南市美術二館、司法博物館、赤崁樓、以及新光三越西門新天地等知名景點，讓您輕鬆體驗台南的深厚文化底蘊，感受百年古城的迷人魅力。大廳格局溫馨，設有舒適的休息區，讓您在旅途中放鬆休息。所有客房皆全面禁菸，致力營造舒適環境，讓您在入住期間感受到家的溫馨。全館提供免費 WiFi，讓您隨時與親友分享旅程中的美好時刻。除了舒適的住宿環境外，也提供旅遊諮詢服務，以及行李寄放服務，讓您輕輕鬆鬆暢遊台南，充分探索台南的風土人情。無論您是商務出差還是旅遊度假，友愛閤睏漫旅都能滿足您對舒適、便利和服務的需求。",
+    "Address": "臺南市中西區永福路一段115號",
+    "ZipCode": "700",
+    "Phone": "886-6-2142989",
+    "Fax": "886-6-2142986",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/232227.jpg?v=20241007",
+      "PictureDescription1": "大廳及櫃台",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/232230.jpg?v=20241007",
+      "PictureDescription2": "雙人客房",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/232231.jpg?v=20241007",
+      "PictureDescription3": "雙人客房"
+    },
+    "Position": {
+      "PositionLon": 120.20001220703125,
+      "PositionLat": 22.59000015258789,
+      "GeoHash": "wsj2x0qur"
+    },
+    "Class": "一般旅館",
+    "Spec": "雙人房0;雙人房0;其他0;雙人房0;其他0;",
+    "ServiceInfo": "會議場所,無線網路,國民旅遊卡,,,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_016313",
+    "HotelName": "海上人家民宿",
+    "Description": "位於連江縣的民宿",
+    "Address": "連江縣莒光鄉福正村38之1號",
+    "ZipCode": "211",
+    "Phone": "886-935-648716",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/17760.jpg?v=20241007",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/21431.JPG?v=20241007",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/16195.JPG?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 119.98831176757812,
+      "PositionLat": 25.964427947998047,
+      "GeoHash": "wst7dqsvf"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_016975",
+    "HotelName": "GT大叔民宿",
+    "Description": "位於臺東縣的民宿",
+    "Address": "臺東縣綠島鄉公館村柴口79號",
+    "ZipCode": "951",
+    "Phone": "886-89-671018",
+    "Fax": "886-89-671316",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/8285.jpg?v=20241007",
+      "PictureDescription1": "房間1",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/15235.jpg?v=20241007",
+      "PictureDescription2": "大廳或櫃檯",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/33299.jpg?v=20241007",
+      "PictureDescription3": "房間2"
+    },
+    "Position": {
+      "PositionLon": 121.48287963867188,
+      "PositionLat": 22.67664337158203,
+      "GeoHash": "wsn3h2jjh"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_017446",
+    "HotelName": "假期旅店民宿",
+    "Description": "位於連江縣的民宿",
+    "Address": "連江縣南竿鄉福沃村96號",
+    "ZipCode": "209",
+    "Phone": "886-836-25515",
+    "Fax": "886-836-22809",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/9487.jpg?v=20241007",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/22291.jpg?v=20241007",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/30395.jpg?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 119.95100402832031,
+      "PositionLat": 26.150814056396484,
+      "GeoHash": "wstkc89es"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_018948",
+    "HotelName": "快樂潛水",
+    "Description": "位於臺東縣的民宿",
+    "Address": "臺東縣綠島鄉南寮村1鄰南寮19號",
+    "ZipCode": "951",
+    "Phone": "886-923-529651",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/180268.png?v=20240704",
+      "PictureDescription1": "座落於綠島南寮大街的起點，地理位置極佳！！是個鬧中取靜、便利性極高、擁有極佳的海景景觀視野、一樓有舒適寬敞明亮的開放空間，是您全家旅遊、好友相聚海島旅行的絕佳選擇！！www.happydive.tw",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/180267.png?v=20240704",
+      "PictureDescription2": "座落於綠島南寮大街的起點，地理位置極佳！！是個鬧中取靜、便利性極高、擁有極佳的海景景觀視野、一樓有舒適寬敞明亮的開放空間，是您全家旅遊、好友相聚海島旅行的絕佳選擇！！www.happydive.tw"
+    },
+    "Position": {
+      "PositionLon": 121.46247100830078,
+      "PositionLat": 22.66427993774414,
+      "GeoHash": "wsn2gvykb"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車1輛、機車3輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_019397",
+    "HotelName": "蔚藍珠海民宿",
+    "Description": "位於連江縣的民宿",
+    "Address": "連江縣南竿鄉四維村20號",
+    "ZipCode": "209",
+    "Phone": "886-836-26800",
+    "Fax": "886-836-26802",
+    "WebsiteUrl": "https://www.facebook.com/Blue.Zhuhai/",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/79229.jpg?v=20240704"
+    },
+    "Position": {
+      "PositionLon": 119.9178237915039,
+      "PositionLat": 26.167051315307617,
+      "GeoHash": "wstkbg96p"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "無線網路,國民旅遊卡,,,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_022104",
+    "HotelName": "吾妮民宿",
+    "Description": "美麗的大武山下，孕育著美麗的自然環境和熱情的我們。當您留宿三地門時，Wuni的家將提供您最舒適的休息空間。",
+    "Address": "屏東縣三地門鄉中正路2段31巷2號",
+    "ZipCode": "901",
+    "Phone": "886-920-074397",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/90551.png?v=20240704",
+      "PictureDescription1": "吾妮的家歡迎您！Welcome to Wuni&#39;s House",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/90552.jpg?v=20240704",
+      "PictureDescription2": "吾妮民宿位置",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/90553.jpg?v=20240704",
+      "PictureDescription3": "這就是吾妮民宿喔！"
+    },
+    "Position": {
+      "PositionLon": 120.65234375,
+      "PositionLat": 22.011188507080078,
+      "GeoHash": "wevv1x027"
+    },
+    "Class": "民宿",
+    "Spec": "雙人房2200;雙人房2200;雙人房2200;雙人房2200;",
+    "ServiceInfo": "餐廳,無線網路,,,,,自行車友善旅宿",
+    "ParkingInfo": "車位:小客車2輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_026143",
+    "HotelName": "依依．良品風格民宿",
+    "Description": "台灣第一座眷村民宿，座落在高雄的左營海軍眷舍。依依.良品便是位於此處。張開雙臂歡迎大家來玩，體驗50年代與現代生活的結合。",
+    "Address": "高雄市左營區建業新村緯十路54-11號",
+    "ZipCode": "813",
+    "Phone": "886-917-859586",
+    "WebsiteUrl": "https://www.facebook.com/yiyi.homestyle/",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/88084.jpg?v=20240704",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/88469.jpg?v=20240704",
+      "PictureDescription2": "依依.良品風格民宿迎賓大廳",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/88469.jpg?v=20240704",
+      "PictureDescription3": "依依.良品風格民宿迎賓大廳"
+    },
+    "Position": {
+      "PositionLon": 120.17294311523438,
+      "PositionLat": 22.41415023803711,
+      "GeoHash": "wevrw877b"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "餐廳,會議場所,無線網路,國民旅遊卡,停車場,,,,導覽解說,體驗活動,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_026150",
+    "HotelName": "軍旅舍．四十一",
+    "Description": "將「以住代護」眷村民宿，回歸到居住的本質。 有別於一般旅館，我們的空間不是風格與形式的組成，也不是過度的服務與高級的享受，亦非民宿主人耗費心思的熱情招待，而是透過空間營造使旅客體驗人與人之間的互動，平衡生活現實、生活美學和各式想像，將生活感堆砌於眷村民宿之中。 「重現眷村生活樣貌，結合眷村與民宿的生活體驗」 我們在舊有建物的輪廓裡，以「共享」的概念進行空間規劃，開放式的生活空間，實現共享生活理念；不侷限室內外空間，在共用概念下(例如共用衛浴、廚房、娛樂室等)，讓人輕鬆沒壓力的互動，小至一個招呼，或是分享生活點滴。透過家具擺設的氛圍營造，即使一個人在客廳休息或閱讀，也能在共享的氛圍下找到專屬的獨立空間。 同時保有個人空間的生活型態，便能輕鬆讓毫無血緣關係的人們聚集在同一個屋簷下生活，即便短暫的一晚，也能輕易的融入並感受眷村的美好。",
+    "Address": "高雄市左營區建業新村41號",
+    "ZipCode": "813",
+    "Phone": "886-958-604142",
+    "WebsiteUrl": "https://m.facebook.com/goonnight",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/90830.jpg?v=20240704",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/90828.jpg?v=20240704",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/90829.jpg?v=20240704"
+    },
+    "Position": {
+      "PositionLon": 120.17281341552734,
+      "PositionLat": 22.414169311523438,
+      "GeoHash": "wevrw875v"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "無線網路,,,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_026152",
+    "HotelName": "小媽寶眷村民宿",
+    "Description": "高雄是全台最大的軍事聚落，同時擁有鳳山陸軍、左營海軍、岡山空軍等三軍眷村文化，這種獨特的人文風景是其他縣市所不及的，透過眷村保存活化，彰顯其內涵及文史價值，以此提供不同面貌的高雄。目前遺留下的建造物體現著過去的時間，越過樹蔭進了門，踏上眷舍泥地，可看到黑瓦躺在低矮平房上、寧靜無聲的室內迴間、庭院稍腐了的草木，仍可感受到這長長的眷村歲月在建築、人事上所發生的變化。走出廚房旁的小側門，四周有圍牆，彎曲小巷弄，或左或右皆能通到另一處眷村人家，那些我們曾在電視上、書上看到，比方說著重人情味、大家互相幫忙等，種種描述眷村生活的場景就在這裡，住眷村裡跟隔壁家常是互通的，自己家的孩子也像別人家的一樣，互借柴米油鹽都是再正常不過的事情，雖然建築物不像電視、書籍那樣說話，能告訴我們許許多多過往的歷史，但住進內部細細走讀空間痕跡，鍛造的鐵花窗、木窗、紅色大門、為防盜種植的植物、超甜的熱帶水果...等，盡是眷村小故事，也歡迎來自世界各地的您與我們分享屬於你(妳)的小故事。",
+    "Address": "高雄市左營區緯十路54-7號",
+    "ZipCode": "813",
+    "Phone": "886-980-424526",
+    "WebsiteUrl": "https://www.facebook.com/mamaboyhostel/",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/88427.jpg?v=20240704",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/88428.jpg?v=20240704",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/88343.jpg?v=20240704"
+    },
+    "Position": {
+      "PositionLon": 120.1729736328125,
+      "PositionLat": 22.4141902923584,
+      "GeoHash": "wevrw87k1"
+    },
+    "Class": "民宿",
+    "Spec": "雙人房4000;雙人房4000;雙人房4000;",
+    "ServiceInfo": "會議場所,無線網路,停車場,自助洗衣(免費),,,,美容室,接送服務,行動支付,導覽解說,體驗活動,寵物友善旅宿,,",
+    "ParkingInfo": "車位:小客車20輛、機車100輛、大客車10輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_026153",
+    "HotelName": "老媽寶眷村民宿",
+    "Description": "高雄是全台最大的軍事聚落，同時擁有鳳山陸軍、左營海軍、岡山空軍等三軍眷村文化，這種獨特的人文風景是其他縣市所不及的，透過眷村保存活化，彰顯其內涵及文史價值，以此提供不同面貌的高雄。目前遺留下的建造物體現著過去的時間，越過樹蔭進了門，踏上眷舍泥地，可看到黑瓦躺在低矮平房上、寧靜無聲的室內迴間、庭院稍腐了的草木，仍可感受到這長長的眷村歲月在建築、人事上所發生的變化。走出廚房旁的小側門，四周有圍牆，彎曲小巷弄，或左或右皆能通到另一處眷村人家，那些我們曾在電視上、書上看到，比方說著重人情味、大家互相幫忙等，種種描述眷村生活的場景就在這裡，住眷村裡跟隔壁家常是互通的，自己家的孩子也像別人家的一樣，互借柴米油鹽都是再正常不過的事情，雖然建築物不像電視、書籍那樣說話，能告訴我們許許多多過往的歷史，但住進內部細細走讀空間痕跡，鍛造的鐵花窗、木窗、紅色大門、為防盜種植的植物、超甜的熱帶水果...等，盡是眷村小故事，也歡迎來自世界各地的您與我們分享屬於你(妳)的小故事。地點近蓮池潭、高鐵、轉乘到佛陀紀念館、義大遊樂園、瑞豐夜市、世運主場館、再見捌捌陸、海軍故事館、雨豆樹林蔭大道、建業新村、明德新村。",
+    "Address": "高雄市左營區緯十路54-8號",
+    "ZipCode": "813",
+    "Phone": "886-980-424526",
+    "WebsiteUrl": "https://maps.app.goo.gl/wcZM8dd7wd1qoZnR7",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/88588.jpg?v=20240704",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/88587.jpg?v=20240704",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/88586.jpg?v=20240704"
+    },
+    "Position": {
+      "PositionLon": 120.17291259765625,
+      "PositionLat": 22.414220809936523,
+      "GeoHash": "wevrw87hr"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "無線網路,國民旅遊卡,停車場,自助洗衣(收費),,,,美容室,接送服務,自行車租借,行動支付,導覽解說,體驗活動,寵物友善旅宿,,",
+    "ParkingInfo": "車位:小客車10輛、機車20輛、大客車10輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_026192",
+    "HotelName": "阿婆家眷村民宿",
+    "Description": "位於高雄市的民宿",
+    "Address": "高雄市左營區建業新村54-5號",
+    "ZipCode": "813",
+    "Phone": "886-939-985041",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/88904.jpg?v=20240704",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/88903.jpg?v=20240704",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/88902.jpg?v=20240704"
+    },
+    "Position": {
+      "PositionLon": 120.17298889160156,
+      "PositionLat": 22.414140701293945,
+      "GeoHash": "wevrw877c"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "無線網路,停車場,自助洗衣(免費),,,,寵物友善旅宿,,,自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_026972",
+    "HotelName": "綠島極光輕旅民宿",
+    "Description": "位於臺東縣的離島 綠島極光民宿 我們在美麗太平洋中間島嶼 精彩美麗的海景及豐富海底世界～我們極光輕旅民宿設計風格 北歐風格 年輕人最愛的豪華獨立筒單人加大背包床設計及海景無敵的海景客廳，休閒放鬆最好的民宿離綠島機場,港口市區,免稅商店逛物,飲食機能都很方便，水域活動近在附近,是年輕大眾最喜歡的輕旅民宿。",
+    "Address": "臺東縣綠島鄉公館村柴口39號",
+    "ZipCode": "951",
+    "Phone": "886-933-993398",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/236601.jpg?v=20240704",
+      "PictureDescription1": "極光輕旅豪華單人加大背包床"
+    },
+    "Position": {
+      "PositionLon": 121.48226928710938,
+      "PositionLat": 22.675708770751953,
+      "GeoHash": "wsn2uruxw"
+    },
+    "Class": "民宿",
+    "Spec": "其他4500;",
+    "ServiceInfo": "會議場所,有線網路,無線網路,國民旅遊卡,停車場,上網電腦(免費),,,,接送服務,導覽解說,體驗活動,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_032000",
+    "HotelName": "蕎伊絲的店民宿",
+    "Description": "移居恆春半島 自地自建的家 歡迎您來居住～ #蕎伊絲的店Joyce&#39;s House Kitchen 。 恆春是個天然純淨的自由之地， 令人有著強烈的勇氣在這裡落腳下來 造夢、追夢。 在這裡有許多來自外地的追夢人 創造了許多的特色店家。 聽說恆春的泥土很黏人 一但踏上就被黏住了。  而我嚮往最初的單純生活 選擇了離恆春市區五公里 滿州永靖村一塊純淨綠天地 自地自建、 築上我的大夢想。 在這個的綠天地裡 依山傍海，景色怡人， 這的生活更是浪漫的許多。 夜空繁星點點，晨夕雲霧繚繞，不時一陣幽幽清風拂過，空氣清爽，蟲嗚鳥叫，農村的迷人風光在此表現的無疑。 望山、看海、泡湯、聽風、賞星，這都有。⋯⋯蕎伊絲的店民宿呈現給你最純淨的住宿環境，它的美待你來細品。  ＃我們在墾丁國家公園區域內，在佳樂水衝浪海灘附近，墾丁的火紅旅遊景點都距離不遠哦！ ＃國境之南住宿的新選擇。  Joyce‘House",
+    "Address": "屏東縣滿州鄉永靖村21鄰和興路8號",
+    "ZipCode": "947",
+    "Phone": "886-938-692557",
+    "WebsiteUrl": "https://www.facebook.com/%E8%95%8E%E4%BC%8A%E7%B5%B2%E7%9A%84%E5%BA%97Joyces-House-Kitchen-1553547311582281",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/174258.jpeg?v=20240704",
+      "PictureDescription1": "外觀",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/174491.jpeg?v=20240704",
+      "PictureDescription2": "歡樂家庭房",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/174495.jpeg?v=20240704",
+      "PictureDescription3": "歡樂家庭房房價＄3800～＄5000雲朵雙人房房價＄2200～$2000"
+    },
+    "Position": {
+      "PositionLon": 120.4755630493164,
+      "PositionLat": 22.004039764404297,
+      "GeoHash": "wevtjmxwu"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "餐廳,無線網路,停車場,自助洗衣(免費),,,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000008",
+    "HotelName": "思源居民宿",
+    "Description": "位於南投縣的民宿",
+    "Address": "南投縣埔里鎮水頭里水頭路1號",
+    "ZipCode": "545",
+    "Phone": "886-49-2927101",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/15545.jpg?v=20241007",
+      "PictureDescription1": "外觀"
+    },
+    "Position": {
+      "PositionLon": 120.97036743164062,
+      "PositionLat": 23.935199737548828,
+      "GeoHash": "wsq00trbt"
+    },
+    "Class": "民宿",
+    "ServiceInfo": "自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000063",
+    "HotelName": "杉林溪主題會館",
+    "Description": "主題會館以經濟溫馨的明亮設計為主，設有 227 間客房，擁有健身設備、KTV等休閒設施。餐廳提供山珍野味的團體合菜、宴席、散客套餐客飯及素食，豐富美味的佳餚，不論是團體或個人，都會是最經濟實惠的聚餐好選擇。",
+    "Address": "南投縣竹山鎮大鞍里溪山路6號",
+    "ZipCode": "557",
+    "Phone": "886-49-2611211",
+    "Fax": "886-49-2611216",
+    "WebsiteUrl": "https://www.goto307.com.tw",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/5377.jpg?v=20241007",
+      "PictureDescription1": "主題會館外觀",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/43794.jpg?v=20241007",
+      "PictureDescription2": "典雅雙人房",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/27047.jpg?v=20241007",
+      "PictureDescription3": "典雅四人房"
+    },
+    "Position": {
+      "PositionLon": 120.79212188720703,
+      "PositionLat": 23.639694213867188,
+      "GeoHash": "wsjykxqph"
+    },
+    "Class": "一般旅館",
+    "Spec": "雙人房(無障礙客房)4400;",
+    "ServiceInfo": "餐廳,會議場所,商店,無線網路,國民旅遊卡,停車場,高齡房,無障礙客房,,,,導覽解說,,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000134",
+    "HotelName": "杉林溪大飯店",
+    "Description": "杉林溪森林遊樂園區位於南投縣，行政區域屬竹山鎮，溪頭往阿里山之中途站，跨鹿谷竹山兩鄉鎮山區，全長17公里，屬省公路第151號公路延長，聯外道路是經二高下竹山交流道，經鹿谷溪頭再往上到達本園區，海拔介於1600公尺至1800公尺之間。杉林溪大飯店融合現代與新古典主義的精緻優雅建築風格，設有129間客房及2間VIP貴賓房，舒適溫馨的套房，浪漫柔美的燈光，窗外映著盈盈翠綠山色。",
+    "Address": "南投縣竹山鎮大鞍里溪山路20號",
+    "ZipCode": "557",
+    "Phone": "886-49-2611211",
+    "Fax": "886-49-2611216",
+    "WebsiteUrl": "https://www.goto307.com.tw",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/43816.jpg?v=20241007",
+      "PictureDescription1": "杉林溪大飯店 外觀",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/2621.jpg?v=20241007",
+      "PictureDescription2": "典雅二人房",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/37693.jpg?v=20241007",
+      "PictureDescription3": "典雅二人房 兩單床"
+    },
+    "Position": {
+      "PositionLon": 120.7907485961914,
+      "PositionLat": 23.636537551879883,
+      "GeoHash": "wsjykwvhu"
+    },
+    "Class": "一般旅館",
+    "Spec": "其他(無障礙客房)0;",
+    "ServiceInfo": "餐廳,會議場所,咖啡廳,商店,無線網路,國民旅遊卡,停車場,高齡房,無障礙客房,,,,導覽解說,,",
+    "ParkingInfo": "車位:小客車500輛、機車100輛、大客車30輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000193",
+    "HotelName": "慧來農莊民宿",
+    "Description": "位於埔里桃米生態村內的「埔里慧來農莊民宿」，可說是佔了最佳環境的地理優勢，豐富的生態資源及藏身於各處的動物蹤跡，都將會是此處最常見的景物畫面；座落在農莊內的都是由原生樹種及植物所構築的景色，您還可在其中發現不時出沒的桃米村動物主角「青蛙」，若您正好對蛙類充滿興趣，那麼「埔里慧來莊民宿」將會是你挖寶的好去處喔。「埔里慧來農莊民宿」有提供雙人、四人及八人通舖之房型，簡單俐落的客房擺設，以及清幽環境所擁有的寧靜特質，都大大提升了居住的舒適度，不論是客房或共用客廳，每個空間皆散發著居家般的舒適與清閒；民宿主人將二樓的長廊空間，規劃為休憩賞景區，除了可在此聊天話家長外，還可遠眺暨南大學及欣賞夕陽之美。「埔里慧來農莊民宿」內種有數十種果樹，若入住之時正逢產季，住客還可免費摘採品嚐；值得推薦的莫過於主人所親手打造的冷泉SPA池了，不過請特別注意，這適合大人小孩的戲水池，可是只有在每年的7至9月份才有開放。埔里慧來農莊民宿」的女主人可是擁有專業解說員之認證資格，除了入住旅客可享有免費之夜間導覽外，亦有開放團體導覽解說之預約服務。",
+    "Address": "南投縣埔里鎮桃米里桃米巷2-1號",
+    "ZipCode": "545",
+    "Phone": "886-49-2918778",
+    "Fax": "886-49-2910981",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/12315.JPG?v=20241007",
+      "PictureDescription1": "外觀",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/16323.JPG?v=20241007",
+      "PictureDescription2": "生態池",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/32119.JPG?v=20241007",
+      "PictureDescription3": "大廳"
+    },
+    "Position": {
+      "PositionLon": 120.94337463378906,
+      "PositionLat": 23.93915557861328,
+      "GeoHash": "wsq00jur8"
+    },
+    "Class": "民宿",
+    "Spec": "雙人房2200;套房3200;套房5800;",
+    "ServiceInfo": "停車場,餐廳,有線網路,,,導覽解說,",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000221",
+    "HotelName": "東光大飯店",
+    "Description": "東光大飯店位於位屬南投縣信義鄉東埔溫泉風景區，以天然溫泉及山景著稱，海拔約1200公尺高，陳有蘭溪環繞而過，前有新中橫，後接八通關古道，是兩者間的中繼站、玉山國家公園的臨界點。四周群山羅列，有群大山、望鄉山、玉山，是造訪八通關、登玉山最佳門徑。本飯店引入東埔天然溫泉，水源取自望鄉山麓，水量豐富，四季不竭，水質清澈透明，無色無味，為礦泉水之極品，溫度約47度C，乃屬弱鹼碳酸泉，可飲、可泡湯。本飯店還有天然溫泉SPA及精緻的梅餐、蕃茄餐、四季野菜等，保證物超所值；住在本飯店，不但可以舒服泡湯，也讓你享受到東埔道地風味餐。",
+    "Address": "南投縣信義鄉東埔村開高巷72-2號",
+    "ZipCode": "556",
+    "Phone": "886-49-2701105",
+    "Fax": "886-49-2702106",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/3601.JPG?v=20241007",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/16175.JPG?v=20241007",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/28449.jpg?v=20241007"
+    },
+    "Position": {
+      "PositionLon": 120.92819213867188,
+      "PositionLat": 23.561426162719727,
+      "GeoHash": "wsjypc1pr"
+    },
+    "Class": "一般旅館",
+    "Spec": "套房3780;雙人房2160;套房3240;",
+    "ServiceInfo": "有線網路,餐廳,,,自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000242",
+    "HotelName": "蘋果的家渡假別墅民宿",
+    "Description": "蘋果的家民宿座落於集集小鎮上，自民宿漫步至集集火車站數分鐘可達，而周邊更有明新書院、綠色隧道、特有生物保育中心、武昌宮…等旅遊景點，交通十分便捷。本民宿為四層樓的SRC鋼骨建築，外觀極為氣派，是集集地區唯一有電梯設備貼心服務的民宿。別墅四周綠意盎然一片，套房空間寬敞，有陽台及落地窗，在夜裡有星星及涼風吹來很有氣氛，但須注意保暖，夜裡的涼風至早上太陽升起便會停止，此現象是高山與平地冷熱對流的新鮮空氣，夜裡窗戶微開，芬多精進入房間是最佳獨立建物所享有的特質。",
+    "Address": "南投縣集集鎮八張里1鄰民權路272號",
+    "ZipCode": "552",
+    "Phone": "886-49-2760543",
+    "Fax": "886-49-2764671",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/16343.JPG?v=20241007",
+      "PictureDescription1": "公共設施",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/39699.JPG?v=20241007",
+      "PictureDescription2": "外觀",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/50850.JPG?v=20241007",
+      "PictureDescription3": "大廳"
+    },
+    "Position": {
+      "PositionLon": 120.79206085205078,
+      "PositionLat": 23.826927185058594,
+      "GeoHash": "wsjzs9w1g"
+    },
+    "Class": "民宿",
+    "Spec": "套房5400;其他9600;雙人房3600;套房5400;",
+    "ServiceInfo": "餐廳,有線網路,無線網路,國民旅遊卡,停車場,,,,,自行車友善旅宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  },
+  {
+    "HotelID": "C4_A15010000H_000270",
+    "HotelName": "鳳誼製茶民宿",
+    "Description": "位於南投縣的民宿",
+    "Address": "南投縣鹿谷鄉鳳凰村2鄰鳳園路11號",
+    "ZipCode": "558",
+    "Phone": "886-49-2755778",
+    "Picture": {
+      "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/3005.jpg?v=20241007",
+      "PictureDescription1": "107二~四人房",
+      "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/15641.jpg?v=20241007",
+      "PictureDescription2": "108四人房",
+      "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/42496.jpg?v=20241007",
+      "PictureDescription3": "105雙人房"
+    },
+    "Position": {
+      "PositionLon": 120.78536987304688,
+      "PositionLat": 23.73447608947754,
+      "GeoHash": "wsjzh89pr"
+    },
+    "Class": "民宿",
+    "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-08T01:56:03+08:00",
+    "UpdateTime": "2024-10-08T02:14:56+08:00"
+  }
+]

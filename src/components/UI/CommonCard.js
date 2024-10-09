@@ -1,68 +1,102 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import styles from './CommonCard.module.scss'
+import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faLocationDot} from '@fortawesome/free-solid-svg-icons'
 
-const CommonCard = () => {
+// import activityData from '../../data/activity01.json'
+const CommonCard = (props) => {
+    const {activityData,type,accommodationData,attractionData} = props
+    console.log('type',type)
+    // const {} = props
+    // const [cardType,setCardType] = useState('')
+    
+    // attractionData && console.log('CommonCard-->attractiondata',attractionData.Images)
+    let pic,name,address,city,description;
+    let tags = []
+    useEffect(()=>{
+        
+
+    })
+    
+    
+    switch(type){
+        case 'activity':
+            pic = activityData ? activityData.Picture.PictureUrl1 : "/img/test.jpg"
+            name = activityData ? activityData.ActivityName :"data not found"
+            address = activityData ? activityData.Address :"地址未提供"
+            if(activityData){
+                // console.log('activityData',activityData)
+                let arr = Object.entries(activityData) // 將物件的{key:value,key:value}=>[[key:value],[key:value]]
+                tags = arr.filter((item)=> item[0].startsWith("Class")) // 篩選出[["class","xxx"],["class2","xxx"]]
+                // tags = tags.map(tag=>tag[1])
+            }
+            city = activityData ? activityData.City :"錯誤"
+            break;
+        case 'accommodation':
+            pic = accommodationData ? accommodationData.Picture.PictureUrl1 : "/img/test.jpg"
+            name = accommodationData ? accommodationData.HotelName : "data not found"
+            address = accommodationData ? accommodationData.Address :"地址未提供"
+            // console.log('accommodationData',accommodationData)
+        
+        case 'attraction':
+            pic = attractionData ? attractionData.Images[0].URL : "/img/test.jpg"
+            name = attractionData ? attractionData.AttractionName : "data not found"
+            let fullAddress = attractionData && `${attractionData.PostalAddress.City}${attractionData.PostalAddress.Town}${attractionData.PostalAddress.StreetAddress}`
+            address = attractionData ? fullAddress :"地址未提供"
+            // console.log('address',address)
+            description = attractionData ? attractionData.Description :"未提供描述"
+            let textLength = 100
+            if(description.length >= textLength){
+                description = description.substring(0,textLength) + "..."
+            }
+            // console.log('accommodationData',accommodationData)
+        
+    }
+  
+    useEffect(()=>{
+        // console.log('CommonCard datas===>',datas)
+        // console.log('CommonCard=>',props)
+        // console.log(data)
+        // console.log(datas.Picture)
+        
+    })
     return (
-        <div className={styles.commonCard__outer}>
-            <div className={styles.commonCard}>
-                <div className={styles.commonCard__img}>
-                    <img src="/img/test.jpg" alt="" />
-                </div>
-                <div className={styles.commonCard__text}>
-                    <h3 className={styles["commonCard__text-main"]}>2021大溪豆干節</h3>
-                    <span className={styles["commonCard__text-sub"]}>桃園市政府觀光旅遊局</span>
-                </div                       >
-                <div className={styles["commonCard__tag-zone"]}>
-                    <div className={styles["commonCard__tag-zone--keyword"]}>
-                        <span>年度</span>
-                        <span>藝文</span>
-                    </div>
-                    <span className={styles["commonCard__tag-zone--city"]}>
-                        桃園市
-                    </span>
-                </div>
-            </div>          
-            <div className={styles.commonCard}>
-                <div className={styles.commonCard__img}>
-                    <img src="/img/test.jpg" alt="" />
-                </div>
-                <div className={styles.commonCard__text}>
-                    <h3 className={styles["commonCard__text-main"]}>2021大溪豆干節</h3>
-                    <span className={styles["commonCard__text-sub"]}>桃園市政府觀光旅遊局</span>
-                </div>
-                <div className={styles["commonCard__tag-zone"]}>
-                    <div className={styles["commonCard__tag-zone--keyword"]}>
-                        <span>年度</span>
-                        <span>藝文</span>
-                    </div>
-                    <span className={styles["commonCard__tag-zone--city"]}>
-                        桃園市
-                    </span>
-                </div>
-
+        <>
+        {/* { cardType === props.type} */}
+        <div className={styles.commonCard}>
+            <div className={styles.commonCard__img}>
+                {/* <img src="/img/test.jpg" alt="" /> */}
+                <img src={pic} alt="" />
             </div>
-
-            <div className={styles.commonCard}>
-                <div className={styles.commonCard__img}>
-                    <img src="/img/test.jpg" alt="" />
+            <div className={styles.commonCard__text}>
+                <h3 className={styles["commonCard__text-main"]}>{name}</h3>
+                {
+                    type === "attraction" ? <p className={styles["commonCard__text-desc"]}>{description}</p> : ''
+                }
+                {
+                    type === "attraction" ? 
+                        <span className={styles["commonCard__text-address"]}>
+                            <FontAwesomeIcon icon={faLocationDot} />
+                            {address}
+                        </span> :  <span className={styles["commonCard__text-sub"]}>{address}</span>
+                }
+            </div>
+            <div className={styles["commonCard__tag-zone"]}>
+                <div className={styles["commonCard__tag-zone--keyword"]}>
+                    {
+                    tags.map( (tag,i) =>{
+                        return (
+                            <span key={i}>{tag[1].slice(0,2)}</span>
+                        )    
+                    })
+                    }
                 </div>
-                <div className={styles.commonCard__text}>
-                    <h3 className={styles["commonCard__text-main"]}>2021大溪豆干節</h3>
-                    <span className={styles["commonCard__text-sub"]}>桃園市政府觀光旅遊局</span>
-                </div>
-                <div className={styles["commonCard__tag-zone"]}>
-                    <div className={styles["commonCard__tag-zone--keyword"]}>
-                        <span>年度</span>
-                        <span>藝文</span>
-                    </div>
-                    <span className={styles["commonCard__tag-zone--city"]}>
-                        桃園市
-                    </span>
-                </div>
-
-            </div>  
-        </div>
-    )
+                <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
+            </div>
+        </div>   
+        </>
+    )         
+    
 }
 
 export default CommonCard;

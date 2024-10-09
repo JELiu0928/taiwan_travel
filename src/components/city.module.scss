@@ -1,0 +1,301 @@
+@import "../styles/base";
+.container{
+    max-width: 1440px;
+    margin: auto 17.5%;
+    // overflow: hidden;
+
+}
+.city{
+    &__banner{
+        height: 15rem;
+        width: 100%;
+        & >img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+    &__cityChoose{
+        text-align: center;
+        background-color: $color-tertiary;
+
+    }
+    &__cityCard{
+        @include flexCenter();
+        flex-direction: column;
+        &-choose{
+            margin-top: 3.8rem;
+            margin-bottom: 6.2rem;
+        }
+    }
+    &__attraction{
+        position: relative;
+        width: (29rem *4 + 2.5rem*3);
+        &-text{
+            // padding-bottom: 3rem;
+            padding-top: 12rem;
+            & > span{
+                font-size: 2.6rem;
+                font-weight: 500;
+            
+            }
+            & > span:first-child{
+                color: $color-primary;
+                padding-right: 1.5rem;
+                
+            }
+        }
+        &-card{
+            // display: flex;
+            // @include flexCenter();
+            display: grid;
+            // grid-template-columns: repeat(auto-fill, 29rem);
+            grid-template-columns: repeat(8,29rem); 
+            gap: 2.5rem;
+            overflow-x: hidden;
+            // margin: 0 auto;
+            // max-width: calc(29rem * 4 + 2.5rem * 3 + 100px * 2);
+            
+            // height: 300px;
+            position: relative;
+            // overflow-x: auto; /* 啟用水平滾動 */
+            scroll-behavior: smooth; /* 平滑滾動 */
+            padding-bottom: 5.6rem;
+            // transition: 2s;
+            &>div{
+                margin-top: 3rem;
+
+            }
+        }
+        &--btn{
+            @include directionButton();
+        }
+        &--leftBtn{
+            @include leftButton();
+            left: (-7.2rem/2);
+            top: 50%;
+            transform: scaleX(-1) translateY(-50%);
+        }
+        &--rightBtn{
+            @include rightButton();
+            right: (-7.2rem/2);
+            top: 50%;
+            transform:translateY(-50%)
+        }
+        &-cardState{
+            display:flex;
+            justify-content: center;
+            & > span{
+                height: 8px;
+                width: 30px;
+                background-color: $color-primary;
+                border-radius: 3.7rem;
+                &:not(:first-child){
+                    width: 8px;
+                    border-radius: 50%;
+                    background-color: #CDCDCD;
+                    margin-left: .6rem;
+                }
+            }
+        }
+    }
+    &__activiry{
+        position: relative;
+        width: (29rem *4 + 2.5rem*3);
+        &-text{
+            // padding-bottom: 3rem;
+            padding-top: 12rem;
+            & > span{
+                font-size: 2.6rem;
+                font-weight: 500;        
+            }
+            & > span:first-child{
+                color: $color-primary;
+                padding-right: 1.5rem;
+            }
+        }
+        &-card{
+            display: grid;
+            grid-template-columns: repeat(auto-fill,29rem); 
+            gap: 2.5rem;
+            overflow-x: hidden;
+            position: relative;
+            scroll-behavior: smooth; 
+            margin-top: 3rem;
+        }
+        &--btn{
+            @include directionButton();
+        }
+        &--leftBtn{
+            @include leftButton();
+            left: (-7.2rem/2);
+            top: 50%;
+            transform: scaleX(-1) translateY(-50%);
+        }
+        &--rightBtn{
+            @include rightButton();
+            right: (-7.2rem/2);
+            top: 50%;
+            transform:translateY(-50%)
+        }
+        &-cardState{
+            display:flex;
+            justify-content: center;
+            margin-bottom: 6.6rem;
+            margin-top: 5.6rem;
+
+            & > span{
+                height: 8px;
+                width: 30px;
+                background-color: $color-primary;
+                border-radius: 3.7rem;
+                &:not(:first-child){
+                    width: 8px;
+                    border-radius: 50%;
+                    background-color: #CDCDCD;
+                    margin-left: .6rem;
+                }
+            }
+        }
+    }
+
+    &__food{
+        position: relative;
+        width: (23rem *5 + 2rem*4);
+        margin: auto 17.5%;
+
+        &-outer{
+            background-color: $color-tertiary;
+        }
+        &-text{
+            // padding-bottom: 3rem;
+            margin: auto 17.5%;
+            padding-top: 5.4rem;
+            & > span{
+                font-size: 2.6rem;
+                font-weight: 500;
+            
+            }
+            & > span:first-child{
+                color: $color-primary;
+                padding-right: 1.5rem;
+                
+            }
+        }
+        &-card{
+   
+            display: grid;
+            grid-template-columns: repeat(auto-fill,23rem); 
+            gap: 2rem;
+            overflow: hidden;
+            position: relative;
+            // overflow-x: auto; /* 啟用水平滾動 */
+            scroll-behavior: smooth; /* 平滑滾動 */
+            // transition: 2s;
+            margin-top: 3rem;
+            &>div{
+                height: 23.1rem;
+                &>img{
+                    object-fit: cover;
+                }
+            }
+        }
+        &--btn{
+            @include directionButton();
+        }
+        &--leftBtn{
+            @include leftButton();
+            left: (-7.2rem/2);
+            top: 50%;
+            transform: scaleX(-1) translateY(-50%);
+        }
+        &--rightBtn{
+            @include rightButton();
+            right: (-7.2rem/2);
+            top: 50%;
+            transform:translateY(-50%)
+        }
+        &-cardState{
+            display:flex;
+            justify-content: center;
+            padding-bottom: 6.6rem;
+            margin-top: 5.6rem;
+
+
+            & > span{
+                height: 8px;
+                width: 30px;
+                background-color: $color-primary;
+                border-radius: 3.7rem;
+                &:not(:first-child){
+                    width: 8px;
+                    border-radius: 50%;
+                    background-color: #CDCDCD;
+                    margin-left: .6rem;
+                }
+            }
+        }
+    }
+    &__accommodation{
+        position: relative;
+        width: (29rem *4 + 2.5rem*3);
+        &-text{
+            // padding-bottom: 3rem;
+            padding-top: 5.4rem;
+            & > span{
+                font-size: 2.6rem;
+                font-weight: 500;
+            
+            }
+            & > span:first-child{
+                color: $color-primary;
+                padding-right: 1.5rem;
+                
+            }
+        }
+        &-card{
+            display: grid;
+            grid-template-columns: repeat(auto-fill,29rem); 
+            gap: 2.5rem;
+            overflow: hidden;
+            position: relative;
+            scroll-behavior: smooth; 
+            margin-top: 3rem;
+     
+        }
+        &--btn{
+            @include directionButton();
+        }
+        &--leftBtn{
+            @include leftButton();
+            left: (-7.2rem/2);
+            top: 50%;
+            transform: scaleX(-1) translateY(-50%);
+        }
+        &--rightBtn{
+            @include rightButton();
+            right: (-7.2rem/2);
+            top: 50%;
+            transform:translateY(-50%)
+        }
+        &-cardState{
+            display:flex;
+            justify-content: center;
+            margin-bottom: 6.6rem;
+            margin-top: 5.6rem;
+
+            & > span{
+                height: 8px;
+                width: 30px;
+                background-color: $color-primary;
+                border-radius: 3.7rem;
+                &:not(:first-child){
+                    width: 8px;
+                    border-radius: 50%;
+                    background-color: #CDCDCD;
+                    margin-left: .6rem;
+                }
+            }
+        }
+    }
+}

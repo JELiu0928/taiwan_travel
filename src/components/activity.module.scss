@@ -1,0 +1,126 @@
+@import "../styles/base";
+
+.container{
+    // width: 100%;
+
+    // max-width: 1440px;
+    margin: 0 calc((100% - (29rem * 4) - (2.5rem * 3))/2);
+    // margin: 0 200px;
+    // margin: auto 30%;
+    // overflow: hidden;
+    // font-size: larger;
+}
+.activity{
+    &__title{
+        // padding-top: 12rem;
+        margin-top: 5.2rem;
+        margin-bottom: 4.5rem;
+        & > span{
+            font-size: 2.6rem;
+            font-weight: 500;
+            
+        }
+    }
+    &__Choose{
+        background-color: $color-tertiary;
+        display: flex;
+        height: 16.6rem;
+        border-radius: 1rem;
+        overflow: hidden;
+        width: 100%;
+        // margin: 3.2rem;
+        &-outer{
+            
+            // display: flex;
+            // position: relative;
+            // width: 28.75%;
+            // justify-content: center;
+        }
+        &-area{
+            padding: 0 3.2rem;
+            background-color: #F2F2F2;
+            list-style: none;
+            border-right: 1px solid #DEDEDE;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(8.7rem, 1fr));
+            align-content: center;
+            justify-content: center;
+            min-width: 28.75%;
+            // width: 100%;
+            position: relative;
+
+            &::before{
+                content: '';
+                position: absolute;
+                right: -13px *2;
+                top: 50%;
+                transform: translateY(-50%);
+                border-top: 13px solid transparent; 
+                border-right: 13px solid transparent; 
+                border-bottom: 13px solid transparent; 
+                border-left: 13px solid $color-primary; 
+
+            }
+            & > li > button{
+                @include capsuleBtn();
+                // padding: 0;
+                background-color: $color-primary;
+                color: #fff;
+                // vertical-align: middle;
+            }
+            & >li > button:not(.activity__Choose-area--active){
+                background-color: transparent;
+                color: #000;
+            }
+        }
+        &-city{
+            // flex: 1;
+            flex-shrink: 0;
+            // border-right: 1px solid red;
+            // width: 100%;
+            // height: 100%;
+            // margin: 0 auto;
+            padding: 0 5%;
+            & > ul{
+                align-items: center;
+            }
+        // background-color: $color-tertiary;
+         
+        }
+        
+    }
+    &__featured{
+        &-text{
+            margin-top: 8.5rem;
+            margin-bottom: 3.3rem;
+            & > span{
+                vertical-align: middle;
+                // display: block;
+                line-height: 1.5;
+                font-weight: 500;
+                font-size: 1.6rem;
+                & > span{
+                    font-weight: 500;
+                    color: $color-primary;
+                }
+            }
+            & > span:first-child{
+                padding-right: 2.2rem;
+                font-size: 2.6rem;
+            }
+        }
+    }
+    &__card{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,29rem);
+        gap: 2.5rem;
+        justify-content: center;
+        grid-auto-flow: row;
+        max-width: calc(29rem * 4 + 2.5rem * 3);
+        width: 100%;
+
+    }
+    &__page{
+        margin: 8.2rem ;
+    }
+}
