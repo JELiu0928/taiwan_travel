@@ -3,11 +3,14 @@ body{
     overflow-x: hidden;
 }
 .container{
+    @include flexCenter();
+    flex-direction: column;
     // max-width: 1440px;
-    margin: auto 17.5%;
     // overflow: hidden;
     width: 100%;
     // margin: 0 10rem;
+    margin-bottom: 6.6rem;
+    padding-top: 5.6rem;
     
 }
 .city{
@@ -23,14 +26,18 @@ body{
     &__cityChoose{
         text-align: center;
         background-color: $color-tertiary;
-
     }
     &__cityCard{
+        width: 100%;
         @include flexCenter();
         flex-direction: column;
+        // width: 90rem;
+        flex-wrap: wrap;
         &-choose{
             margin-top: 3.8rem;
             margin-bottom: 6.2rem;
+            display: flex;
+            justify-content: center;
         }
     }
     &__attraction{
@@ -38,12 +45,11 @@ body{
         // width: (29rem *4 + 2.5rem*3);
         // overflow: hidden;
         &-text{
-            // padding-bottom: 3rem;
-            padding-top: 12rem;
+            padding-top: 2.5rem;
+            padding-left: 2.5rem;
             & > span{
                 font-size: 2.6rem;
                 font-weight: 500;
-            
             }
             & > span:first-child{
                 color: $color-primary;
@@ -52,74 +58,82 @@ body{
             }
         }
         &-card{
-            position: relative;
             display: grid;
-            // grid-template-columns: repeat(auto-fill, 29rem);
-            grid-template-columns: repeat(8,29rem); 
             gap: 2.5rem;
-            // overflow: auto;
-            // overflow-x: auto; /* 啟用水平滾動 */
-            scroll-behavior: smooth; /* 平滑滾動 */
-            padding-bottom: 5.6rem;
+            grid-template-columns: repeat(6,29rem); 
+            position: relative;
             transition: 1s;
+            // grid-template-columns: repeat(auto-fill, 29rem);
+            // padding-bottom: 5.6rem;
             &--container{
                 overflow-x: hidden;
-
+                scroll-behavior: smooth; /* 平滑滾動 */
+                padding: 2.5rem ;
                 // overflow: hidden;
-                width: (29rem *4 + 2.5rem*3 + 3rem);
-                display: flex;
-                justify-content: center;
-                // width: 1000px;
-                position: relative;
-                z-index: 3;
-            }
-            &>div{
-                margin-top: 3rem;
-
+                // width: (29rem *4 + 2.5rem * 3 + 3rem);
+                width: (29rem *4 + 2.5rem * 3 + 5rem);
+                // border:  1px solid red;
+                transition: .5s;
+                @include respond(mid-desktop){
+                    width: (29rem *2 + 2.5rem *1 + 5rem);         
+                }
+                @include respond(small-tab){
+                    width: (29rem + 5rem);         
+                }
             }
         }
         &--btn{
             @include directionButton();
             z-index: 10;
-
         }
         &--leftBtn{
             @include leftButton();
             left: (-7.2rem/2);
-            top: 50%;
-            transform: scaleX(-1) translateY(-50%);
+            // top: 0;
+            // top: 50%;
+            top: 48%;
+            // transform: scaleX(-1) translateY(-50%);
+            transform: scaleX(-1);
         }
         &--rightBtn{
             @include rightButton();
             // right: (-7.2rem/2);
-            right: 59.5rem;
+            right: (-7.2rem/2);
             top: 50%;
-            transform:translateY(-50%)
+            top: 48%;
+
+            // transform:translateY(-50%)
         }
         &-cardState{
             display:flex;
             justify-content: center;
-            & > span{
+            // padding-top: 3rem;
+
+            &--active{
                 height: 8px;
                 width: 30px;
                 background-color: $color-primary;
                 border-radius: 3.7rem;
-                &:not(:first-child){
+            }
+            & > span{
+                // height: 8px;
+                // width: 30px;
+                // background-color: $color-primary;
+                // border-radius: 3.7rem;
+                &:not(.city__attraction-cardState--active){
                     width: 8px;
                     border-radius: 50%;
                     background-color: #CDCDCD;
-                    margin-left: .6rem;
+                    margin: 0 .6rem;
                 }
             }
         }
     }
     &__activity{
+        // margin-top: 5.6rem;
         position: relative;
-        width: (29rem *4 + 2.5rem*3);
-        margin: auto 17.5%;
-        &-container{
-            
-        }
+        // width: (29rem *4 + 2.5rem * 3);
+        // margin: auto 17.5%;
         &-text{
             // padding-bottom: 3rem;
             padding-top: 12rem;
@@ -134,12 +148,30 @@ body{
         }
         &-card{
             display: grid;
-            grid-template-columns: repeat(auto-fill,29rem); 
+            grid-template-columns: repeat(6,29rem); 
             gap: 2.5rem;
-            overflow-x: hidden;
             position: relative;
-            scroll-behavior: smooth; 
-            margin-top: 3rem;
+            transition: 1s;
+            // overflow-x: hidden;
+            // scroll-behavior: smooth; 
+            // margin-top: 3rem;
+            &--container{
+                overflow: hidden;
+                scroll-behavior: smooth; /* 平滑滾動 */
+                padding: 2.5rem;
+                // border:  1px solid red;
+                
+                width: (29rem * 4 + 2.5rem * 3);
+                width: (29rem *4 + 2.5rem * 3 + 5rem);
+                // transition: 1s;
+
+                @include respond(mid-desktop){
+                    width: (29rem *2 + 2.5rem *1 + 5rem);         
+                }
+                @include respond(small-tab){
+                    width: (29rem + 5rem);         
+                }
+            }
         }
         &--btn{
             @include directionButton();
@@ -148,19 +180,22 @@ body{
             @include leftButton();
             left: (-7.2rem/2);
             top: 50%;
-            transform: scaleX(-1) translateY(-50%);
+            // top: 48%;
+            // transform: scaleX(-1) translateY(-50%);
+            transform: scaleX(-1);
         }
         &--rightBtn{
             @include rightButton();
             right: (-7.2rem/2);
             top: 50%;
-            transform:translateY(-50%)
+            // top: 48%;
+
+            // transform:translateY(-50%)
         }
         &-cardState{
             display:flex;
             justify-content: center;
-            margin-bottom: 6.6rem;
-            margin-top: 5.6rem;
+            // margin-bottom: 6.6rem;
 
             & > span{
                 height: 8px;
@@ -179,20 +214,32 @@ body{
 
     &__food{
         position: relative;
-        width: (23rem *5 + 2rem*4);
-        margin: auto 17.5%;
+        // width: (23rem * 5 + 2rem * 4);
+        // margin: auto 17.5%;
+        // margin-top: 5.6rem;
+        
+        
+        // width: 100%;
+        position: relative;
+        &--outer{
+            padding-top: 5.6rem;
 
-        &-outer{
             background-color: $color-tertiary;
+            @include flexCenter();
+            flex-direction: column;
+            padding-bottom: 6.6rem;
+
         }
         &-text{
             // padding-bottom: 3rem;
-            margin: auto 17.5%;
-            padding-top: 5.4rem;
+            // margin: auto 17.5%;
+            // padding-top: 5.4rem;
+            // margin-bottom: 3rem;
+            padding-top: 2.5rem;
+            // padding-left: 2.5rem;
             & > span{
                 font-size: 2.6rem;
                 font-weight: 500;
-            
             }
             & > span:first-child{
                 color: $color-primary;
@@ -201,16 +248,32 @@ body{
             }
         }
         &-card{
-   
             display: grid;
-            grid-template-columns: repeat(auto-fill,23rem); 
+            // grid-template-columns: repeat(auto-fill,23.1rem); 
+            grid-template-columns: repeat(7,23.1rem); 
             gap: 2rem;
-            overflow: hidden;
+            // overflow: hidden;
             position: relative;
             // overflow-x: auto; /* 啟用水平滾動 */
-            scroll-behavior: smooth; /* 平滑滾動 */
-            // transition: 2s;
-            margin-top: 3rem;
+            transition: 1s;
+            // margin-top: 3rem;
+
+            &--container{
+                overflow: hidden;
+                scroll-behavior: smooth; /* 平滑滾動 */
+                
+                width: (23.1rem * 5 + 2rem * 4);
+                // border: 1px solid red;
+                // border:  1px solid red;
+                padding:2rem 0;
+                transition: .5s;
+                @include respond(mid-desktop){
+                    width: (23.1rem * 3 + 2rem * 2);         
+                }
+                @include respond(small-tab){
+                    width: (23.1rem );         
+                }
+            }
             &>div{
                 height: 23.1rem;
                 &>img{
@@ -223,21 +286,26 @@ body{
         }
         &--leftBtn{
             @include leftButton();
-            left: (-7.2rem/2);
-            top: 50%;
-            transform: scaleX(-1) translateY(-50%);
+            left: (-7.2rem / 2);
+            // left: -5.6rem;
+            top: 48%;
+            // transform: scaleX(-1) translateY(-50%);
+            transform: scaleX(-1);
         }
         &--rightBtn{
             @include rightButton();
-            right: (-7.2rem/2);
+            right: (-7.2rem / 2);
+            // right: -5.6rem;
             top: 50%;
-            transform:translateY(-50%)
+            top: 48%;
+
+            // transform:translateY(-50%)
         }
         &-cardState{
             display:flex;
             justify-content: center;
-            padding-bottom: 6.6rem;
-            margin-top: 5.6rem;
+            // padding-bottom: 6.6rem;
+            // margin-top: 5.6rem;
 
 
             & > span{
@@ -256,9 +324,10 @@ body{
     }
     &__accommodation{
         position: relative;
-        width: (29rem *4 + 2.5rem*3);
+        // width: (29rem *4 + 2.5rem * 3);
         &-text{
             // padding-bottom: 3rem;
+            margin-bottom: 3rem;
             padding-top: 5.4rem;
             & > span{
                 font-size: 2.6rem;
@@ -273,13 +342,30 @@ body{
         }
         &-card{
             display: grid;
-            grid-template-columns: repeat(auto-fill,29rem); 
+            grid-template-columns: repeat(6,29rem); 
             gap: 2.5rem;
-            overflow: hidden;
+            // overflow: hidden;
             position: relative;
-            scroll-behavior: smooth; 
-            margin-top: 3rem;
-     
+            // scroll-behavior: smooth; 
+            // margin-top: 3rem;
+            transition: 1s;
+            // border:  1px solid red;
+
+            &--container{
+                overflow: hidden;
+                scroll-behavior: smooth; /* 平滑滾動 */
+                padding: 2.5rem;
+                width: (29rem * 4 + 2.5rem * 3 + 5rem);
+                // border: 1px solid red;
+                transition: .5s;
+
+                @include respond(mid-desktop){
+                    width: (29rem *2 + 2.5rem *1 + 5rem);         
+                }
+                @include respond(small-tab){
+                    width: (29rem + 5rem);         
+                }
+            }
         }
         &--btn{
             @include directionButton();
@@ -288,19 +374,22 @@ body{
             @include leftButton();
             left: (-7.2rem/2);
             top: 50%;
-            transform: scaleX(-1) translateY(-50%);
+            top: 48%;
+            transform: scaleX(-1);
+            // transform: scaleX(-1) translateY(-50%);
         }
         &--rightBtn{
             @include rightButton();
             right: (-7.2rem/2);
             top: 50%;
-            transform:translateY(-50%)
+            top: 48%;
+
+            // transform:translateY(-50%)
         }
         &-cardState{
             display:flex;
             justify-content: center;
-            margin-bottom: 6.6rem;
-            margin-top: 5.6rem;
+            // margin-top: 5.6rem;
 
             & > span{
                 height: 8px;

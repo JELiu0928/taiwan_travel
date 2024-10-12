@@ -3,12 +3,12 @@
     display: flex;
     width: 100%;
     height: 100%;
-    // @include flexCenter();
-    // justify-self: center;
-    // justify-content: center;
-    // align-items: center;
-    // margin-top: 3.8rem;
-    // margin-bottom: 6.2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    @include respond(small-tab){
+        width: 80%;   
+    }
     &__area{
         list-style: none;
         &>button:not(.areaChoose__area--active){

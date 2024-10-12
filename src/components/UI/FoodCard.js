@@ -1,8 +1,9 @@
 import React from 'react'
-import styles from './FoodCard.module.scss'
+import styles from './foodCard.module.scss'
 
 const FoodCard = (props) => {
     const {foodData :datas} = props
+    // const filteredData = datas.filter((item)=> item.Images && item.Image.length > 0)
 
     return (
         <>

@@ -165,7 +165,7 @@ main{
     }
     display: flex;
     // justify-content: left;
-    @include flexCenter();
+    @include flexCenter;
     // justify-content: center;
     // padding-right: 20rem;
     &__text{

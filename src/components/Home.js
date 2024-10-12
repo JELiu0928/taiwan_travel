@@ -5,14 +5,15 @@ import {faMagnifyingGlass, faAngleLeft, faAngleRight,faPlay} from '@fortawesome/
 import CityCard from './UI/CityCard'
 import CommonCard from './UI/CommonCard'
 import FoodCard from './UI/FoodCard'
-import RegionContext from '../store/RegionContext'
+import RegionContext from '../store/CommonContext'
 import { useLocation, useNavigate } from 'react-router-dom'
-import activityData from '../data/activity01.json'
-import foodData from '../data/food01.json'
-import accommodationData from '../data/accommodation01.json'
+import activityDatas from '../data/activity01.json'
+import foodDatas from '../data/food01.json'
+import accommodationDatas from '../data/accommodation01.json'
+// import second from '../data/'
 
 const Home = () => {
-    const {selectedArea,setSelectedArea} = useContext(RegionContext)
+    const {selectedArea,setSelectedArea,filterAndRandomData} = useContext(RegionContext)
     const navigate = useNavigate()
     const SelectAreaHandler =(area)=>{
         setSelectedArea(area)
@@ -30,24 +31,35 @@ const Home = () => {
         if(location.pathname == '/'){
             setSelectedArea('')
         }
+        console.log('函數',filterAndRandomData)
         // console.log(location)
-            
+        // https://tdx.transportdata.tw/api/basic/v2/Tourism/Restaurant/Taichung?%24top=50&%24format=JSON
         // https://www.shubo.io/javascript-random-shuffle/#%E7%A5%9E%E5%A5%87%E7%9A%84-javascript-%E4%BA%82%E6%95%B8%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95
-        let newActivityData = [...activityData]
-        newActivityData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
-        setRandomActivity(newActivityData.slice(0,6)) //取六筆
-        // console.log('activityData',activityData)
+        // 活動
+        if(activityDatas){
+            filterAndRandomData(activityDatas,setRandomActivity,0,6)
 
-        // 餐廳
-        let newFoodData = [...foodData]
-        newFoodData.sort(()=>Math.random() - 0.5)
-        setRandomFood(newFoodData.slice(0,10))
-        // console.log('foodData',foodData)
+        }
+        // let newActivityData = [...activityDatas]
+        // newActivityData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
+        // setRandomActivity(newActivityData.slice(0,6)) //取六筆
+        // console.log('activityData',activityData)
         
+        if(foodDatas){
+            filterAndRandomData(foodDatas,setRandomFood,0,10)
+        }
+        // 餐廳
+        // let newFoodData = [...foodData]
+        // newFoodData.sort(()=>Math.random() - 0.5)
+        // setRandomFood(newFoodData.slice(0,10))
+        // console.log('foodData',foodData)
+        if(accommodationDatas){
+            filterAndRandomData(accommodationDatas,setRandomAccommodation,0,4)
+        }
         // 住宿
-        let newAccommodationData = [...accommodationData]
-        newAccommodationData.sort(()=>Math.random() - 0.5)
-        setRandomAccommodation(newAccommodationData.slice(0,4))
+        // let newAccommodationData = [...accommodationDatas]
+        // newAccommodationData.sort(()=>Math.random() - 0.5)
+        // setRandomAccommodation(newAccommodationData.slice(0,4))
         // console.log('accommodationData',accommodationData)
 
         
@@ -68,7 +80,7 @@ const Home = () => {
         // }).catch((e) => {
         //     console.log('我是err',e)
         // });
-    },[activityData,attraction])
+    },[activityDatas,attraction])
     const moveLeft = ()=>{
         // let foodCards = document.querySelector(`.${styles["tasty__foodCard-container"]}`);
         let foodCards = document.querySelector(`.${styles["tasty__foodCard-container--wrap"]}`);
@@ -124,7 +136,7 @@ const Home = () => {
             <div className={styles.festival}>
                 {
                     randomActivity && randomActivity.slice(0,3).map((item,i)=>(
-                        <CommonCard activityData={item} key={i} type={"activity"}/>
+                        <CommonCard data={item} key={i} type={"activity"}/>
                     ))
                 }  
                 {/* {
@@ -159,7 +171,7 @@ const Home = () => {
                             <div className={styles["tasty__foodCard-container--wrap"]}>
 
                             {
-                                randomFood.map((item,i)=> <FoodCard foodData={item} key={i}/>)
+                                randomFood.map((item,i)=> <FoodCard data={item} foodData={item} key={i}/>)
                             }
                             </div>
                         </div>
@@ -182,7 +194,7 @@ const Home = () => {
             </div>
             <div className={styles.accommodation__card}>
                 {   
-                    randomAccommodation.map((item,i)=> <CommonCard accommodationData={item} key={i} type={"accommodation"}/>)
+                    randomAccommodation.map((item,i)=> <CommonCard data={item} accommodationData={item} key={i} type={"accommodation"}/>)
                 }              
             </div>
             <div >

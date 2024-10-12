@@ -7,7 +7,9 @@ const Header = () => {
     return (
         <header className={styles.header}>
             <div >
-                <img src="/img/LOGO.png" alt="TAIWAN GO LOGO" className={styles.header__logo}/>
+                <Link to={"/"}>
+                    <img src="/img/LOGO.png" alt="TAIWAN GO LOGO" className={styles.header__logo}/>
+                </Link>
             </div> 
             <nav>
                 <ul className={styles.header__navList}>

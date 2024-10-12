@@ -5,6 +5,7 @@ const RegionContext = React.createContext({
     setSelectedArea: () => {},
     selectedCity:'Taipei',
     setSelectedCity:() => {},
+    filterAndRandomData:() => {}
 
 })
 

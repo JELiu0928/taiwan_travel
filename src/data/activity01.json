@@ -1,595 +1,1204 @@
 [
-    {
-      "ActivityID": "C2_A15010000H_080678",
-      "ActivityName": "2023新北市貢寮海洋音樂祭",
-      "Description": "「貢寮海洋音樂祭」起始於民國99年（西元2010年），係爲豐富新北市的海洋文化性格、建立貢寮區地方特質並發展文化觀光以鼓勵本土音樂創作之精神，選定福隆海水浴場這片黃金沙灘，藉由活動行銷新北市126公里海岸線的自然景觀旅遊資源，成功塑造貢寮為臺灣北部海洋搖滾新據點。貢寮國際海洋音樂祭即將進入第20回，所秉持的理念是鼓勵台灣本土音樂的創作，並提供獨立樂團一個專屬且不受限制的舞台，讓所有的樂團可以在這個舞台上以創作表達自我，並能擁有盡情揮灑的空間，也是讓獨立音樂人能有被看見、被欣賞及被肯定的機會。活動表演以樂團接力的方式進行，主要活動內容除了有邀請國內外知名樂團進行演出的主舞台，開放獨立樂團自由報名的小舞台與自第2屆開始舉辦重視音樂原創性及現場表演實力的「海洋獨立音樂大賞」之外，自民國107年（西元2018年）起更設立多元曲風的第三舞台，提供遊客更多元的音樂盛會。",
-      "Location": "新北市 貢寮區",
-      "Address": "福隆里興隆街40號",
-      "Phone": "02-29603456",
-      "Organizer": "新北市政府",
-      "StartTime": "2023-09-15T00:00:00+08:00",
-      "EndTime": "2023-09-17T00:00:00+08:00",
-      "WebsiteUrl": "https://hohaiyan.ntpc.gov.tw/",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/203b5e61-6f91-4423-8694-f45582ff80eb.jpg",
-        "PictureDescription1": "冒險台邀請國內外知名樂團帶來精采演出",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/0391b60b-4fff-4fbc-886e-1ecf9f80a161.jpg",
-        "PictureDescription2": "自由台由藝術家設計打造天幕裝置藝術",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/d4a9d5cd-68d2-4049-9719-3ee59ad8cc1e.jpg",
-        "PictureDescription3": "冒險台表演與熱情的觀眾"
-      },
-      "Position": {
-        "PositionLon": 121.94316101074219,
-        "PositionLat": 25.021997451782227,
-        "GeoHash": "wsqwqgh79"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+  {
+    "ActivityID": "C2_376470000A_000457",
+    "ActivityName": "轉知臺南市政府觀光旅遊局公告臺南400「透˙南城─ 城市穿行四百年」城市展 活動",
+    "Description": "一、臺南是臺灣最早發展的城市，也是臺灣最早與國際連結的城市。臺南自1624年荷蘭人在安平建立熱蘭遮堡，歷經鄭氏、清領、日治、戰後時期，世代堆疊成臺南深厚文化底蘊與空間紋理，400年來的城市發展經驗，讓臺南成為新舊並存共榮的文化古都，宏觀思維的空間治理，更是加速大臺南成為六都之一的科技新城。二、2024年，臺南市政府陸續推展臺南400相關活動，「透．南城-城市穿行四百年」城市展，透過藝術家的合作及數位藝術為媒介，將引領觀者以此時此地為起點，透視百年前後的臺南，呈現城市治理對於生活空間之影響，見證臺南深厚底蘊傳承共榮的城市治理價值，邀請您共襄盛舉！三、為促進國內空間專業相關領域先進深度交流，本局特安排導覽活動，敬邀貴單位所屬人員踴躍參與，並鼓勵各單位採團體報名，公務機關以每單位10人內為原則、民間團體以每單位6人內為原則，報名參與人員將由本局接待免費進場（美術館票價為新臺幣200元）。四、導覽場次安排如下：(一)113年7月23日（星期二）10:30-11:30(二)113年7月30日（星期二）14:30-15:30 (三)113年8月6日（星期二）15:30-16:30(四)113年8月20日（星期二）15:30-16:30(五)113年8月27日（星期二）13:30-14:30五、為維持最佳服務品質，每場次總名額以30人為限，請於113年6月21日前完成報名，額滿為止（至遲請於欲報名場次之前兩週完成報名）。六、報名網址：https://forms.gle/pasY7hsiSXLYSwM2A七、展覽期間亦歡迎個別參加（本展須購買臺南市美術館門票入館參觀，票種票價依美術館相關規定），活動資訊詳見活動官網",
+    "Location": "臺南市美術館",
+    "Address": "臺南市中西區南門路37號1室",
+    "Phone": "886-6-6322231",
+    "Organizer": "臺南市政府觀光旅遊局",
+    "StartTime": "2024-07-05T00:00:00+08:00",
+    "EndTime": "2024-09-01T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/12/2024061208261416295.jpg",
+      "PictureDescription1": "臺南400「透˙南城─ 城市穿行四百年」城市展"
     },
-    {
-      "ActivityID": "C2_A15010000H_081013",
-      "ActivityName": "2023新北萬里蟹",
-      "Description": "本市每年訂於9月辦理萬里蟹產季起跑記者會，除宣告萬里蟹產季正式到來，並預告10月至12月即將舉辦的一系列萬里蟹季產地活動，如淡水肥蟹宴、富基品蟹宴、野柳假日活蟹市集、龜吼漁夫市集萬里蟹促銷活動等，以萬里蟹之名串連新北特色漁港，系列活動最高潮為10月於野柳漁港盛大舉行的萬里蟹主場活動，讓民眾來到產地品嚐鱻蟹宴，現場其他民眾還可以參加搭乘娛樂漁船體驗捕蟹人生、走訪野柳咾咕厝、瑪鋉居及保安宮等漁村風情導覽以及海洋獨木舟等漁業體驗活動，藉由系列活動讓民眾就近到漁港體驗休閒漁業活動，進而以行動支持在地漁業的永續發展。",
-      "Location": "新北市 萬里區",
-      "Address": "野柳漁港",
-      "Phone": "02-89526055",
-      "Organizer": "新北市政府",
-      "StartTime": "2023-10-21T00:00:00+08:00",
-      "EndTime": "2023-10-22T00:00:00+08:00",
-      "WebsiteUrl": "https://wanlicrab.tw/index.php",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/82645274-2cf9-4d1a-846f-44bd14c43137.jpg",
-        "PictureDescription1": "因應疫情，萬里蟹首度與知名電商合作推出熟蟹電商宅配服務，民眾免前往產地，就可以品嚐帶來自產地最新鮮的萬里蟹",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/fb6711c9-76e4-41af-b472-1d8037ac0606.jpg",
-        "PictureDescription2": "產地特賣會",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/28950565-0ab6-4f44-abda-e006efac4257.jpg",
-        "PictureDescription3": "參加活動民眾皆配合防疫規定戴口罩，購買螃蟹熱情不減"
-      },
-      "Position": {
-        "PositionLon": 121.68706512451172,
-        "PositionLat": 25.20587158203125,
-        "GeoHash": "wsqx3h9ff"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 119.76318359375,
+      "PositionLat": 23.53512191772461,
+      "GeoHash": "wsjjvk2yh"
     },
-    {
-      "ActivityID": "C2_A15010000H_081057",
-      "ActivityName": "2023草嶺古道芒花季",
-      "Description": "為讓遊客欣賞大片芒花壯闊盛開之景，感受草嶺古道那段跨越百年山海時光長廊的記憶，本處自民國91年（西元2002年）開始舉辦「草嶺古道芒花季活動」，迄至民國110年（西元2021年）已推廣近20年，近年來已成為東北角地區觀光旅遊品牌活動，每年度總吸引約8萬人次遊客前往欣賞滿山芒花搖曳的迷人風采，今年度的芒花盛宴，亦將持續以輕鬆、詼諧的方式推廣，帶領大家一同踏上擁有兩百年歷史的古道，典藏古道秋芒美麗的記憶。",
-      "Location": "新北市 貢寮區",
-      "Address": "草嶺古道",
-      "Phone": "02-24991115",
-      "Organizer": "交通部觀光署東北角及宜蘭海岸國家風景區管理處",
-      "StartTime": "2023-11-04T00:00:00+08:00",
-      "EndTime": "2023-11-26T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/14f6e358-ef5a-4af2-8032-a00328906402.jpg",
-        "PictureDescription1": "桃源谷步道草嶺線人潮絡繹不絕",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/c14182f7-003e-4572-88e7-4a427c288242.jpg",
-        "PictureDescription2": "啞口芒花盛開",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/5663bd9f-fd6b-44a2-9079-ee8bef0f1309.jpg",
-        "PictureDescription3": "於啞口遠眺旭日東昇之美景"
-      },
-      "Position": {
-        "PositionLon": 121.92536926269531,
-        "PositionLat": 24.990007400512695,
-        "GeoHash": "wsqwnmr37"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376470000A_000480",
+    "ActivityName": "轉知花蓮縣政府「113年度花蓮縣金針花季」道路交通管制措施公告",
+    "Description": "轉知花蓮縣政府「113年度花蓮縣金針花季」道路交通管制措施，詳細辦法請參閱附件。",
+    "Location": "花蓮縣赤科山及六十石山",
+    "Address": "花蓮縣富里鄉",
+    "Phone": "886-3-8227171",
+    "Organizer": "花蓮縣政府",
+    "StartTime": "2024-08-06T00:00:00+08:00",
+    "EndTime": "2024-10-13T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/12/2024080617425071499.jpg",
+      "PictureDescription1": "「113年度花蓮縣金針花季」道路交通管制措施"
     },
-    {
-      "ActivityID": "C2_A15010000H_081062",
-      "ActivityName": "2023觀音觀鷹-樂活行腳系列活動",
-      "Description": "觀音山位於淡水河西側，屬大屯火山群，火山噴發形成十八座連峰，形若一尊躺臥觀音菩薩，最高峰硬漢嶺海拔616公尺，擁有360度環狀視野，可眺望大屯山群峰、淡水河口、關渡平原及台北盆地，更是北臺灣日猛禽重要棲身地，山區森林茂密，物種豐富，登山步道系統完備，為大臺北近郊知名登山及賞鷹地點，每年吸引數十萬遊客與登山客造訪，極具生態旅遊發展潛力，為持續形塑觀音山觀光魅力，111至112年將以「生態旅遊」為推廣主軸，結合猛禽過境、步道生態、地方特產（綠竹筍季、文旦柚季）等觀光資源，打造觀音山成為北臺灣生態樂園，提升當地觀光產值。",
-      "Location": "新北市 五股區",
-      "Address": "觀音山遊客中心",
-      "Phone": "02-86355100",
-      "Organizer": "交通部觀光署北海岸及觀音山國家風景區管理處",
-      "StartTime": "2023-04-29T00:00:00+08:00",
-      "EndTime": "2023-10-31T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/7683c2e0-514a-4db9-9737-47203171c829.JPG",
-        "PictureDescription1": "觀音四秀-灰面鵟鷹(過境鳥)",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/c39f58d1-a906-4424-bd7f-1d13693719df.JPG",
-        "PictureDescription2": "觀音四秀-灰面鵟鷹飛翔英姿",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/ab0d195b-b590-4a8e-9b02-d9e5450c4af5.JPG",
-        "PictureDescription3": "觀音四秀-鳳頭蒼鷹(留鳥)"
-      },
-      "Position": {
-        "PositionLon": 121.41819763183594,
-        "PositionLat": 25.129446029663086,
-        "GeoHash": "wsqqfywj9"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 118.57392883300781,
+      "PositionLat": 23.85795021057129,
+      "GeoHash": "wshrdpnys"
     },
-    {
-      "ActivityID": "C2_A15010000H_081071",
-      "ActivityName": "2023新北歡樂耶誕城",
-      "Description": "新北歡樂耶誕城自民國100年（西元2011年）開辦以來，每年活動持續創新及與國際接軌，邀請到國際頂尖光雕團隊合作，不斷突破光雕主燈秀光影藝術巔峰，透過新科技導入及融入藝術，與國內外知名企業、藝術家或在地學校合作，讓主燈、燈飾設計層次提升，相關系列活動極富含特色與國際魅力，不斷帶給大眾創新與驚喜的感受，使本活動屢獲眾多國際媒體報導，不僅讓國人能夠免出國就能體驗國際級的燈影藝術，更讓國外的朋友能因為這個活動而感受臺灣特有的節慶氛圍，一睹絕美震撼的節慶國際饗宴。",
-      "Location": "新北市 板橋區",
-      "Address": "新北市市民廣場",
-      "Phone": "02-29603456",
-      "Organizer": "新北市政府",
-      "StartTime": "2023-11-17T00:00:00+08:00",
-      "EndTime": "2024-01-01T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/ad361c2a-2a7f-486e-be9e-e08e7b03eaa4.jpg",
-        "PictureDescription1": "臺灣唯一全場域特效燈光連動3D立體投影光雕秀",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/691c1e9a-372a-4687-912e-b947f0d417d3.jpg",
-        "PictureDescription2": "站前廣場大型裝置物夢幻莊園",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/2a6a810d-2fb4-4203-946f-63bd22c8cf54.jpg",
-        "PictureDescription3": "府中燈區大型藝術裝置物花漾"
-      },
-      "Position": {
-        "PositionLon": 121.46553802490234,
-        "PositionLat": 25.01227569580078,
-        "GeoHash": "wsqqk12e0"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376470000A_000494",
+    "ActivityName": "轉知交通部觀光署澎湖國家風景區管理處「2024澎湖鹹水煙藝術季」活動",
+    "Description": "「2024澎湖鹹水煙藝術季」活動訂於113年10月12日至10月26日於澎湖隘門沙灘、西臺古堡、二崁古厝廣場、大菓葉玄武岩及觀音亭辦理，有興趣的朋友可以關注「澎湖國家風景區管理處」臉書粉絲專頁，了解更多活動詳情。",
+    "Location": "澎湖國家風景區管理處",
+    "Address": "澎湖縣馬公市光華里171號",
+    "Phone": "886-6-9216521",
+    "Organizer": "交通部觀光署澎湖國家風景區管理處",
+    "StartTime": "2024-10-12T00:00:00+08:00",
+    "EndTime": "2024-10-26T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/12/2024092509215464537.jpg",
+      "PictureDescription1": "「2024澎湖鹹水煙藝術季」"
     },
-    {
-      "ActivityID": "C2_A15010000H_081072",
-      "ActivityName": "2023新北市平溪天燈節",
-      "Description": "新北市平溪天燈節自民國88年（西元1999年）辦理至今，多年來在地方與公部門共同努力下，天燈儼然成為臺灣重要的國際意象，這個大型節慶品牌也屢獲國際好評：除了備受CNN、Discovery、全球最大旅遊出版公司Fodor's、國家地理雜誌及The Huffington Post（赫芬頓郵報）肯定外，民國107年（西元2018年）更被全球最大旅遊網站TripAdvisor票選為「最值得推薦國際旅客的文化活動」，並獲得Reader's digest（讀者文摘）推薦「40歲前要完成的40項旅遊清單」之一，顯見天燈節除了將平溪地區在國際上的能見度再次提升，更將平溪帶向全世界！新北市平溪天燈節儼然成為臺灣在國際舞臺上的重要亮點，更因為活動的推廣，使國內、外旅客四季都能規劃造訪平溪的遊程，體驗當地獨特的天燈文化，期能藉此地方特色民俗文化，提供人們傳遞幸福心願的節慶活動，並結合地方自然與人文資源，吸引世界各地旅客深度感受臺灣之美，亦持續推廣國際觀光，創造更多旅遊商機。",
-      "Location": "新北市 平溪區",
-      "Address": "南山坪136號",
-      "Phone": "02-29603456",
-      "Organizer": "新北市政府觀光旅遊局",
-      "StartTime": "2023-02-05T00:00:00+08:00",
-      "EndTime": "2023-02-11T00:00:00+08:00",
-      "Cycle": "2023/02/05、02/11",
-      "WebsiteUrl": "https://2023skylantern.ntpc.gov.tw/",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/ceb08c83-cb64-4f57-a593-079676aba8ae.jpg",
-        "PictureDescription1": "平溪場活動-20呎鼠年主燈",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/25f9b177-033c-457a-919b-822753745faf.jpg",
-        "PictureDescription2": "平溪場活動-眾人齊望天燈冉冉上升",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/48019830-c1fd-463c-a8a3-fb53f638cb52.jpg",
-        "PictureDescription3": "十分場活動-20呎媽祖主燈"
-      },
-      "Position": {
-        "PositionLon": 121.78257751464844,
-        "PositionLat": 25.046794891357422,
-        "GeoHash": "wsqw7pxk5"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 119.1903305053711,
+      "PositionLat": 23.4814510345459,
+      "GeoHash": "wshv84xtr"
     },
-    {
-      "ActivityID": "C2_A15010000H_081096",
-      "ActivityName": "2023野柳石光-夜訪女王",
-      "Description": "野柳地質公園因獨特地質景觀與優質遊憩品質享譽國際，每年吸引大量國際旅客到訪，更受到國際媒體相繼報導，美國CNN曾譽為媲美太空以及獲選亞洲十大熱門打卡點。此外「2020野柳石光-夜訪女王」活動於岩壁播放「野柳異想樂園」動畫片榮獲2021德國柏林旅展（ITB）觀光多媒體金城門獎生態旅遊類五顆星首獎殊榮，再次將野柳地質公園推行於國際舞台。「野柳石光-夜訪女王」以夜間觀賞奇石地景，營造野柳夜間浪漫光環境為活動主軸，規劃具主題故事之光影互動及特效，搭配日間藝文表演、環境教育、地景保育課程等系列活動，結合周邊產業共同參與，形塑活動獨一無二與永續的價值，帶動野柳周邊觀光產值。活動藉由各種管道宣傳，並邀請國際地質公園成員共同參與，將活動推廣至國際旅遊市場，增加活動知名度亦深化野柳地質公園的國際品牌價值與無可取代的旅遊地意象。",
-      "Location": "新北市 萬里區",
-      "Address": "野柳地質公園",
-      "Phone": "02-86355100",
-      "Organizer": "交通部觀光署北海岸及觀音山國家風景區管理處",
-      "StartTime": "2023-06-30T00:00:00+08:00",
-      "EndTime": "2023-07-16T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/46b8c03f-07b4-493c-860e-9899bb41f308.jpg",
-        "PictureDescription1": "野柳女王夜間之美",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/a6b1b348-03d1-4b7c-9e9e-dac001bcaa69.jpg",
-        "PictureDescription2": "2020愛你愛你",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/3462d621-2d7b-4ca2-94dc-539ec050574f.jpg",
-        "PictureDescription3": "俏皮公主與女王於儷影湖遙望"
-      },
-      "Position": {
-        "PositionLon": 121.68961334228516,
-        "PositionLat": 25.204757690429688,
-        "GeoHash": "wsqx3h7sm"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376540000A_005624",
+    "ActivityName": "2024臺灣國際衝浪公開賽",
+    "Description": "臺灣國際衝浪公開賽     活動日期：/-/活動地點：臺東金樽漁港活動細節待公布",
+    "Location": "詳見官網",
+    "Phone": "886-8-9326141",
+    "Organizer": "臺東縣政府",
+    "StartTime": "2024-11-08T00:00:00+08:00",
+    "EndTime": "2024-11-16T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 121.293212890625,
+      "PositionLat": 22.95393943786621,
+      "GeoHash": "wsn684eh2"
     },
-    {
-      "ActivityID": "C2_A15010000H_081105",
-      "ActivityName": "2023臺灣自行車旅遊節",
-      "Description": "國片「練習曲」中一句經典對白：「有些事現在不做，一輩子都不會做了。」這句話帶動了全臺單車環島風潮，騎著自行車環繞臺灣本島之旅，也被許多人列為此生必做的事之一！自2010年以來，交通部觀光署積極舉辦「臺灣自行車節」系列活動，熱情邀請臺灣全民一同創造「騎」跡，將交通建設的創新成果，轉換成觀光旅遊的新資源，企圖把臺灣打造為國際級自行車休閒旅遊天堂。臺灣的公路系統完善，再加上地形優勢，騎著自行車時還可邊欣賞沿路壯闊美景，在臺灣單車環島是最方便又享受的旅遊行程！「臺灣自行車節」系列活動就是以自行車旅遊活動，結合了各縣市的觀光與交通資源力量，呈現出多元與在地的文化旅遊特色。在好山好水的陪伴下，吸引全世界自行車愛好者都能來朝聖，提供國內外遊客們多樣豐富休憩旅遊體驗，讓騎鐵馬不再是單純的運動，而是更豐富的身心靈上完美體驗。    台北國際自行車展：2023年3月22-25日    騎遇福爾摩沙900：2023年11月11-19日    日月潭Come!Bikeday自行車嘉年華主題日活動：2023年10月14日    臺灣登山王挑戰 KOM：2023年10月27日",
-      "Location": "新北市 貢寮區",
-      "Address": "福隆海水浴場",
-      "Phone": "02-23491500",
-      "Organizer": "交通部觀光署",
-      "StartTime": "2023-03-01T00:00:00+08:00",
-      "EndTime": "2023-11-30T00:00:00+08:00",
-      "WebsiteUrl": "https://taiwanbike.tw/",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/6fe79462-ec06-41fc-8f6e-291250981bbb.jpg",
-        "PictureDescription1": "澎湖自行車領騎服務-西嶼濱海自行車道",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/88b7c97c-48eb-4ca2-883a-79079912c748.jpg",
-        "PictureDescription2": "澎湖自行車領騎服務-公共藝術品《魚躍有餘》",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/acce6bcf-6795-47e3-8a21-7c8b2b10cccd.jpg",
-        "PictureDescription3": "澎湖自行車領騎服務-公共藝術品《嗨鼠》"
-      },
-      "Position": {
-        "PositionLon": 121.94316101074219,
-        "PositionLat": 25.021997451782227,
-        "GeoHash": "wsqwqgh79"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "年度活動",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_382000000A_002581",
+    "ActivityName": "113年八里港灣嘉年華",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "新北市249八里區6鄰廈竹圍7-9號(臺北港海巡基地)",
+    "Phone": "886-2-29603456",
+    "Organizer": "新北市政府經濟發展局",
+    "StartTime": "2024-07-27T00:00:00+08:00",
+    "EndTime": "2024-07-28T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 121.388427734375,
+      "PositionLat": 25.150279998779297,
+      "GeoHash": "wsqr462qg"
     },
-    {
-      "ActivityID": "C2_A15010000H_081018",
-      "ActivityName": "2023義魄千秋-全國義民祭在新竹縣",
-      "Description": "新埔褒忠亭（義民廟）是北臺灣客家人的信仰中心，也是新竹縣的縣定古蹟，創建至今已超過230年。褒忠亭義民祭典的十五聯庄輪值的歷史至少可以追溯至西元1835年，迄今亦超過180年，是客家族群第一項榮獲文化部指定的國家重要民俗，也由客委會列為「客庄12大節慶」之一。新埔褒忠亭兼具「有形」與「無形」兩項文化資產身份，不但是客家文化傳承的重要資產，也是我國文化豐富多元與多樣化的具體展現。義民祭之所以受到客家鄉親甚至全國的關注，主要是傳承220餘年來的文化祭典，係由新竹縣、市、桃園市等3縣市、20鄉鎮市區組成15大聯庄祭典區輪值主辦，維持嚴謹的經營管理制度，不斷投入民間資源，完整保存傳統輪值制度與祭儀，充分展現了民間自發力量與社群凝聚力。今日，新竹縣褒忠亭的分香廟宇遍佈全臺，義民信仰地位屹立不搖。",
-      "Location": "新竹縣 新埔鎮",
-      "Address": "新埔枋寮義民廟",
-      "Phone": "03-5510201",
-      "Organizer": "新竹縣政府、財團法人台灣省新竹縣褒忠亭、新埔聯庄輪值祭典區",
-      "StartTime": "2023-08-24T00:00:00+08:00",
-      "EndTime": "2023-09-04T00:00:00+08:00",
-      "WebsiteUrl": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=e2ce565c-7042-466e-9b77-bb81937b8cf9&id=0e9e66fb-b0aa-42ea-a4b1-0841e0aad4df",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/c9d5d232-3288-4504-9764-cdf97ffc8a2c.jpg",
-        "PictureDescription1": "新埔褒忠義民廟義民祭祭祀大典熱鬧展開",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/7fba3082-f0c7-4003-ba35-3375646e9a3f.jpg",
-        "PictureDescription2": "挑擔奉飯儀式",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/e8cad7bf-42e3-44df-8a19-710948b417a9.jpg",
-        "PictureDescription3": "放水燈儀式"
-      },
-      "Position": {
-        "PositionLon": 121.03639221191406,
-        "PositionLat": 24.844249725341797,
-        "GeoHash": "wsqj66b00"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新竹縣",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "年度活動",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_382000000A_002754",
+    "ActivityName": "2024萬里蟹花點石間來海邊(野柳漁港假日活蟹市集)",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "新北市207萬里區野柳漁港",
+    "Phone": "886-2-29603456",
+    "Organizer": "新北市政府漁業及漁港事業管理處",
+    "StartTime": "2024-09-09T00:00:00+08:00",
+    "EndTime": "2024-11-24T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 121.6874771118164,
+      "PositionLat": 25.20568084716797,
+      "GeoHash": "wsqx3hd1e"
     },
-    {
-      "ActivityID": "C2_A15010000H_081019",
-      "ActivityName": "2023新竹縣客家迎天穿系列活動",
-      "Description": "新埔花燈歷史最古，也最具特色及代表性，過去新埔迎花燈分街頭、街尾，以火炬、大鼓陣、燈籠、麒麟、獅、象、錦閣，加上花燈詩句、行動劇、化妝踩街，相互讚賞或諷刺，來反映當時社會型態與風土民情，而花燈詩句全用客語，實為客家文學之珍寶。新埔花燈遊行可考於昭和時期，並於民國99年（西元2010年）風華重現，讓新埔居民重新感受「花燈的故鄉」之情懷，凝聚新埔居民的向心力，尋回新埔傳統價值。新竹縣客家迎天穿系列活動串聯新埔傳統價值及縣內各鄉鎮市，打造具創新特色的「客家日」觀光活動，並於活動規劃中向下紮根，教育並傳承客家精神，期能揭開傳統手藝花燈製作的神秘面紗，同時打響「北天燈、南烽炮、會移動的花燈在新埔」名號，歷年的表演節目除兼顧客家傳統文化大戲及歌曲，同時規劃國際性表演團體如日本夜來祭 HONIYA YOSAKOI、重慶市銅梁火龍，讓趣味十足的新埔花燈及新竹縣迎天穿活動能夠遠近馳名。",
-      "Location": "新竹縣 新埔鎮",
-      "Address": "新埔鎮",
-      "Phone": "03-5518101",
-      "Organizer": "新竹縣政府",
-      "StartTime": "2023-02-01T00:00:00+08:00",
-      "EndTime": "2023-02-12T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/227de2fb-ee7e-4e63-a4db-562a1e73ba11.jpg",
-        "PictureDescription1": "新埔花燈迎天穿主燈及踩街活動",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/6265c154-b530-4943-8185-1e7d08bc4eb3.jpg",
-        "PictureDescription2": "學生創意彩繪燈籠",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/30ee3eba-9fb2-4fbc-882d-67dd9d84a8ea.jpg",
-        "PictureDescription3": "新埔花燈營天穿傳統文化表演"
-      },
-      "Position": {
-        "PositionLon": 121.07569122314453,
-        "PositionLat": 24.827112197875977,
-        "GeoHash": "wsqj5pssk"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "新竹縣",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "年度活動",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010500H_020299",
+    "ActivityName": "馬祖年度節慶活動 (Matsu Festival Activities)",
+    "Description": "馬祖民俗節慶活動，最熱鬧的過年，一路到九月的馬祖昇天祭，還有扛乩、擺暝等特殊文化，元宵節是其中之最，從農曆元月十一日開始，可以一路延續到元月十九、甚至是二十日！",
+    "Location": "連江縣南竿鄉仁愛村95-1號",
+    "Address": "連江縣南竿鄉仁愛村95-1號",
+    "Phone": "886-836-25630",
+    "Organizer": "交通部觀光局馬祖國家風景區",
+    "StartTime": "2021-04-30T00:00:00+08:00",
+    "EndTime": "2050-12-31T00:00:00+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 119.91219329833984,
+      "PositionLat": 26.143110275268555,
+      "GeoHash": "wstk8xjqs"
     },
-    {
-      "ActivityID": "C2_A15010000H_081014",
-      "ActivityName": "2023桃園地景藝術節",
-      "Description": "每年移動的藝術節地景藝術節與歐洲文化首都(ECC)的移動策略概念相近，藉由「移動」的特性，喚起地方意識。地景藝術節每年擇定不同展區，藉由藝術節翻轉空間、提升公共建設、擾動社區社群，重新認識桃園每一處地方，也藉由市府及民間資源的投入，讓各區域再次被大家認識。無圍牆美術館每年超過30件作品在大地上，桃園地景藝術節以三大主軸－「地方覺醒」、「社區風動」、「藝術打樁」，以及四大價值─「社區參與」、「在地特色」、「環境永續」、「循環經濟」，打造在地化品牌象徵。以桃園的自然景觀及人文資產為基礎，透過豐富多元的藝術展演及活動規劃，結合社區參與和民眾互動，讓藝術更貼近環境與常民生活，也讓大家以嶄新角度重新發現土地和環境，重新看到在地生態保存、人文景觀及歷史足跡。愈在地，愈國際除了邀請國內外藝術家進駐創作，另規劃國際論壇借鏡亞洲、歐洲的經驗，探討地景藝術節的多元論述，也邀請日本友好城市來參與交流活動並經驗分享，且每年的國際表演團隊因地制宜，表演融入在地地景，總能帶給民眾新的感官體驗。深度觀光桃園地景藝術節創辦於民國102年（西元2013年），每年9月辦理，搭配中秋節連假前後共3週，本屆因疫情影響，展延至隔年3月辦理。延伸無圍牆美術館的意趣，串連裝置藝術、生態，以深度體驗規劃，探訪展區及周邊自然景觀及地方人文，並串連在地社區、觀光景點及觀光工廠，每年吸引約150萬人次參與。",
-      "Location": "桃園市 龍潭區",
-      "Address": "龍潭展區",
-      "Phone": "03-3322592",
-      "Organizer": "桃園市政府文化局",
-      "StartTime": "2023-08-04T00:00:00+08:00",
-      "EndTime": "2023-10-15T00:00:00+08:00",
-      "Cycle": "龍潭展區：08/04-08/20、青埔展區：08/11-10/15",
-      "WebsiteUrl": "https://www.taoyuanlandart.com.tw/",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/472a57c0-ecf7-4b08-bcb8-a2e5c0411598.jpg",
-        "PictureDescription1": "高雙陂塘漣漪迷宮",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/e852e870-a205-4adf-9c66-800831b370f3.jpg",
-        "PictureDescription2": "豫章之家",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/7780e00f-6f5a-4717-b2a1-718ef91944ec.jpg",
-        "PictureDescription3": "竹下秋千"
-      },
-      "Position": {
-        "PositionLon": 121.21004486083984,
-        "PositionLat": 24.861703872680664,
-        "GeoHash": "wsqjqjymy"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "桃園市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "節慶活動",
+    "Class2": "節慶活動",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15011000H_000264",
+    "ActivityName": "野柳神明淨港文化季",
+    "Description": "每逢元宵佳節，野柳獨特的神明淨港儀式總是吸引眾多遊客到訪參觀，相傳清嘉慶25年（西元1820年），有一艘無人駕駛的船，載著開漳聖王神像和建材，在野柳港外載浮載沉，當地里民迎此神像，建為保安宮。",
+    "Location": "萬里區保安宮",
+    "Address": "新北市萬里區港東路69號",
+    "Phone": "886-2-86355100",
+    "Organizer": "新北市萬里區公所",
+    "StartTime": "2023-10-31T00:00:00+08:00",
+    "EndTime": "2123-10-31T00:00:00+08:00",
+    "WebsiteUrl": "https://www.northguan-nsa.gov.tw//user/Article.aspx?Lang=1&SNo=04007990",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 121.68779754638672,
+      "PositionLat": 25.2052001953125,
+      "GeoHash": "wsqx3h6qg"
     },
-    {
-      "ActivityID": "C2_A15010000H_081016",
-      "ActivityName": "2023龍岡米干節",
-      "Description": "全國獨特文化櫥窗-異域金三角桃園龍岡地區，早年為國民政府撤退自滇緬泰的異域孤軍聚居，居民們帶著家鄉文化、美食來到龍岡落地生根，龍岡一帶更擁有全臺難得的少數民族文化，如景頗、傣、傈僳族等。為讓民眾對異域金三角文化有更深認識，桃園市政府自民國100年（西元2011年）以在地美食「米干」為主軸說故事，開辦第一屆「龍岡米干節」，透過活動展示異域金三角文化表演藝術、美食佳餚。異國家常到在地美食-龍岡米干米干原為雲南一帶家常料理，是孤軍們的家鄉記憶，隨著來臺落地生根，米干也融入了臺灣味，更是全國米干餐廳的擂台，100%純米製作，米干湯頭可比日式拉麵匠人的用心，經過10年龍岡米干節活動推廣，「龍岡」，「米干」二字已相生相存，龍岡成為米干的故鄉。從生活走入旅行-龍岡小旅行龍岡米干節是活動品牌，也是在地商圈品牌，在地商家也因應活動推出特色旅遊體驗，民國109年（西元2020年）龍岡米干節首次提出「忠貞商圈廚藝小旅行」，帶領遊客走進龍岡在地的日常，活動期間帶領遊客走進龍岡忠貞市場採買異國食材，並由在地的住民教導遊客製作金三角特色料理如緬甸茶葉飯，透過活動輔導讓實質的旅遊產品因應而生。",
-      "Location": "桃園市 中壢區",
-      "Address": "龍岡大操場",
-      "Phone": "03-3322101",
-      "Organizer": "桃園市政府觀光旅遊局",
-      "StartTime": "2023-04-22T00:00:00+08:00",
-      "EndTime": "2023-05-01T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/2aefe993-7039-4a2e-a4fc-d1f46a4a6014.jpg",
-        "PictureDescription1": "潑水節活動",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/1ab8d884-26dc-408e-b37c-bde6086c72f7.jpg",
-        "PictureDescription2": "打歌踩街",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/bd110203-4939-48cd-8aa0-8f32fe6af56d.jpg",
-        "PictureDescription3": "踩街活動"
-      },
-      "Position": {
-        "PositionLon": 121.23809051513672,
-        "PositionLat": 24.929561614990234,
-        "GeoHash": "wsqjyf6ch"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "桃園市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "節慶活動",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376470000A_000410",
+    "ActivityName": "轉知南投縣水里鄉公所「「2024龍來水里宵暨台電節能宣導」元宵系列活動」公告",
+    "Description": "(一)燈區展示：113年2月1日（四）起；入口公園及親水公園。(二)元宵晚會：113年2月23日（五）晚上18:00至21:00；自由路一段。(三)踩街繞境：113年2月24日(六)晚上18:00至22:00；由永豐宮出發，途經民族橋至火車站返回。",
+    "Location": "南投縣水里鄉自由路一段",
+    "Address": "南投縣水里鄉自由路一段",
+    "Phone": "886-4-92772141",
+    "Organizer": "南投縣水里鄉公所",
+    "StartTime": "2024-02-23T00:00:00+08:00",
+    "EndTime": "2024-02-23T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/12/2024020209353241982.jpg",
+      "PictureDescription1": "「2024龍來水里宵暨台電節能宣導」元宵系列活動"
     },
-    {
-      "ActivityID": "C2_A15010000H_081017",
-      "ActivityName": "2023桃園彩色海芋季",
-      "Description": "為推廣桃園溪海的彩色海芋，讓彩色海芋與地方品牌連結更強烈，延伸「海洋奇芋記」主題，打造桃園大園限定的大片彩色海芋花海，搭配海洋生物戀愛互動的大型花毯裝置，帶領民眾一起與溪海浪漫相芋。民國110年（西元2021年）桃園彩色海芋季以彩色海芋花語的意涵設計7組藝術裝置，以花卉展現海洋生物求愛的浪漫互動；除了藝術意象的裝置設計外，也規劃了一連串以彩芋 X 溪海 X 海洋為主題的創意亮點活動。 -->另整合周邊農場設計集章活動，吸引民眾於活動期間也能進到周邊農場進行消費與觀光、參與活動、認識地方；並與功學社單車合作，規劃彩色海芋單車路線，以牌面引導民眾騎乘自行車前往會場，將綠色生活美學導入遊客心中。",
-      "Location": "桃園市 大園區",
-      "Address": "聖德北路與田溪路交叉口",
-      "Phone": "03-3322518",
-      "Organizer": "桃園市政府農業局",
-      "StartTime": "2023-04-01T00:00:00+08:00",
-      "EndTime": "2023-04-16T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/497faaee-5b75-487d-bc60-447bf8a2e9df.jpg",
-        "PictureDescription1": "桃園彩色海芋季-海底芋見愛",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/3d59b815-20f4-41d8-a965-79bda6b62613.jpg",
-        "PictureDescription2": "桃園彩色海芋季-只龍你心",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/dff6976b-a0b7-47a3-a964-f51f8ba1b1c3.jpg",
-        "PictureDescription3": "桃園彩色海芋季-絲情話意"
-      },
-      "Position": {
-        "PositionLon": 121.19547271728516,
-        "PositionLat": 25.032867431640625,
-        "GeoHash": "wsqnmv5g5"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "桃園市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 120.8560791015625,
+      "PositionLat": 23.811391830444336,
+      "GeoHash": "wsjzqnsxq"
     },
-    {
-      "ActivityID": "C2_A15010000H_080856",
-      "ActivityName": "2023菊島澎湖跨海馬拉松",
-      "Description": "旅跑熱潮開始延燒吹動離島賽事崛起，也將成為馬拉松融入「運動觀光」及「旅跑概念」，醞釀而成為新賽點及新亮點。臺灣本島因可供舉辦馬拉松的場域有限，各縣市路跑賽事的路權取得不容易，許多賽事也多規劃為折返跑路線，唯獨澎湖國家風景區管理處所籌辦之菊島澎湖跨海馬拉松，是堪稱為外島首創的A-B點不折返、跳島、不繞圈的賽道，此賽道已於2018年取得中華民國田徑協會之國際田徑總會「IAAF/AIMS國際賽道認證」，搭配賽道沿線設置之特色美食補給及創意啦啦隊，讓跑友們更能全程以一步一腳印的方式，完整、深入體驗澎湖之美。",
-      "Location": "澎湖縣 西嶼鄉",
-      "Address": "西嶼西臺遊客中心",
-      "Phone": "06-9216521",
-      "Organizer": "交通部觀光署澎湖國家風景區管理處",
-      "StartTime": "2023-11-05T00:00:00+08:00",
-      "EndTime": "2023-11-05T00:00:00+08:00",
-      "WebsiteUrl": "https://www.facebook.com/PHCSM/",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/35317735-fbf8-4d5d-91eb-6c430ad36f8d.jpg",
-        "PictureDescription1": "牛心山",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/e0727aa2-ee37-45ee-8548-e1da381cc1d3.jpg",
-        "PictureDescription2": "大菓葉玄武岩",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/903655f2-5a33-46cc-a34d-959f20393ad5.jpg",
-        "PictureDescription3": "澎湖跨海大橋"
-      },
-      "Position": {
-        "PositionLon": 119.48970031738281,
-        "PositionLat": 23.565649032592773,
-        "GeoHash": "wshyp1cxz"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "澎湖縣",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_080915",
+    "ActivityName": "2023阿里山日出印象音樂會",
+    "Description": "阿里山是國內外知名觀賞日出的旅遊勝地的，「阿里山日出印象音樂會」自民國91年（西元2002年）底由交通部觀光署阿里山國家風景區管理處、農業部林業及自然保育署嘉義林區管理處及嘉義縣政府共同輪流主辦，是臺灣最具特色的高山音樂會，以高海拔、高品質、高格調的「高三」音樂會為活動目標，讓國內外遊客沉浸在悠揚樂曲中，迎接新年第一道曙光的首選活動；活動串聯大阿里山地區周邊旅遊路線，將日出印象主題特色與活動產品深化，提升觀光產值。活動時間：2023年1月1日 05:30~07:30 -->",
+    "Location": "嘉義縣 阿里山鄉",
+    "Address": "阿里山國家森林遊樂區 祝山觀日平臺（停機坪）",
+    "Phone": "05-3628123",
+    "Organizer": "嘉義縣政府、交通部觀光署阿里山國家風景區管理處、農業部林業及自然保育署嘉義林區管",
+    "StartTime": "2023-01-01T00:00:00+08:00",
+    "EndTime": "2023-01-01T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/ef1bff5c-a2cd-468b-a96e-c1032ed89e87.jpg",
+      "PictureDescription1": "日出印象音樂會是嘉義觀光重要的品牌活動之一，透過音樂及新年的曙光帶給大家新希望",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/4cab25e5-c129-4807-9e68-ac7969df7ee7.jpg",
+      "PictureDescription2": "全台歷史最悠久的阿里山日出印象音樂會用高海拔、高水準、高格調120分鐘國家音樂廳等級的演出宣告祝山觀日平台(停機坪)再現於全台民眾之前",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/1f6846f1-8f24-4dae-ad2d-c9b3c425a8ae.jpg",
+      "PictureDescription3": "金曲歌后詹雅雯、鄒族天籟安歆澐，並邀約由跨域國際指揮家江靖波帶領的樂興之時管弦樂團50人團隊跨界演出"
     },
-    {
-      "ActivityID": "C2_A15010000H_081086",
-      "ActivityName": "2023澎湖國際海上花火節",
-      "Description": "澎湖國際海上花火節於觀音亭園區施放，美麗的煙火與得天獨厚的海灣環境、浪漫的西瀛虹橋相得益彰，由於煙火施放地點與觀眾觀賞區只有約300公尺距離，遊客可以近距離欣賞煙火，高空煙火在海上夜空中震撼演出，仿佛就在你眼前觸手可及，獨特的臨場震撼感，為澎湖國際海上花火節最吸引人的地方，相較於其他縣市觀光花火活動，非常具有產品獨特性。除了炫麗煙火外，舞台活動則邀請許多知名藝人及在地表演團體輪番精采演出，加上觀賞區腹地寬廣、無須擔憂交通阻塞等問題，遊客可盡情沉沁在悠閒浪漫的氛圍中。澎湖旅遊資源豐富，除了美麗的自然景觀及多元文化的體驗，還可品嚐當令肥美的海鮮美食，夜晚可欣賞澎湖國際海上花火節璀燦的煙火在星空下的熱情與浪漫。",
-      "Location": "澎湖縣 馬公市",
-      "Address": "觀音亭親水遊憩區",
-      "Phone": "06-9274400",
-      "Organizer": "澎湖縣政府",
-      "StartTime": "2023-04-20T00:00:00+08:00",
-      "EndTime": "2023-06-29T00:00:00+08:00",
-      "WebsiteUrl": "https://www.facebook.com/phfireworks/?locale=zh_TW",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/c39ac6c1-98c1-425f-a021-dc077f752e0c.jpg",
-        "PictureDescription1": "澎湖海上花火節",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/b2172127-d526-400a-800b-e8e840dd94fc.jpg",
-        "PictureDescription2": "愛在他鄉的季節",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/51ec1b91-8803-476a-b696-3b102df4b060.jpg",
-        "PictureDescription3": "震撼"
-      },
-      "Position": {
-        "PositionLon": 119.56243133544922,
-        "PositionLat": 23.568645477294922,
-        "GeoHash": "wsjn0dw9q"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "澎湖縣",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 120.82379913330078,
+      "PositionLat": 23.510173797607422,
+      "GeoHash": "wsjvtrvhw"
     },
-    {
-      "ActivityID": "C2_A15010000H_081023",
-      "ActivityName": "2023臺中國際踩舞嘉年華",
-      "Description": "「臺中國際踩舞嘉年華」藉由舞蹈表演之推廣，結合節慶活動，建立運動觀光與藝術文化交流平臺，促進臺灣本土文化藝術人士與海外各國多元藝術表演團體交流合作，把臺中城市公園化為戶外舞台，創造話題亮點並打造獨特觀光特色意象，凸顯舞蹈嘉年華成為臺中的觀光盛會品牌活動。",
-      "Location": "臺中市 西區",
-      "Address": "臺中市民廣場",
-      "Phone": "04-22289111",
-      "Organizer": "臺中市政府觀光旅遊局",
-      "StartTime": "2023-09-29T00:00:00+08:00",
-      "EndTime": "2023-10-01T00:00:00+08:00",
-      "WebsiteUrl": "https://travel.taichung.gov.tw/zh-tw/event/activitydetail/8225",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/3abd48bd-0ee7-429e-b9f6-68bc3043f95d.jpg",
-        "PictureDescription1": "臺中舞蹈嘉年華大合照",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/93e948fa-03ee-4c77-93ef-46010620cfa1.jpg",
-        "PictureDescription2": "原住民舞團",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/6f3c929c-1f13-4c8e-b48b-cc78112b58e4.jpg",
-        "PictureDescription3": "復古舞風"
-      },
-      "Position": {
-        "PositionLon": 120.66346740722656,
-        "PositionLat": 24.150026321411133,
-        "GeoHash": "wsmc3u2kn"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "臺中市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081050",
+    "ActivityName": "2023奔羊節",
+    "Description": "清境農場溯自民國50年（西元1961年）農場草創已歷60寒暑，歷年來清境農場年度的生日慶典，係為緬懷前人創業之艱辛及展現今日之成果。每年固定於2月份規劃場慶活動，是全台唯一可體驗高山牧羊樂趣的活動。本次農場特有代表動物「柯莉黛綿羊」為活動主軸，活動場地在青青草原及觀山牧區，本次邀請十鼓擊樂團演奏鼓曲，緊接著上演特有綿羊剪毛秀，集合本場百餘隻綿羊，遊客在本場員工指導下於台14甲線上進行趕羊，體驗羊咩咩逛大街的樂趣。希望藉此獨樹一格之活動，呈現本場青春、活力、健康之休閒農場形象，活化清境地區內觀光產業及經濟發展，同時吸引更多遊客上山分享體驗。",
+    "Location": "南投縣 仁愛鄉",
+    "Address": "台14甲線7.5K-9.8K",
+    "Phone": "049-2802222",
+    "Organizer": "國軍退除役官兵輔導委員會清境農場",
+    "StartTime": "2023-02-17T00:00:00+08:00",
+    "EndTime": "2023-02-17T00:00:00+08:00",
+    "WebsiteUrl": "https://gosheep.chingjing.com.tw/",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/e0b1b0eb-1ac9-4e7c-bf5d-805242b0a85c.jpg",
+      "PictureDescription1": "羊群牧區集結等候",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/8aebb1ef-07f6-4e54-be7f-e3844dc42f96.jpg",
+      "PictureDescription2": "奔羊隊伍奔走在臺14甲線",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/dacd1274-36a0-4b62-a83a-be6df0d755eb.jpg",
+      "PictureDescription3": "可愛羊咩咩逛大街"
     },
-    {
-      "ActivityID": "C2_A15010000H_081024",
-      "ActivityName": "2023臺中爵士音樂節",
-      "Description": "臺中爵士音樂節，以自由即興的風格展現多元的音樂型式，呼應臺中市輕鬆、悠閒的都會生活文化特色，不但為臺中市營造令人印象深刻的文化生活氛圍，吸引民眾參與戶外藝術休閒活動，更帶動週邊商業與休閒旅遊產業的發展，透過逐年累積交流成果及活動效益，使本項活動逐漸成為臺中市最具吸引力的國際文化節慶活動，並成為和東京、曼谷、首爾等城市並列的亞洲四大爵士音樂節之一。",
-      "Location": "臺中市 西區",
-      "Address": "臺中市市民廣場",
-      "Phone": "04-22289111",
-      "Organizer": "臺中市政府文化局",
-      "StartTime": "2023-10-13T00:00:00+08:00",
-      "EndTime": "2023-10-22T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/247cedbb-96b9-4cf6-86a4-2b9bad852f53.jpg",
-        "PictureDescription1": "黃瑞豐& 踢霹歐爵士大樂團ft. 陳勇與觀眾合影",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/b68d261c-aa66-4034-9e84-f33f2f684147.jpg",
-        "PictureDescription2": "The Nick Javier Group 演出",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/c5735ae6-fbdf-4f0c-95e1-c8a0b0d68bf1.jpg",
-        "PictureDescription3": "黃瑞豐＆踢霹歐爵士大樂團ft.陳勇"
-      },
-      "Position": {
-        "PositionLon": 120.66349792480469,
-        "PositionLat": 24.149999618530273,
-        "GeoHash": "wsmc3u27z"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "臺中市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 121.16354370117188,
+      "PositionLat": 24.058774948120117,
+      "GeoHash": "wsq0v5u8e"
     },
-    {
-      "ActivityID": "C2_A15010000H_081052",
-      "ActivityName": "2023武陵農場櫻花季",
-      "Description": "武陵農場海拔高度位於1,740至2,200公尺間，自民國82年（西元1993年）開始種植櫻花樹至今約20餘載，約植有1萬6千餘株，被譽為全台賞櫻首選勝地，近年來因撫育得當，每年1至2月櫻花季期間一片粉白花海花況甚佳，在遊客主動透過部落格、臉書及網路等傳送下廣受媒體關注，於花季期間來場採訪報導，吸引數十萬民眾蜂擁上山賞花。",
-      "Location": "臺中市 和平區",
-      "Address": "武陵農場",
-      "Phone": "04-25901257",
-      "Organizer": "國軍退除役官兵輔導委員會武陵農場",
-      "StartTime": "2023-02-07T00:00:00+08:00",
-      "EndTime": "2023-02-28T00:00:00+08:00",
-      "WebsiteUrl": "https://www.wuling-farm.com.tw/tw/index.php",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/e78f612e-a1dc-4c13-a5e7-2c1303508023.jpg",
-        "PictureDescription1": "櫻桃楓林區-農場十大賞櫻處，爆開的櫻花，蔚為壯觀",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/e256e065-584f-4a07-affb-1c150abbf31e.jpg",
-        "PictureDescription2": "兆豐茶園區-農場十大賞櫻處，茶園下賞櫻花，猶如世外桃源",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/d3622ea3-4564-463c-8cc8-bc781d8d77d7.jpg",
-        "PictureDescription3": "醫療站前區-農場十大賞櫻處，早春盛開櫻花，帶來一絲美感"
-      },
-      "Position": {
-        "PositionLon": 121.30859375,
-        "PositionLat": 24.352357864379883,
-        "GeoHash": "wsq683nnz"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "臺中市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081076",
+    "ActivityName": "2023日月潭國際萬人泳渡",
+    "Description": "起始於民國72年（西元1983年）的日月潭國際萬人泳渡活動，每年中秋節前後舉辦，是日月潭最具歷史與規模的活動。泳渡全程約3,000公尺，每年均吸引來自海內外四面八方上萬名游泳愛好者參加，幾乎在開放報名即迅速額滿的「日月潭萬人泳渡」嘉年華盛事，場面盛況空前。",
+    "Location": "南投縣 魚池鄉",
+    "Address": "日月潭",
+    "Phone": "049-2203639",
+    "Organizer": "南投縣政府、中華民國成人游泳協會、埔里鎮四季早泳會",
+    "StartTime": "2023-09-24T00:00:00+08:00",
+    "EndTime": "2023-09-24T00:00:00+08:00",
+    "WebsiteUrl": "https://www.pulifourswim.tw/tw/index.php",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/32664653-b656-4e7f-bb6d-ed1b726fa3b9.jpg",
+      "PictureDescription1": "萬人泳渡盛況",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/50882fb8-6e13-49dc-8d8a-f7b83de20fe3.jpg",
+      "PictureDescription2": "泳渡風光",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/5caeebb0-fc57-4a9d-ab56-164edc57d959.jpg",
+      "PictureDescription3": "朝霧碼頭"
     },
-    {
-      "ActivityID": "C2_A15010000H_081073",
-      "ActivityName": "2023新社花海暨臺中國際花毯節",
-      "Description": "新社花海暨臺中國際花毯節為中部地區最盛大的花卉慶典，逐年淬煉成為全臺首屈一指、具品牌知名度的花卉與休閒農業活動。推廣花卉產業是中臺灣的在地特色，藉由花卉裝置藝術、社區及在地產業協作，串連花草、農特產、觀光休閒等臺中特色產業，活絡地方商機，提升在地產業量能，深化社區營造，促進地方自立永續發展，帶動山城區域觀光產業鏈更加緊密，吸引各地及國際遊客參觀。",
-      "Location": "臺中市 新社區",
-      "Address": "行政院農業部種苗改良繁殖場第二苗圃",
-      "Phone": "04-22289111",
-      "Organizer": "臺中市政府、行政院農業部種苗改良繁殖場",
-      "StartTime": "2023-11-11T00:00:00+08:00",
-      "EndTime": "2023-12-03T00:00:00+08:00",
-      "WebsiteUrl": "https://www.facebook.com/xinsheflowersea/?locale=zh_TW",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/9bc7d3d6-83b3-4cbb-9c5c-eb467a0c6772.jpg",
-        "PictureDescription1": "臺中國際花毯節-新社花海一景",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/e59b6b96-1cc3-477e-a601-20a9b24d4b14.jpg",
-        "PictureDescription2": "臺中國際花毯節-主花毯「勇氣之心」紅心皇后",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/d850fea4-6d2a-4d01-b5ca-22cd11cb9db1.jpg",
-        "PictureDescription3": "臺中國際花毯節-主花毯「勇氣之心」愛莉絲"
-      },
-      "Position": {
-        "PositionLon": 120.80599212646484,
-        "PositionLat": 24.203258514404297,
-        "GeoHash": "wsmctn04p"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "臺中市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
+    "Position": {
+      "PositionLon": 120.9159164428711,
+      "PositionLat": 23.85733413696289,
+      "GeoHash": "wsjzxx071"
     },
-    {
-      "ActivityID": "C2_A15010000H_080912",
-      "ActivityName": "2023台灣燈會",
-      "Description": "2024台灣燈會介紹          台灣燈會已然成為臺灣代表性觀光活動，將聚焦台南獨有豐富生態、人文地理、產業發展及多元文化，各項特色意象具象化，建立臺灣觀光品牌慶典。      活動地點：台南     活動日期：2024年2月24日 ～ 3月10日交通部觀光署為能將臺灣觀光旅遊形象推廣到世界，以吸引更多國外旅客來臺旅遊，並提昇旅遊觀光外匯收入，以「民俗文化根、傳統國際化」的理念來辦理台灣燈會。元宵節提燈籠原本是傳統的民俗活動，在融合本土風情及新科技後，台灣燈會更打造出國際級觀光盛會的氣勢，不但主燈展演美不勝收，國內外民俗團體的精采獻藝，以及一波波表演團隊之熱絡表演，使得來臺參加台灣燈會的國外嘉賓及旅客都讚聲連連。民國96年（西元2007年）間美國Discovery節目製作人來臺參訪台灣燈會元宵活動，經該節目評估，台灣燈會已具世界級水準，值得向全世界推薦，因而將其評選為「全球最佳慶典活動」之一，邀請拍攝團隊特地來記錄，並製作了長達1個小時的系列節目於全球播放，向全球推薦台灣燈會的璀璨魅力。「2023台灣燈會」以在地人文、產業導入及永續發展等概念，結合科技與文化元素，打造創新、節能及永續的台灣燈會，以國家大型燈會引領節慶活動時尚潮流。「2023台灣燈會」中央展區位於國父紀念館及市府前廣場，融入創新規劃，結合花燈藝術與現代光影多媒體科技，並擴大藝術家參與的創新運作模式，使燈會成為國內外藝術家或燈藝師展現藝術創作作品的場域，提供遊客與燈會互動的旅遊體驗，短期能提升台灣燈會知名度，長期則創造台灣燈會成為一重要活動平臺，使傳統花燈製作技藝獲得傳承，並融入創意、創新元素，讓傳統與現代交互激盪，豐富民俗傳統節慶文化內涵，開創華人世界獨一無二的元宵特色活動。",
-      "Location": "臺北市 信義區",
-      "Address": "國立國父紀念館",
-      "Phone": "04-23312688",
-      "Organizer": "交通部觀光署、臺北市政府",
-      "StartTime": "2023-02-05T00:00:00+08:00",
-      "EndTime": "2023-02-19T00:00:00+08:00",
-      "Picture": {
-        "PictureUrl1": "https://www.taiwan.net.tw/att/event/38312dfe-acc1-4b63-85bc-02c171cbe1a3.jpg",
-        "PictureDescription1": "2023台灣燈會主燈「玉兔壯彩」",
-        "PictureUrl2": "https://www.taiwan.net.tw/att/event/c8f7bcd8-c9ed-4526-a8bd-1f91185c94b4.jpg",
-        "PictureDescription2": "2023台灣燈會主燈「玉兔壯彩」",
-        "PictureUrl3": "https://www.taiwan.net.tw/att/event/315253fd-a1b5-4a29-b3ed-03dc52e9029b.jpg",
-        "PictureDescription3": "副燈-「從心出發」"
-      },
-      "Position": {
-        "PositionLon": 121.56002044677734,
-        "PositionLat": 25.041139602661133,
-        "GeoHash": "wsqqqnt71"
-      },
-      "Class1": "節慶活動",
-      "Class2": "藝文活動",
-      "City": "臺北市",
-      "SrcUpdateTime": "2024-10-08T01:50:16+08:00",
-      "UpdateTime": "2024-10-08T02:14:56+08:00"
-    }
-  ]
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081077",
+    "ActivityName": "2023南投世界茶業博覽會",
+    "Description": "南投有八大茶區，更是台灣茶葉主要產地，活動主要透過展館搭建與展售會，提供遊客茶知識、體驗、展演。並於活動期間舉辦數場大型特色主題活動，如千人茶會、千人擂茶以及千人野餐等活動，推廣多元豐富的茶文化。",
+    "Location": "南投縣 南投市",
+    "Address": "中興新村 中興會堂",
+    "Phone": "049-2229443",
+    "Organizer": "南投縣政府",
+    "StartTime": "2023-10-07T00:00:00+08:00",
+    "EndTime": "2023-10-15T00:00:00+08:00",
+    "WebsiteUrl": "https://teaexpo.mmweb.tw/",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/700ff267-3b42-49c0-9986-9ccc8f92774d.jpg",
+      "PictureDescription1": "千人茶會盛況",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/815fa862-4a89-41ca-a4ff-fb7ea82fc652.jpg",
+      "PictureDescription2": "小小泡茶師",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/15ab56ee-b458-4206-a509-5fa9eeb84272.jpg",
+      "PictureDescription3": "縣長農產品行銷"
+    },
+    "Position": {
+      "PositionLon": 120.69622039794922,
+      "PositionLat": 23.949291229248047,
+      "GeoHash": "wsmb4xb69"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081098",
+    "ActivityName": "2023日月潭Come!BikeDay花火音樂嘉年華",
+    "Description": "日月潭花火音樂嘉年華系列活動自民國97年（西元2008年）起舉辦，從初期的煙火、交響樂、鼓樂、舞蹈、藝文展覽，逐漸導入自行車、馬拉松、定向越野、紅茶產業文化、集團結婚、公益活動等多元題材，發展為一系列之高品質戶外展演及觀光活動，多年來深獲各界好評，並為日月潭嘉年華系列活動奠定深刻之「藝文表演」與「運動休閒」品牌旅遊印象。日月潭花火音樂嘉年華系列活動將持續以音樂藝術、運動休閒、在地產業文化等活動特色與傳統為主軸，延續「Come!BikeDay自行車」及「大型戶外花火音樂會」活動雙核心亮點，以創新發展豐富各場次活動主題與內容，並持續強化與其他公私部門合作，引入民間企業、團體之資源，加強國際交流行銷推廣合作等，以吸引更多國內外旅客到訪，並帶給遊客全新旅遊體驗與深刻印象，更為台灣整體觀光產業發展進一步創造效益。",
+    "Location": "南投縣 魚池鄉",
+    "Address": "水社碼頭",
+    "Phone": "049-2341240",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2023-10-05T00:00:00+08:00",
+    "EndTime": "2023-11-18T00:00:00+08:00",
+    "WebsiteUrl": "https://www.sunmoonlake.gov.tw/activities/musicfestival/Index.aspx?l=1",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/f4f08263-5001-40e3-9ab7-0d25748d8241.jpg",
+      "PictureDescription1": "日月潭Come!BikeDay花火音樂嘉年華",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/2e9d2b48-baab-45c5-8daf-929270c382f9.jpg",
+      "PictureDescription2": "兒童滑步車賽道",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/35d41cea-079c-4339-8cbd-347682797e7e.jpg",
+      "PictureDescription3": "「自慢日月潭，騎心齊力」自行車領騎人員培訓"
+    },
+    "Position": {
+      "PositionLon": 120.91191864013672,
+      "PositionLat": 23.864501953125,
+      "GeoHash": "wsjzz2mkg"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002117",
+    "ActivityName": "2022 日月潭櫻花季",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-01-31T00:00:00+08:00",
+    "EndTime": "2022-03-06T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002118",
+    "ActivityName": "2022日月潭星光螢火季",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭轄區周邊",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-04-01T00:00:00+08:00",
+    "EndTime": "2022-05-30T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002119",
+    "ActivityName": "2022日月潭櫻舞飛揚環湖路跑【活動取消】",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉水社村中山路599號",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-01-16T00:00:00+08:00",
+    "EndTime": "2022-01-16T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.90178680419922,
+      "PositionLat": 23.851640701293945,
+      "GeoHash": "wsjzxnjcz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002120",
+    "ActivityName": "2022日月潭萬人泳渡嘉年華",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉朝霧碼頭",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-09-04T00:00:00+08:00",
+    "EndTime": "2022-09-04T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91619110107422,
+      "PositionLat": 23.867769241333008,
+      "GeoHash": "wsjzz8brz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002121",
+    "ActivityName": "2022日月潭Come!BikeDay花火音樂嘉年華",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-10-07T00:00:00+08:00",
+    "EndTime": "2022-11-19T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002122",
+    "ActivityName": "2022日月潭婚禮【日月相映，情定日月潭】",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉中山路599號",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-10-07T00:00:00+08:00",
+    "EndTime": "2022-10-07T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.90178680419922,
+      "PositionLat": 23.851640701293945,
+      "GeoHash": "wsjzxnjcz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002124",
+    "ActivityName": "2022日月潭Come!Bikeday自行車嘉年華",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉中山路599號",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2022-07-15T00:00:00+08:00",
+    "EndTime": "2022-11-12T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.90178680419922,
+      "PositionLat": 23.851640701293945,
+      "GeoHash": "wsjzxnjcz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002266",
+    "ActivityName": "2023 日月潭櫻花季",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2023-02-01T00:00:00+08:00",
+    "EndTime": "2023-03-05T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002267",
+    "ActivityName": "2023 日月潭星光螢火季",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2023-04-01T00:00:00+08:00",
+    "EndTime": "2023-05-31T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002272",
+    "ActivityName": "2024日月潭跨年晚會-日月煙火幸福一世",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2023-12-31T00:00:00+08:00",
+    "EndTime": "2023-12-31T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002487",
+    "ActivityName": "2024 日月潭櫻舞飛揚環湖路跑",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉水社村中山路599號",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-02-25T00:00:00+08:00",
+    "EndTime": "2024-02-25T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.90178680419922,
+      "PositionLat": 23.851640701293945,
+      "GeoHash": "wsjzxnjcz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002488",
+    "ActivityName": "2024 日月潭櫻花季",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-02-01T00:00:00+08:00",
+    "EndTime": "2024-03-10T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002489",
+    "ActivityName": "2024 日月潭星光螢火季",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-04-01T00:00:00+08:00",
+    "EndTime": "2024-05-31T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002491",
+    "ActivityName": "2024 日月潭國際萬人泳渡嘉年華",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉朝霧碼頭",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-09-15T00:00:00+08:00",
+    "EndTime": "2024-09-15T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91619110107422,
+      "PositionLat": 23.867769241333008,
+      "GeoHash": "wsjzz8brz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002492",
+    "ActivityName": "2024 Come!BikeDay 日月潭花火音樂嘉年華",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-10-04T00:00:00+08:00",
+    "EndTime": "2024-11-23T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002493",
+    "ActivityName": "2024 日月潭觀光圈成果發表會",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉水社村中山路599號",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-12-01T00:00:00+08:00",
+    "EndTime": "2024-12-01T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.90178680419922,
+      "PositionLat": 23.851640701293945,
+      "GeoHash": "wsjzxnjcz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002494",
+    "ActivityName": "2025 日月潭跨年晚會",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉日月潭周邊轄區",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-12-31T00:00:00+08:00",
+    "EndTime": "2024-12-31T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.91590881347656,
+      "PositionLat": 23.857330322265625,
+      "GeoHash": "wsjzxx070"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002538",
+    "ActivityName": "集集鐵道音樂會",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣553水里鄉車埕火車站",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-03-09T00:00:00+08:00",
+    "EndTime": "2024-03-09T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.86573791503906,
+      "PositionLat": 23.832630157470703,
+      "GeoHash": "wsjzw6eep"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010600H_002579",
+    "ActivityName": "2024年玉山星空音樂會-日月潭樂章篇",
+    "Description": "無",
+    "Location": "to see the official site",
+    "Address": "南投縣555魚池鄉中山路599號",
+    "Phone": "886-4-92855668",
+    "Organizer": "交通部觀光署日月潭國家風景區管理處",
+    "StartTime": "2024-06-15T00:00:00+08:00",
+    "EndTime": "2024-06-15T23:59:59+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.90178680419922,
+      "PositionLat": 23.851640701293945,
+      "GeoHash": "wsjzxnjcz"
+    },
+    "Class1": "年度活動",
+    "City": "南投縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_371020000A_003151",
+    "ActivityName": "點水成金-金門水文化特展",
+    "Description": "人類的文明發展及族群遷徙皆與水息息相關，水既是生命的基本需求，也是日常生活不可或缺的元素之一。然而，金門先天水資源條件缺乏，年降雨量少且分布不均，近年亦出現湖庫水量不足和用水需求不斷上升的問題，使得金門人在尋找與適應水資源的歷程中，從傳說信仰、俗諺俚語、建築結構到生活產業，乃至於2018年自大陸引水等，逐步演進出世代獨特和豐富多樣的水文化。本次展覽以金門水文化為主軸，包含水傳說、水生態、水資源、水生活、水永續等五個策展主題，由金門特有的歷史背景與水文地理出發，展示水之於聚落及產業密不可分的關係，呈現金門水文化於物質及精神形態的獨特詮釋，最後以現今大眾關心的水資源議題，引導觀眾一同思考在水資源珍貴的島嶼上，我們該如何傳承水文化並與水共生？展覽內容呈現了「水」與金門自然、聚落、生活、產業密不可分的關係，內容豐富精彩，不僅有有常民生活中常見與水有關的文物、還有金門縣潮間帶學會洪清漳老師提供的「金門鐘螺」和貝類等珍貴標本。此外，展覽針對珍惜水資源的永續議題，規劃了適合大人小孩寓教於樂的展場互動裝置，如：國立臺灣科學教育館提供的VR遊戲、掃描QR code就可以玩的多人即時接水遊戲、親子互動水管教育裝置和特色打卡牆等，以寓教於樂的方式引導觀眾認識金門珍貴的水文化資產，除了發揮博物館文化傳承的功能外，也希望推廣珍惜水資源的教育理念。",
+    "Location": "詳見官網",
+    "Phone": "886-8-2318823",
+    "Organizer": "金門縣政府",
+    "StartTime": "2022-04-22T09:00:00+08:00",
+    "EndTime": "2023-12-31T17:00:00+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.44676208496094,
+      "PositionLat": 23.488759994506836,
+      "GeoHash": "wsjtsgfxu"
+    },
+    "Class1": "年度活動",
+    "City": "嘉義市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081032",
+    "ActivityName": "2023嘉義市光織影舞-光影藝術展",
+    "Description": "為增加嘉義市夜間觀光亮點，吸引旅客在嘉義市住宿及消費，本府於民國109年（西元2020年）10月1日起至11月1日（橫跨中秋及國慶連假）首次舉辦「2020嘉義市光織影舞-光影藝術展」，活動結合嘉義市城市人文特色及在地文化，以四季與中秋節（全國地表最大月亮）為主題，設置7件光影藝術裝置，營造陸（園區走道、草地）、水（北香湖湖水倒影）、空（樹林）氛圍之光影造景環境意象，並搭配精心安排的特色表演活動（如無人機煙火燈光秀、雷射投影及管樂表演燈光秀等），吸引全國及國際旅客來嘉義市駐留體驗",
+    "Location": "嘉義市 西區",
+    "Address": "北香湖公園",
+    "Phone": "05-2254321",
+    "Organizer": "嘉義市政府",
+    "StartTime": "2023-09-29T00:00:00+08:00",
+    "EndTime": "2023-10-10T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/8b20ab7e-90e0-49a8-9137-d140fa5d369a.jpg",
+      "PictureDescription1": "嘉義市北香湖公園",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/7da4b849-11a7-46c8-96fb-412f187ad8bf.jpg",
+      "PictureDescription2": "管樂表演",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/f04581ce-6b16-46cd-9af3-5661276b9b68.jpg",
+      "PictureDescription3": "閉幕活動-無人機排出2021圖案"
+    },
+    "Position": {
+      "PositionLon": 120.44534301757812,
+      "PositionLat": 23.492048263549805,
+      "GeoHash": "wsjtsu9e5"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081078",
+    "ActivityName": "2023嘉義市國際管樂節",
+    "Description": "嘉義市國際管樂節從1993年開始5校樂團表演的「音樂節」，逐漸擴大參與廣度，成為全民參與的「城市節慶活動」。於今年本活動已邁入第30屆，不僅為嘉義市最具特色的文化節慶、亦是台灣具代表性的文化活動，被交通部觀光署列為台灣國際級觀光節慶活動之一。歷年來結合重大的音樂盛會，例如，2000年辦理亞太管樂節、2011世界管樂年會、2013亞洲雙簧年會、2016亞洲薩克斯風大會，已獲得了國內外音樂界的美名與口碑，更以「聲音的城市」、「管樂城」成為全台特色。",
+    "Location": "嘉義市 西區",
+    "Address": "中央噴水池",
+    "Phone": "05-2788225",
+    "Organizer": "嘉義市政府",
+    "StartTime": "2023-12-15T00:00:00+08:00",
+    "EndTime": "2024-01-01T00:00:00+08:00",
+    "WebsiteUrl": "https://www.chiayiband.com.tw/",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/e527cdf7-7afa-4d0f-8cfa-9a6173809be2.jpg",
+      "PictureDescription1": "嘉義市立南興國民中學管樂旗隊",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/d5947fc5-d324-4cbd-a3b9-c2eb91b5e7f0.jpg",
+      "PictureDescription2": "他拉喇叭團",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/15a552d9-0515-4b60-9730-45a4900fdeed.jpg",
+      "PictureDescription3": "行樂人樂團"
+    },
+    "Position": {
+      "PositionLon": 120.44963073730469,
+      "PositionLat": 23.479915618896484,
+      "GeoHash": "wsjtsfksr"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376470000A_000499",
+    "ActivityName": "轉知嘉義縣番路鄉公所辦理「2024番路鄉柿子節」活動",
+    "Description": "本=活動於113年10月19、20日(六、日)假番路鄉半天岩紫雲寺辦理，活動內容包含農特產展售、親子手作體驗、藝人團體表演、大獎摸彩等，相關資訊歡迎搜尋臉書「2024番路鄉柿子節」粉絲專頁。",
+    "Location": "半天岩紫雲寺第三停車場",
+    "Address": "602嘉義縣番路鄉6號",
+    "Phone": "886-5-2591951",
+    "Organizer": "嘉義縣番路鄉公所",
+    "StartTime": "2024-10-19T00:00:00+08:00",
+    "EndTime": "2024-10-20T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/12/2024100815491218389.jpg",
+      "PictureDescription1": "「2024番路鄉柿子節」",
+      "PictureUrl2": "https://tourism.chcg.gov.tw/upload/12/2024100815490741071.jpg",
+      "PictureDescription2": "「2024番路鄉柿子節」"
+    },
+    "Position": {
+      "PositionLon": 120.58499145507812,
+      "PositionLat": 23.462411880493164,
+      "GeoHash": "wsjtrzpq3"
+    },
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376500000A_000001",
+    "ActivityName": "布袋謝鹽祭",
+    "Description": "布袋洲南鹽場一年一度的謝鹽祭，以鹽田為舞台，由在地的慶和軒北管以傳統戲曲結合現代劇場，演出洲南鹽場重建的故事，並邀請三組音樂創作歌手，在秋天夜晚的海風中演唱，搭配駐村藝術家的影像MV創作，凸顯布袋的產業勞動、人文特色與在地價值。",
+    "Phone": "886-5-3478817",
+    "Organizer": "布袋嘴文化協會",
+    "StartTime": "1911-09-01T00:00:00+08:00",
+    "EndTime": "2065-09-30T23:59:00+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 120.16539764404297,
+      "PositionLat": 23.390790939331055,
+      "GeoHash": "wsjmn6jv0"
+    },
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081029",
+    "ActivityName": "高山茶都-嘉義博茶會",
+    "Description": "嘉義的茶文化產業豐富且興盛，阿里山茶葉更是為國內外所盛讚的經典茗茶，與茶產業共生共長的還有深厚的茶文化涵養，結合嘉義縣精緻工藝與豐美農特產，讓遊客滿載而歸。嘉義縣除了傑出的茶文化產業引人入勝外，本活動亦結合本縣豐饒的農特產品、得天獨厚的優美景觀、珍貴精緻的工藝品，多元且全面的展現嘉義縣的優質條件，吸引各地旅客再三來訪。",
+    "Location": "嘉義縣 中埔鄉",
+    "Address": "中埔鄉農會金蘭分部",
+    "Phone": "05-3628123",
+    "Organizer": "嘉義縣政府",
+    "StartTime": "2023-12-09T00:00:00+08:00",
+    "EndTime": "2023-12-17T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/808fece1-124d-4511-af44-3031a8d0d75a.jpg",
+      "PictureDescription1": "主題市集，精選攤商，品質優良，好好逛好好買",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/c581ea05-da98-4225-8d2f-0d8719fe43db.jpg",
+      "PictureDescription2": "茶文化系列活動，豐富多元，老少咸宜，寓教於樂",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/b6a6de6d-7e73-4fea-846c-3ec3c501b4c1.jpg",
+      "PictureDescription3": "已遠近馳名的高山茶為領頭羊，全面行銷嘉義縣的優美山水與豐饒物產"
+    },
+    "Position": {
+      "PositionLon": 120.49278259277344,
+      "PositionLat": 23.447025299072266,
+      "GeoHash": "wsjtmukhv"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081030",
+    "ActivityName": "2023東石海之夏",
+    "Description": "「東石海之夏」作為嘉義縣暑期濱海觀光指標性活動，以濱海觀光與歡樂親子遊為主題，包含流行音樂演唱會、特色產業 DIY、親子活動等，鎖定全國暑假親子家庭與青少年旅遊客群，結合嘉義夏日外傘頂洲踏浪、東石布袋吃海鮮觀海景之獨特濱海遊程，打造暑假親子戲水及年輕族群玩樂打卡熱點活動，每年都吸引上萬名遊客來嘉享受濱海旅遊，持續帶動嘉義沿海東石、布袋相關產業觀光收益。",
+    "Location": "嘉義縣 東石鄉",
+    "Address": "東石漁人碼頭",
+    "Phone": "05-3628123",
+    "Organizer": "嘉義縣政府文化觀光局、交通部觀光署雲嘉南濱海國家風景區管理處",
+    "StartTime": "2023-08-01T00:00:00+08:00",
+    "EndTime": "2023-08-14T00:00:00+08:00",
+    "Cycle": "2023-08-05、06、12、13",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/8bac3a16-9584-42c3-ac42-c975cb357cd3.jpg",
+      "PictureDescription1": "「東石海之夏」夏夜濱海煙火表演，結合聲光音樂共同匯演，絢麗煙火吸引大批觀賞人潮",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/5c334a8c-edbf-4b7a-a610-d2e9bf02d766.jpg",
+      "PictureDescription2": "「東石海之夏」流行音樂演唱會，邀請熱門音樂歌手或樂團表演，吸引大批年輕族群參加，享受夏夜音樂搖滾",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/e5fa120b-3625-4390-bf08-a8755b17178a.jpg",
+      "PictureDescription3": "「東石海之夏」為本縣暑期濱海觀光指標性活動，以夏季海洋觀光為主題，每年暑假都吸引眾多親子戲水及青少年玩樂打卡旅遊人潮"
+    },
+    "Position": {
+      "PositionLon": 120.13507080078125,
+      "PositionLat": 23.449047088623047,
+      "GeoHash": "wsjmmsz8w"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081049",
+    "ActivityName": "2023阿里山花季-櫻與音的對話",
+    "Description": "「櫻與音的對話」是宣告一年一度的阿里山花季正式開始，從3月至4月為期一個月的阿里山花季登場。花季開幕日辦「櫻與音的對話」開幕活動，主要為音樂、舞蹈或茶席等創意表演。遊樂區幅員遼闊，櫻花品系共有31種將近3000株，山櫻花、小櫻王唐實櫻、霧社櫻、櫻王染井吉野櫻、大島櫻、重瓣花系的關山櫻、普賢象櫻等等。",
+    "Location": "嘉義縣 阿里山鄉",
+    "Address": "阿里山國家森林遊樂區",
+    "Phone": "05-2787006",
+    "Organizer": "農業部林業及自然保育署嘉義林區管理處",
+    "StartTime": "2023-03-10T00:00:00+08:00",
+    "EndTime": "2023-04-10T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/03da87e4-0fd7-49d5-bc91-062c64bfc6ae.jpg",
+      "PictureDescription1": "阿里山國家森林遊樂區內的染井吉野櫻與昇天鳳蝶",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/eafdcf16-b19d-4555-bec4-4476e0276ce3.jpg",
+      "PictureDescription2": "蒸氣火車與櫻花",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/8c1c8a33-45d4-48df-a5a9-6501a9ecece8.jpg",
+      "PictureDescription3": "冠羽畫眉"
+    },
+    "Position": {
+      "PositionLon": 120.80367279052734,
+      "PositionLat": 23.511293411254883,
+      "GeoHash": "wsjvubne1"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081065",
+    "ActivityName": "2023阿里山四季茶旅活動",
+    "Description": "阿里山四季茶旅活動係藉由培訓在地茶旅達人、茶旅體驗環境氛圍營造及行銷推廣活動，推廣阿里山好茶及多元品茗情境；四季茶會活動以二十四節氣為主題，結合在地茶旅達人司茶，伴著阿里山自然地景風貌（如：櫻花、螢火蟲、瀑布、竹林、森林、黃頭鷺、紫藤、雲瀑等），山林芬多精，品茗阿里山優質茶湯滋味；本計畫並將旅遊動線串連到產地製茶體驗、旅宿及品茗，開發多元茶品、茶輕食、茶文創商品，並搭配本處阿里山日產業展及國際旅展等聯合行銷茶旅遊程，提供國人與國際人士預約體驗深度茶之旅，形塑專屬阿里山茶文化體驗觀光品牌，促進阿里山茶文化、生態、產業等在地創生及深耕，活絡阿里山在地觀光產業，創造阿里山茶旅觀光產業整體效益與產值。    春季茶會：2023.04.22 - 2023.04.23    夏季茶會：2023.07.22    秋季茶會：2023.09.23    冬季茶會：2023.12.17-->",
+    "Location": "嘉義縣 梅山鄉",
+    "Address": "圓潭自然生態園區",
+    "Phone": "05-2593900",
+    "Organizer": "交通部觀光署阿里山國家風景區管理處",
+    "StartTime": "2023-04-01T00:00:00+08:00",
+    "EndTime": "2023-12-31T00:00:00+08:00",
+    "Cycle": "春季4/22-4/23、夏季7/22、秋季9/23、冬季12/17",
+    "WebsiteUrl": "https://www.ali-nsa.net/zh-tw/event/calendardetail/2824",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/1865b1a1-b85c-4284-8282-ea6935693344.jpg",
+      "PictureDescription1": "以在地花卉迎賓",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/37e02b28-cedd-48a0-a90b-4f7294ed23ee.jpg",
+      "PictureDescription2": "國際交流",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/61e78c8c-d3b0-44e2-878c-28880dff071c.jpg",
+      "PictureDescription3": "採茶體驗"
+    },
+    "Position": {
+      "PositionLon": 120.65933227539062,
+      "PositionLat": 23.528942108154297,
+      "GeoHash": "wsjvcem6n"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081099",
+    "ActivityName": "2023阿里山神木下婚禮",
+    "Description": "「阿里山神木下婚禮」除聚焦主活動及貳部曲「阿里山星光下婚禮」，也將阿里山的美景、雋永的森林鐵路、千年屹立不搖的神木、傳統的鄒族文化及多元的在地產業推向國際舞台，打造戀人至阿里山約會、婚拍及蜜月的難忘浪漫回憶，吸引國內外旅客至阿里山體驗浪漫之旅。    星光下婚禮：3月13日至14日    神木下婚禮：10月",
+    "Location": "嘉義縣 阿里山鄉",
+    "Address": "阿里山國家森林遊樂區-香林神木",
+    "Phone": "05-2593900",
+    "Organizer": "交通部觀光署阿里山國家風景區管理處",
+    "StartTime": "2023-10-01T00:00:00+08:00",
+    "EndTime": "2023-10-31T00:00:00+08:00",
+    "Cycle": "星光下婚禮：3/13-3/14、神木下婚禮：10/22-10/23",
+    "WebsiteUrl": "https://www.ali-nsa.net/zh-tw/event/calendardetail/2823",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/9c742780-d584-4882-809e-d4f4a6eb57e9.jpg",
+      "PictureDescription1": "神木下婚禮大合照",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/e7acc8d7-b66b-46a6-95cd-670d29705094.jpg",
+      "PictureDescription2": "星光下婚禮大合照",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/3abc1e5d-65a4-4448-bda7-2280233a6f85.jpg",
+      "PictureDescription3": "鄒族傳統婚禮體驗-永結同心"
+    },
+    "Position": {
+      "PositionLon": 120.8081283569336,
+      "PositionLat": 23.517349243164062,
+      "GeoHash": "wsjvv11y3"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "嘉義縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_080970",
+    "ActivityName": "2023鷄籠中元祭",
+    "Description": "雞籠中元祭起源於西元1855年，從過往地方歷史事件發展至今，為臺灣規模最大的中元祭典，不僅是臺灣歷史最悠久的民俗祭典之一，也是第一個被指定為「重要民俗」類國家文化資產的節慶。由各姓氏宗親會輪流主普，活動內容涵蓋宗教祭儀、傳承研習及周邊藝文活動，以族群融合、慎終追遠、悲天憫人、博愛普施為核心精神。",
+    "Location": "基隆市 安樂區",
+    "Address": "老大公廟",
+    "Phone": "02-24224170",
+    "Organizer": "基隆市政府",
+    "StartTime": "2023-08-15T00:00:00+08:00",
+    "EndTime": "2023-09-15T00:00:00+08:00",
+    "WebsiteUrl": "https://www.klccab.gov.tw/CulturalFestival/Details/0e51aca0-c8db-4221-b01f-0d1745f58a28?itemId=21168f38-4e6d-454f-b89c-1cb99c3e8ee4&firstpage=1&secondPage=1",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/9c23e9f6-2266-4d45-8fde-8de6c624686f.jpg",
+      "PictureDescription1": "農曆6月29日老大公廟開燈夜",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/3ad0e2ad-e987-43f5-866f-cf82b848ca18.jpg",
+      "PictureDescription2": "農曆7月14日放水燈遊行",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/894b300c-c3d7-4696-944e-722e2c5a41d9.jpg",
+      "PictureDescription3": "農曆7月14日望海巷施放水燈頭"
+    },
+    "Position": {
+      "PositionLon": 121.73310089111328,
+      "PositionLat": 25.129070281982422,
+      "GeoHash": "wsqwfne76"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "基隆市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081009",
+    "ActivityName": "2023基隆潮境海灣節",
+    "Description": "望海巷潮境海灣，範圍自環保復育公園海岬至深澳岬之海域，面積約250公頃，海灣山海景觀秀麗、生態資源豐富，具有獨特海岸地質風貌與潮間帶，每年春末至秋初時節氣候溫和宜人，相當適合各類戶外休憩活動與教育體驗。希望透過海灣節辦理各項活動，以觸發觀眾「親近海洋、認識海洋、善用海洋、善待海洋、永續海洋」，打造海灣及週邊場域變成「海洋生態體驗園區」。民國104年（西元2015年）至民國106年（西元2017年）由國立海洋科技博物館辦理三屆「Aquatopia 渥托邦-海洋狂想」海洋生活博覽會系列活動，每年吸引上萬人次參加，大受好評，已成為成北臺灣年度盛事。民國107年（西元2018年）起，由基隆市政府接繼辦理相關海灣體驗活動，延續渥托邦活動的熱潮，並與本市產、關、學、研相關單位合作，如基隆區漁會、八斗子漁村、長潭漁村、特定漁業產銷班、海科館及交通部北觀處等，擴大服務對象及新增多項親海及體驗行程，針對不同族群與海洋產生關連的方式做為切入點，推出五大「潮」活動，包括「潮海洋」、「潮音樂」「潮美食」、「潮生態」與「潮漁村」，舉凡海灣可發展之海洋運動、生態旅遊、海洋工作假期、漁村活絡、海底影像記錄、海洋音樂、海洋美食等，讓不同族群與海洋交集而留下了美好生命經驗，將透過這樣的機制，規劃寓教於樂的海洋體驗活動，吸引大眾走進基隆的海洋場域，感受海洋生活之豐富。",
+    "Location": "基隆市 中正區",
+    "Address": "碧砂漁港",
+    "Phone": "02-24225800",
+    "Organizer": "基隆市政府",
+    "StartTime": "2023-07-22T00:00:00+08:00",
+    "EndTime": "2023-07-22T00:00:00+08:00",
+    "Cycle": "2023/07/22",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/9cb4d0df-2b40-452b-bb44-0118d778adda.jpg",
+      "PictureDescription1": "基隆潮境海灣節－潮音樂：結合在地美食、海洋風格與環保的草地音樂會，鹹鹹的海風，吹出基隆限定的幸福味道。",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/20596994-0743-4822-8721-f10135cb940f.jpg",
+      "PictureDescription2": "基隆潮境海灣節－潮美食：於基隆101高地上辦理海風盛宴，海風迎面吹拂，看星光與漁火點點閃爍。",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/2121fcc8-020b-4b72-9fa8-d57727ebf8cc.jpg",
+      "PictureDescription3": "基隆潮境海灣節－潮海洋：基隆國際帆船賽暨台琉國際帆船賽。"
+    },
+    "Position": {
+      "PositionLon": 121.78629302978516,
+      "PositionLat": 25.147140502929688,
+      "GeoHash": "wsqx53fhd"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "基隆市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081010",
+    "ActivityName": "2023基隆潮藝術",
+    "Description": "「潮藝術」視在地居民的智慧及生活為藝術，也讓藝術成為問題性，一場與自然共生的大地藝術祭在裝點港口的同時也在呼喊著文化的認同。海風的鹹味提醒著我們並非身處美術館，而是遊走在現實生活與藝術的邊緣，探討著漁港特有的文化、歷史、知識、產物與情感，將其微分化並轉譯為方便閱覽的章節。「潮藝術」不只是個展覽，而是扭動了場域、時間、故事而後建構的如同港口的載體，承載著當地住民的記憶、來訪民眾的所見以及藝術家的想像。「潮藝術」自民國104年（西元2015年）至今將邁入第7年，從潮境公園拓張至舊正濱漁會大樓、阿根納造船場遺構，並打造了極具特色的海上美術館，透過循序漸進的主題，從海洋關懷出發，不斷鼓勵及激發民眾思考基隆與海洋、藝術與環境的關係，透過藝術重新喚起在地認同，民國109年（西元2020年）展覽首周即吸引千人進港，帶動當地觀光。",
+    "Location": "基隆市 中正區",
+    "Address": "正濱漁港",
+    "Phone": "02-24224170",
+    "Organizer": "基隆市政府文化局",
+    "StartTime": "2023-09-28T00:00:00+08:00",
+    "EndTime": "2023-10-15T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/1dd3bbeb-9d40-480b-a093-aa77c21c0ee1.jpg",
+      "PictureDescription1": "木罐子製作設計〈阿根納的船〉",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/dc0ec6a6-9db3-44a0-8244-177775f48bd0.jpg",
+      "PictureDescription2": "Lua-Rivera〈祖母的海膽〉",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/63f35690-52c8-4827-8a63-7abd8756ef2c.jpg",
+      "PictureDescription3": "Martens Visser〈HOLONS〉"
+    },
+    "Position": {
+      "PositionLon": 121.76605224609375,
+      "PositionLat": 25.15195083618164,
+      "GeoHash": "wsqx4fg2d"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "基隆市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081063",
+    "ActivityName": "2023島嶼生活節",
+    "Description": "和平島為北台灣最早躍進世界舞台的島嶼，從最早的平埔族原住民、西班牙人、荷蘭人後來的琉球王國人、日本人、福州人等，這塊土地有著豐厚的故事，但隨著時間流動，這些文化歷史及過去的美好友誼逐漸被遺忘，和平島公園使用音樂、美食、藝術創作等來包裝文化、歷史等對於一般遊客來說較為生硬的議題。一年一度提供回憶重塑的有趣活動，邀請曾經在這片土地生活的各國人們，一起在這場無國界的美學派對中發掘更多美好生活，在這裡展演過去、現在、未來我們共享的生活樣貌。島嶼生活節打破疆界，台灣的在地文化就是經由這幾百年來不同國家文化的揉合、衝突、再轉化，在島嶼生活結節不只做跨域跨國際合作、更希望讓那條國家間的界線變得透明，並且讓台灣創作者能在這裡被看見，醞釀更豐富的「台灣永續活動品牌」的能量！",
+    "Location": "基隆市 中正區",
+    "Address": "和平島公園",
+    "Phone": "02-86355151",
+    "Organizer": "交通部觀光署北海岸及觀音山國家風景區管理處",
+    "StartTime": "2023-07-15T00:00:00+08:00",
+    "EndTime": "2023-09-30T00:00:00+08:00",
+    "WebsiteUrl": "https://www.hpigeopark.org/",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/7e8a8fad-0c80-4fee-8dce-7f3fcbeec6d7.jpg",
+      "PictureDescription1": "琉球夜唱",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/82d96418-d9dd-4261-ac17-9a270989fb68.jpg",
+      "PictureDescription2": "島嶼市集",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/1aff6648-c9ca-4da8-a47e-99ba8912b2d6.jpg",
+      "PictureDescription3": "琉球夜唱-沖繩歌手演唱"
+    },
+    "Position": {
+      "PositionLon": 121.76383972167969,
+      "PositionLat": 25.160629272460938,
+      "GeoHash": "wsqx4u3er"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "基隆市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_A15010000H_081094",
+    "ActivityName": "2023客家桐花祭",
+    "Description": "客家桐花祭，以祭、生活美學（創作、表演、生活型態演示）、旅遊（桐花步道、小旅行、旅遊攻略）、產業（地方品牌-農產加工、手工藝品）及行銷（製作資源中心、季節紀念產品、桐花氣象、桐花祭夥伴）等五大面向轉型辦理，輔以生活美學演示形塑客庄小旅行品牌，並透過整體行銷，讓客家文化的美從生活中體現，讓旅人在桐花盛開的時節，自由行尞遶山花，回歸桐花祭初衷。客委會為持續推廣桐花小旅行活動，特建置IOT桐花監測設備，透過蒐集地區濕度、雨量、風向、風速、日照等相關環境數據，記錄桐花生長狀況，經比對歷史開花資料建構桐花開花預測模型，並結合中央氣象署、農業部林業及自然保育署網站共同露出桐花花況資訊，以利民眾取得即時花況提前安排行程；桐花季節之開花資訊請見桐花花況預測平台。",
+    "Location": "基隆市 暖暖區",
+    "Address": "暖暖東勢坑產業步道",
+    "Phone": "02-89956988",
+    "Organizer": "客家委員會",
+    "StartTime": "2023-04-14T00:00:00+08:00",
+    "EndTime": "2023-05-10T00:00:00+08:00",
+    "WebsiteUrl": "https://tung.romantichakka.com/home?lang=ch",
+    "Picture": {
+      "PictureUrl1": "https://www.taiwan.net.tw/att/event/f24a0dcc-e4c1-47d7-b4fa-5799a0dd3e08.jpg",
+      "PictureDescription1": "鳳凰山步道",
+      "PictureUrl2": "https://www.taiwan.net.tw/att/event/be2d8052-8b51-4a00-a829-5147dc2bb64f.jpg",
+      "PictureDescription2": "石門三坑自行車道（油桐花徑）",
+      "PictureUrl3": "https://www.taiwan.net.tw/att/event/305537be-e874-4b0c-8469-dec88eed925b.jpg",
+      "PictureDescription3": "出關步道（樟之細路）"
+    },
+    "Position": {
+      "PositionLon": 121.75503540039062,
+      "PositionLat": 25.076812744140625,
+      "GeoHash": "wsqwdt571"
+    },
+    "Class1": "節慶活動",
+    "Class2": "藝文活動",
+    "City": "基隆市",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376470000A_000406",
+    "ActivityName": "轉知宜蘭縣政府「安農溪自下湖橋至張公圍親水公園河段水域，暫停受理新案帶客從事水域遊憩活動申請」公告",
+    "Description": "轉知宜蘭縣政府「安農溪自下湖橋至張公圍親水公園河段水域，暫停受理新案帶客從事水域遊憩活動申請」公告",
+    "Location": "宜蘭縣政府",
+    "Address": "宜蘭縣宜蘭市縣政北路1號",
+    "Phone": "886-3-9251000",
+    "Organizer": "宜蘭縣政府",
+    "StartTime": "2024-01-30T00:00:00+08:00",
+    "EndTime": "2024-12-31T00:00:00+08:00",
+    "Picture": {},
+    "Position": {
+      "PositionLon": 121.76310729980469,
+      "PositionLat": 24.730710983276367,
+      "GeoHash": "wsqsdy14y"
+    },
+    "City": "宜蘭縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  },
+  {
+    "ActivityID": "C2_376470000A_000444",
+    "ActivityName": "轉知宜蘭縣礁溪鄉公所公告「2024礁溪微電影徵選暨礁溪攝影比賽」活動",
+    "Description": "一、收件期間：自即日起至113年10月15日止，歡迎有興趣的朋友踴躍報名參加。二、活動相關資訊詳本所官方網站「礁溪觀光旅遊網」及Facebook「真愛趣礁溪」粉絲專頁查詢。",
+    "Location": "宜蘭縣礁溪鄉公所",
+    "Address": "宜蘭縣礁溪鄉中山路二段3號",
+    "Phone": "886-3-9881311",
+    "Organizer": "宜蘭縣礁溪鄉公所",
+    "StartTime": "2024-05-10T00:00:00+08:00",
+    "EndTime": "2024-10-15T00:00:00+08:00",
+    "Picture": {
+      "PictureUrl1": "https://tourism.chcg.gov.tw/upload/12/2024051011100970456.jpg",
+      "PictureDescription1": "2024礁溪微電影徵選暨礁溪攝影比賽"
+    },
+    "Position": {
+      "PositionLon": 121.77117156982422,
+      "PositionLat": 24.823421478271484,
+      "GeoHash": "wsqt4yznc"
+    },
+    "City": "宜蘭縣",
+    "SrcUpdateTime": "2024-10-11T01:49:28+08:00",
+    "UpdateTime": "2024-10-11T02:14:56+08:00"
+  }
+]

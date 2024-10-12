@@ -1,7 +1,7 @@
 import React, { useState ,useContext } from 'react'
-import styles from './CityCard.module.scss'
+import styles from './cityCard.module.scss'
 import {regions} from '../../data/regions'
-import RegionContext from '../../store/RegionContext'
+import RegionContext from '../../store/CommonContext'
 
 const CityCard = (props) => {
     const {selectedArea,setSelectedArea,selectedCity,setSelectedCity} = useContext(RegionContext)

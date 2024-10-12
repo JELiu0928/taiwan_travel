@@ -1,0 +1,1062 @@
+[
+    {
+      "RestaurantID": "C3_387000000A_000009",
+      "RestaurantName": "PAPAMIA義式廚房",
+      "Description": "創立於1995年的帕帕咪雅，有一位充滿理想與堅持的女老闆，老闆顏小姐表示，當初她就讀大學時讀的是觀光系，當時便對義大利美食嚮往不已，畢業後不但開了一家義大利餐廳，更花了半年時間到義大利學習正統義大利料理，十多年來仍常常利用時間赴義大利學習進修，可以說是將所有的精神與時間都投注在義大利美食的烹調料理。老闆表示，帕帕咪雅不以裝潢取勝，強調餐點的品質。對於餐點的烹調風格，則是80%保有義大利正統口味，而20%則經過口味調整，而最有趣的，就是這裡的sauce與麵是分開點的，有7種麵與20種sauce可以組合！",
+      "Address": "臺中市407西屯區東興路三段412-1號",
+      "ZipCode": "407",
+      "Phone": "886-4-23286034",
+      "OpenTime": "AM11:30 - PM14:00 / PM17:30 - PM22:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1115/640x480_Filedata635176187938896328.jpg",
+        "PictureDescription1": "PAPAMIA義式廚房"
+      },
+      "Position": {
+        "PositionLon": 120.65583801269531,
+        "PositionLat": 24.158489227294922,
+        "GeoHash": "wsmc3tfvk"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000026",
+      "RestaurantName": "春水堂-大墩店",
+      "Description": "精明一街，人稱台中第一街，它是造街運動的傳奇，是外國旅人拜訪台中必經之地。而整條精明一街的人氣，幾乎通通都在春水堂大墩店這裡凝聚。露天紅色傘海下的坐位，滿滿都是享受悠閒的人們，愜意寫在臉上，輕鬆掛在笑裡，點杯珍奶或翡翠檸檬就這樣坐一下午。 大墩店自1987年開張，2008年重新整修，全新的空間設計表現當代的東方美學，幽雅沈靜，明式線條原木桌椅、灰磚牆、別緻燈籠 字畫、陶器相融其間…。並設置秋山堂精品茶庄， 角落玄關的花藝造景古色古香，處處驚喜。大墩店的室外，呈現出歐式浪漫。室內，卻 是一派中式儒雅，木桌椅、紅磚牆、燈籠字畫交 址陶….古色古香，角落玄關的花藝造景，處處驚喜。吸煙區：一樓外廣場　　禁煙區：室內全禁煙",
+      "Address": "臺中市403西區大墩十九街9號",
+      "ZipCode": "403",
+      "Phone": "886-4-23273647",
+      "OpenTime": "平假日：AM8:30 – PM23:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3272/640x480_Filedata635184859139905703.jpg",
+        "PictureDescription1": "春水堂-大墩店"
+      },
+      "Position": {
+        "PositionLon": 120.65585327148438,
+        "PositionLat": 24.156150817871094,
+        "GeoHash": "wsmc3t6zv"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000036",
+      "RestaurantName": "南瓜屋義式餐飲",
+      "Description": "一間餐廳要能在台中存活超過五年可不是件簡單的事，而老餐廳能大手筆投資讓自己改頭換面成為另一番風貌就更不簡單了。1997年開幕的南瓜屋位在國立台灣美術館對面那條多采多姿，充滿著餐廳茶坊的街上，是間小有名氣的特色餐廳，然而南瓜屋並不以此自滿，在大幅改裝後最近又重新開幕了。",
+      "Address": "臺中市403西區五權西四街108號",
+      "ZipCode": "403",
+      "Phone": "886-4-23728456",
+      "OpenTime": "平日 11:00-15:30;17:00-22:20,假日 11:00-15:30;17:00-22:20",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1132/640x480_Filedata635176192768017421.jpg",
+        "PictureDescription1": "南瓜屋"
+      },
+      "Position": {
+        "PositionLon": 120.6624526977539,
+        "PositionLat": 24.13591957092285,
+        "GeoHash": "wsmc39z9y"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000039",
+      "RestaurantName": "鄉村鵝廚房美式餐廳",
+      "Description": "鄉村鵝廚房位在清幽的存中街上，洋溢著美式鄉村風格。庭院中聳立著三棵老樹～玉蘭花及杉木。夏天時玉蘭花盛開，院子與室內清香瀰漫讓人陶醉。陽光穿越葉隙撒落一片光彩，花兒綻放吐露清香，庭院內小橋流水多麼詩情畫意。店主人過去是知名餐廳「茹蕬葵」的廚師，處理牛排擁有過人水準；老闆娘過去是「長榮桂冠」的調酒師，擁有一間店是兩人共同的夢想，鄉村鵝則是圓夢的結晶，料理上紮實的真本事連外國人都讚不絕口，還有超級大公關拉不拉多犬Bonnie可愛又溫馴，鄉村鵝是您不可錯過的優質餐廳。",
+      "Address": "臺中市403西區存中街19號",
+      "ZipCode": "403",
+      "Phone": "886-4-23731558",
+      "OpenTime": "AM11:30 - PM14:30 / PM17:30 - PM22:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1137/640x480_Filedata635176194110771328.jpg",
+        "PictureDescription1": "鄉村鵝廚房美式餐廳"
+      },
+      "Position": {
+        "PositionLon": 120.6607437133789,
+        "PositionLat": 24.141090393066406,
+        "GeoHash": "wsmc3dy2p"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000060",
+      "RestaurantName": "黃記鵝肉",
+      "Description": "鮮黃色的招牌，在街口中閃耀著，您會很容易發現這裡，因為從傍晚營業開始，一直到深夜，湧進的顧客人潮不斷，精選的鵝肉，搭配醬料，肉質鮮美、多汁，美味讓人意猶未盡。",
+      "Address": "臺中市400中區大誠街43號",
+      "ZipCode": "400",
+      "Phone": "886-4-23174112",
+      "OpenTime": "16：00pm～01：00am  星期二公休",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1236/640x480_Filedata635176240277958828.jpg",
+        "PictureDescription1": "黃記鵝肉"
+      },
+      "Position": {
+        "PositionLon": 120.67872619628906,
+        "PositionLat": 24.1452693939209,
+        "GeoHash": "wsmc65e86"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000067",
+      "RestaurantName": "赤鬼炙燒牛排-崇德店",
+      "Description": "台中赤鬼牛排餐廳為日船美食連鎖系統之子公司，日船美食連鎖系統包含了：日船章魚小丸子、日船重口味麵線、台中赤鬼牛排餐廳；日船美食連鎖系統自1995年起投入餐飲研究領域，我們堅持以【立足台灣、放眼國際】的事業經營理念，將美食文化推及世界各地，在這期間，正因為堅持，日船美食連鎖系統的事業版圖已跨足：美加地區、港澳地區、中國大陸地區、東南亞地區。",
+      "Address": "臺中市406北屯區文心路四段603號",
+      "ZipCode": "406",
+      "Phone": "886-4-22429933",
+      "OpenTime": "AM11:00 ~ PM11:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1908/640x480_Filedata635177154681640468.jpg",
+        "PictureDescription1": "赤鬼炙燒牛排-崇德店"
+      },
+      "Position": {
+        "PositionLon": 120.68521881103516,
+        "PositionLat": 24.172409057617188,
+        "GeoHash": "wsmcd22q3"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000124",
+      "RestaurantName": "炭火燒肉工房",
+      "Description": "走進「炭火燒肉工房」，會有種讓人放鬆的感覺。喝碗灑上蔥花的雞湯，點杯清酒小酌，三五好友隨聊，還沒開始用餐，就已是享受。進門便能感受到十足活力，炭火燒肉工房充滿著年輕氣息，包括店長以下都屬年輕族群，使得店內氣氛熱鬧活潑，沒有絲毫疏離感。當炭火將上等食材烤得滋滋作響，傳來的香味，是種誘惑。一口吃下，你將會明白，真正的美味，不需過於複雜的烹調或醃漬。歡迎來到「炭火燒肉工房」，品嚐簡單卻會令人感動的絕妙滋味！",
+      "Address": "臺中市403西區美村路一段412號",
+      "ZipCode": "403",
+      "Phone": "886-4-23762988",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/2041/640x480_Filedata635179651265970156.jpg",
+        "PictureDescription1": "炭火燒肉工房"
+      },
+      "Position": {
+        "PositionLon": 120.66159057617188,
+        "PositionLat": 24.143619537353516,
+        "GeoHash": "wsmc3epnf"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000125",
+      "RestaurantName": "烤狀猿日式炭火燒肉-一中店",
+      "Description": "烤狀猿 保有最傳統的炭火燒烤，煙燻的特殊風味是一般無煙燒肉無法比擬的，讓客人吃到最新鮮、最美味是我們的堅持，不論是何種食材，皆是一時之選，手工處理的肉類食材，口感有別一般機器處裡，本店的特殊沾醬更是讓您回味無窮。",
+      "Address": "臺中市404北區太平路8-1號",
+      "ZipCode": "404",
+      "Phone": "886-4-22257858",
+      "OpenTime": "平日：上午11:30 至 凌晨 1:00 假日：上午11:00 至 凌晨 1:00 (全天候供餐)",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/2064/640x480_Filedata635179662059065859.jpg",
+        "PictureDescription1": "烤狀猿日式炭火燒肉-一中店"
+      },
+      "Position": {
+        "PositionLon": 120.68611145019531,
+        "PositionLat": 24.14764976501465,
+        "GeoHash": "wsmc67byq"
+      },
+      "ParkingInfo": "餐廳正對面設有特約停車場",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000131",
+      "RestaurantName": "泰炘泰式料理",
+      "Description": "泰炘泰式料理以重酸重辣的泰國菜，在附近眾多異國料理店家中獨樹一格，多年來口碑始終屹立不搖、深受肯定。簡單、家常卻道道經典的菜單，在泰國主廚的用心烹調下，有著令人難忘的美味功力。「泰炘」以展現泰菜酸辣精神著稱，但若您要求調整口味，貼心親切的店家主人也樂於為您特別製作。如果飯後想來一杯清涼飲料，不妨試試泰式傳統涼茶，不同於台灣飲料，泰式傳統涼茶顏色是胡蘿蔔色，是泰國特有的紅茶粉加上煉乳調製而成，喝起來香濃可口，十分順口。",
+      "Address": "臺中市403西區公正路242-1號",
+      "ZipCode": "403",
+      "Phone": "886-4-23190424",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1881/640x480_Filedata635177133394677578.jpg",
+        "PictureDescription1": "泰炘泰式料理"
+      },
+      "Position": {
+        "PositionLon": 120.65862274169922,
+        "PositionLat": 24.149110794067383,
+        "GeoHash": "wsmc3shyv"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000169",
+      "RestaurantName": "新天地餐飲集團-崇德旗艦店",
+      "Description": "新天地崇德旗艦店，擁有氣派華麗的宴會廳與中式料理餐廳；1樓「樂食自助百匯」提供上百道中西式美饌、飲品、甜點等，以及現點現做料理，鮮美滋味饕客最愛；餐廳內設置兒童遊戲區，亦是親子餐廳首選；另外，數個獨立包廂大宴小酌廣受家族聚會與商務人士青睞！除了一般用餐之外，新天地崇德旗艦店擁有專業的婚禮企畫團隊，提供新人籌畫婚禮服務，並有時尚華麗的婚宴場地、典雅證婚儀式堂，是中部地區首屈一指的婚宴場地。",
+      "Address": "臺中市406北屯區崇德五路345號（崇德路與崇德五路口）",
+      "ZipCode": "406",
+      "Phone": "886-4-22438222",
+      "OpenTime": "am11：30~pm14：30 / pm17：30~pm21：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1990/640x480_Filedata635179499425677187.jpg",
+        "PictureDescription1": "新天地餐飲集團-崇德旗艦店"
+      },
+      "Position": {
+        "PositionLon": 120.68414306640625,
+        "PositionLat": 24.179119110107422,
+        "GeoHash": "wsmcd1xt8"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000192",
+      "RestaurantName": "京華煙雲",
+      "Description": "京華煙雲是以林語堂大師名著為名的主題餐廳，有著室內設計專長的老闆羅友竹小姐，特將餐廳風格定位在三、四零年代，中國北方大宅院印象，建造前，還特別到北京取經，擷取詩人、政商名流故居特色，讓京華煙雲每個角落充滿京城文人的風雅氣息！是台中少數以文學原創作品大方呈現的餐飲空間。不論是「京華煙雲」四字，對聯、餐墊、壁畫，到大小高低錯落有緻的書畫燈飾，皆出自聞名中部的藝術家庭～柯耀東及夫人郭皆貴老師之手；而門口紅包車更是許多來美術園道拍攝婚紗、留影的景點首選。",
+      "Address": "臺中市403西區五權七街57號",
+      "ZipCode": "403",
+      "Phone": "886-4-23725066",
+      "OpenTime": "供餐 午 11：30-14：00時間 晚 17：30-21：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1206/640x480_Filedata635176222670478359.jpg",
+        "PictureDescription1": "京華煙雲"
+      },
+      "Position": {
+        "PositionLon": 120.6632080078125,
+        "PositionLat": 24.135059356689453,
+        "GeoHash": "wsmc3c8kb"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000210",
+      "RestaurantName": "八分飽",
+      "Description": "成立於1994年，以川菜和上海菜為主的『八分飽』餐廳，迄今已走過十多個年頭。老闆和老闆娘從年輕時即投入餐飲業，秉持「飯吃八分飽、做事十分勤」原則，對於品質與口味十分堅持，也獲得許多顧客支持。",
+      "Address": "臺中市403西區模範街9巷37號",
+      "ZipCode": "403",
+      "Phone": "886-4-23052584",
+      "OpenTime": "午餐１１：３０～１４：３０　晚餐１７：００～２１：００  週一店休（國定假日除外）",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1167/640x480_Filedata635176207857558437.jpg",
+        "PictureDescription1": "八分飽"
+      },
+      "Position": {
+        "PositionLon": 120.66545867919922,
+        "PositionLat": 24.14784049987793,
+        "GeoHash": "wsmc3gczk"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000234",
+      "RestaurantName": "新天地餐飲集團-東區店",
+      "Description": "新天地東區店座落台中市東區旱溪東邊，景色優美，鄰近74號快速道路交通便利。歐風建築佔地寬廣，成為台中市民宴客場地首選，採用先進的LED屏及尖端科技影音設備，搭配高雅的色系呈現皇室氣息，彰顯出新人的貴族氣勢；專業的「婚禮企劃團隊」提供完善及多元化與婚禮專業相關服務，是新人最嚮往的夢幻結婚場地．數個大小宴會廳、包廂，更是大型活動、團體餐會的最佳場地，多元功能一應俱全，讓活動更精彩！另外，館內還有西洋博物館、瀚熙軒中式餐廳，是親子出遊、朋友約會的好去處！",
+      "Address": "臺中市401東區旱溪東路一段456號",
+      "ZipCode": "401",
+      "Phone": "886-4-22136222",
+      "OpenTime": "11：00 - 21：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/23790/640x480_image636341812213365591.jpg",
+        "PictureDescription1": "新天地東區瀚熙軒"
+      },
+      "Position": {
+        "PositionLon": 120.70146179199219,
+        "PositionLat": 24.141979217529297,
+        "GeoHash": "wsmc6duj5"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000271",
+      "RestaurantName": "春天素食餐廳",
+      "Description": "春天素食餐廳秉持初衷，「捍衛健康，預防勝於治療的理念」由平常的飲食著重於體內環保，自然的養生觀念，讓人們將傳統素食的印象改觀。",
+      "Address": "臺中市407西屯區大墩十七街88號2樓",
+      "ZipCode": "407",
+      "Phone": "886-4-23280956",
+      "OpenTime": "午餐：11:45~14:00 / 下午茶：14:30~16:30 / 晚餐：17:45~21:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3911/640x480_Filedata635186535342370469.png",
+        "PictureDescription1": "春天素食餐廳"
+      },
+      "Position": {
+        "PositionLon": 120.64816284179688,
+        "PositionLat": 24.155750274658203,
+        "GeoHash": "wsmc3mmm3"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000325",
+      "RestaurantName": "春水堂-豐樂店",
+      "Description": "春水堂豐樂店於2000年元月正式成立，設店在台中南屯區的湖水岸藝術街內，緊臨豐樂雕塑公 園，四周欖仁樹環繞，在台中這個急速發展中的城市，對於想要遠離都市紛擾與忙碌的人來說，湖 水岸藝術街是一個悠閒的角落，有許多風格獨具的戶外休閒座，白天黑夜都各自有其迷人的氛圍。豐樂店有三個樓層，100個廣場座位，一二樓提供一般茶飲及餐點的消費，三樓是古典悠雅的小 壺泡空間，豐樂店臨近幅員遼闊的公園，周圍更有許多精品店，是相當適合全家大小凝聚感情和三 五好友聯誼的好地方。吸煙區：一樓戶外廣場、三樓外陽台　　禁煙區：室內全禁煙",
+      "Address": "臺中市408南屯區文心南五路321號之13號",
+      "ZipCode": "408",
+      "Phone": "886-4-24718005",
+      "OpenTime": "AM08：30 - PM23：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3268/640x480_Filedata635184858504710390.jpg",
+        "PictureDescription1": "春水堂-豐樂店"
+      },
+      "Position": {
+        "PositionLon": 120.64459228515625,
+        "PositionLat": 24.13195037841797,
+        "GeoHash": "wsmc334dy"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000349",
+      "RestaurantName": "瑪露連嫩仙草總店",
+      "Description": "滑嫩的仙草搭配Q香芋圓，再淋上奶油球，直接入口，多達10種的嫩仙草，香氣逼人。另外這裡也是三種冰的創始店，紅豆、Q芋、珍珠等冰品，充分展現其獨特美味!",
+      "Address": "臺中市400中區臺灣大道一段255號",
+      "ZipCode": "400",
+      "Phone": "886-4-22288359",
+      "OpenTime": "10：00am～21：00pm",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1349/640x480_Filedata635176842015302578.jpg",
+        "PictureDescription1": "三種冰"
+      },
+      "Position": {
+        "PositionLon": 120.66243743896484,
+        "PositionLat": 24.149890899658203,
+        "GeoHash": "wsmc3sreq"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000350",
+      "RestaurantName": "幸發亭蜜豆冰 - 健行店",
+      "Description": "陳冠溢先生繼承了幸發亭創始人的精神，注重品質、真材實料，給予客人最好的服務。懷古情懷的空間象徵著幸發亭時代傳承的經典，除了古早味的蜜豆冰外，店中也有不少獨特的產品帶給客人無限驚喜！",
+      "Address": "臺中市404北區健行路465號",
+      "ZipCode": "404",
+      "Phone": "886-4-22071578",
+      "OpenTime": "AM11：00 - PM23：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3520/640x480_Filedata635184885105061953.jpg",
+        "PictureDescription1": "幸發亭蜜豆冰-健行店"
+      },
+      "Position": {
+        "PositionLon": 120.678466796875,
+        "PositionLat": 24.159000396728516,
+        "GeoHash": "wsmc6n52k"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000351",
+      "RestaurantName": "東東芋圓",
+      "Description": "頗具地方小吃特色的東東芋圓，非常適合做國民旅遊的推動景點，遊客若來大坑踏青、爬山，可來此嘗嘗芋圓的美味，而且一年四季，全年無休夏季以冰品為主，強調Q度口感，冬季以熱湯為主，加入紅豆湯、桂圓湯、薑汁或是燒仙草，別具一番風味，在寒冷的冬天裡來上一碗，可趨寒並提振精神。採用美國進口濾水器，水質保証乾淨、甘甜、衛生，讓客人享用的安心。",
+      "Address": "臺中市406北屯區東山路二段48-3號",
+      "ZipCode": "406",
+      "Phone": "886-4-22396349",
+      "OpenTime": "am10:00~pm22:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1335/640x480_Filedata635176282763788906.jpg",
+        "PictureDescription1": "東東芋圓"
+      },
+      "Position": {
+        "PositionLon": 120.74107360839844,
+        "PositionLat": 24.1798095703125,
+        "GeoHash": "wsmce9bcw"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000369",
+      "RestaurantName": "蘭莊法式蔬食咖啡館",
+      "Description": "主人是煮咖啡、品嚐咖啡的高手，料理則是用進口有機蔬菜配上獨自研發調製的sauce醬的美味養生蔬食。在大坑的山邊溪旁，享受健康美食，也享受自然。咖啡與蔬食複合料理館「蘭莊」位在風景宜人的大坑山區，是個空地遼闊、三面景緻宜人、紫蘭花盆景環立屋外的浪漫西餐廳。 而「蘭莊」取自店主夫妻名中各自的最後一字，莊園以健康食材為料理方向，幫助忙碌的現代人，補充營養，並為都市人有一個很好的聚會場所。",
+      "Address": "臺中市406北屯區東山路二段51-35號",
+      "ZipCode": "406",
+      "Phone": "886-4-22410077",
+      "OpenTime": "AM11：00～PM14：00 PM17：00～PM21：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/2212/640x480_Filedata635179724954212343.jpg",
+        "PictureDescription1": "蘭莊法式蔬食咖啡館"
+      },
+      "Position": {
+        "PositionLon": 120.74179077148438,
+        "PositionLat": 24.180770874023438,
+        "GeoHash": "wsmce9crp"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000371",
+      "RestaurantName": "春水堂-四維店",
+      "Description": "位於台中女中後方，市政府、地方法院及眾多學校的鄰居，看似祥和的文教區，其實十多年前激起驚天駭浪，處在冷飲文化的發跡地，見證了革命與歷史。身處暴風眼中，雖然漣漪已擴散，但是產生風暴的翅膀卻從未停歇過。超過四分之一世紀以來，堅持與美麗的屹立著。有人一喝就是數十年，有人一喝就是從小到大，多少人在這見證了友情、愛情、親情，少女漸漸變成少婦。無數杯的珍奶，在這裡端出；無數個故事，在這裡上演；無數次的情感交流，在這裡產生。也許青春不再，但是風華依舊，這裡就是春水堂的創始店；台中市西區四維店。吸煙區：一樓　　禁煙區：地下樓",
+      "Address": "臺中市403西區四維街30號",
+      "ZipCode": "403",
+      "Phone": "886-4-22297991",
+      "OpenTime": "平假日：AM08:00 – PM22:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3267/640x480_Filedata635184858324065859.jpg",
+        "PictureDescription1": "春水堂-四維店"
+      },
+      "Position": {
+        "PositionLon": 120.67574310302734,
+        "PositionLat": 24.137710571289062,
+        "GeoHash": "wsmc641kk"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000397",
+      "RestaurantName": "咕嚕咕嚕原住民音樂餐廳",
+      "Description": "咕嚕咕嚕音樂餐廳．原住民文化會館座落在美術館前綠園道上。外觀以漂流木做設計，傳達自然與人文合一的訊息。您可以品嚐到原住民傳統料理與創意餐點的結合，食材來自台東金鋒鄉新興部落耕種的新鮮野菜及蔬果，部分美食是從新興部落宅急便運送到餐廳限量供應。　　邱老闆本身是排灣族原住民，您可以在用餐時分聽見他唱著一首首部落之歌，在歌聲中彷彿可以看到陽光、海洋或是豐收的田野，大自然與靈魂美好的共鳴。咕嚕咕嚕的logo是一群攜手相連的人，象徵著族群的融合，願能將此美好訊息傳遞出去。並且用最原味的食材,烹飪出最具原味風格的饗宴,咕嚕,咕嚕特有的節奏與旋律,咀嚼原住民濃厚的人文氣息,原住民的老闆,海而海先生,將他的原住民本領完全充分的發揮在這個音樂園地,原住民的飲食文化,原住民的建築美學,原住民的拿手歌喉以及原住民的幽默風趣,完完全全的展現在咕嚕咕嚕音樂餐廳",
+      "Address": "臺中市403西區五權西四街13巷2號",
+      "ZipCode": "403",
+      "Phone": "886-4-23783128",
+      "OpenTime": "am11:00~pm11:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1523/640x480_Filedata635176925107519375.jpg",
+        "PictureDescription1": "咕嚕咕嚕音樂餐廳"
+      },
+      "Position": {
+        "PositionLon": 120.6624984741211,
+        "PositionLat": 24.13903045654297,
+        "GeoHash": "wsmc3drsp"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000407",
+      "RestaurantName": "竹之鄉風味餐廳",
+      "Description": "竹之鄉於72年在大坑圓環開幕營業素來是以竹筒飯為招牌料理，而廣受青睞其主要宗旨就是充滿竹料理之雅致的美味氣氛。竹之鄉精心篩選成熟之孟宗竹作為取材，用蒸汽濃縮之科技將竹本身蘊含數種天然胺機酸，濃縮至竹料理內。",
+      "Address": "臺中市406北屯區東山路二246-1",
+      "ZipCode": "406",
+      "Phone": "886-4-24390558",
+      "OpenTime": "10：30am～20：00pm",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1181/640x480_Filedata635176213599872890.jpg",
+        "PictureDescription1": "竹之鄉風味餐廳"
+      },
+      "Position": {
+        "PositionLon": 120.73944854736328,
+        "PositionLat": 24.178560256958008,
+        "GeoHash": "wsmce3xf3"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000418",
+      "RestaurantName": "谷明土雞城",
+      "Description": "來到大坑，想要嚐嚐竹筍大餐與全雞三吃的饗宴，這裡是一個好選擇，標榜純田園風味的『谷明』土雞城，充滿著鄉間農村的氣息，菜色也是料好實在，正統的土雞、筍仔雞湯，還有特製的醃酸梅也別具一格、滋味獨特。",
+      "Address": "臺中市406北屯區大坑里光西巷227號",
+      "ZipCode": "406",
+      "Phone": "886-4-22391803",
+      "OpenTime": "11:00-21:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1184/640x480_Filedata635176215520400234.jpg",
+        "PictureDescription1": "谷明土雞城"
+      },
+      "Position": {
+        "PositionLon": 120.75344848632812,
+        "PositionLat": 24.20224952697754,
+        "GeoHash": "wsmcevcur"
+      },
+      "ParkingInfo": "備有停車場供您的愛車停放",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000419",
+      "RestaurantName": "龍之居土雞城",
+      "Description": "想避開都市的塵囂，在山水相伴中享受傳統的鄉間野宴，龍之居會是一個不錯的選擇。園區裡恬適的用餐環境，加上主廚選擇道地上等土雞，精心製作的『珍珠雞』，這裡的自然悠閒與精緻美食，一定會讓你讚不絕口。",
+      "Address": "臺中市406北屯區東山路二段126號",
+      "ZipCode": "406",
+      "Phone": "886-4-22394619",
+      "OpenTime": "am11：00~pm22：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1292/640x480_Filedata635176260797441250.jpg",
+        "PictureDescription1": "龍之居土雞城"
+      },
+      "Position": {
+        "PositionLon": 120.77095031738281,
+        "PositionLat": 24.199169158935547,
+        "GeoHash": "wsmcsjqdr"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000597",
+      "RestaurantName": "春水堂-中科永福店",
+      "Description": "每一家春水堂都各具生命力和文化氣質、卻能傳遞相同的核心價值。中科永福店用Villa的觀點營造一個茶館空間，挑高的視覺，一牆流水瀑、一株白千層、幾張鴉片床和以椰殼設計的桌子都不落痕跡地帶給人們一種自在與放鬆。當你走進春水堂中科永福店中，悅耳的音樂、舒適的環境與滿溢的幸福香氣，讓你可以在這裡悠閒、安心地品嚐手中的好茶好心情。中科永福店位於台中市西屯區永福路，中科進駐後，帶動沿線發展，加上鄰近東海大學、藝術街等特色景點，讓永福路成為中科地區生活機能的主要區段。吸煙區：一樓室外　　禁煙區：室內全禁煙",
+      "Address": "臺中市407西屯區永福路141號",
+      "ZipCode": "407",
+      "Phone": "886-4-24618651",
+      "OpenTime": "AM10:30 - PM23:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3265/640x480_Filedata635184857938763125.jpg",
+        "PictureDescription1": "春水堂-中科永福店"
+      },
+      "Position": {
+        "PositionLon": 120.62100982666016,
+        "PositionLat": 24.18507957458496,
+        "GeoHash": "wsmc8fc83"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000663",
+      "RestaurantName": "艾凡里咖啡美食",
+      "Description": "艾凡里於1994年在藝術街坊誕生，至今已過了13年，一如清秀佳人安妮的經典故事，在歲月流逝中沈澱發酵，成為人們心裡嚮往的美夢。服務人員的親切笑容，典雅溫馨的空間氛圍，精緻專業的豐富美食…似乎每個角落都美好的可以寫下一首詩篇。原來，不用遠赴愛德華王子島，就能讓美夢實現。透過艾凡里十多年來累積的點點滴滴，店主人在咖啡專業領域裡更往下栽根，延伸出的咖啡地圖，探討咖啡豆、器具、煮咖啡等各個層面，讓咖啡更貼近生活，也讓艾凡里的咖啡喝起更有一股濃醇深厚的底韻。",
+      "Address": "臺中市434龍井區藝術街33號",
+      "ZipCode": "434",
+      "Phone": "886-4-26310836",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1062/640x480_Filedata635176157505634609.jpg",
+        "PictureDescription1": "艾凡里咖啡美食"
+      },
+      "Position": {
+        "PositionLon": 120.59429931640625,
+        "PositionLat": 24.187660217285156,
+        "GeoHash": "wsmc85np6"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000714",
+      "RestaurantName": "野宴日式碳火燒烤-沙鹿店",
+      "Description": "野宴日式炭火燒肉，成立於民國91年6月經營管理及智慧財產權屬華達企管有限公司所擁有是由兩位5年級生在觀察台灣餐飲生態後，於板橋創立野宴日式炭火燒肉店，其92年底野宴在全省快速擴展。野宴之所以迅速拓展，就是將每個步驟標準化，使每位加盟主即使完全沒有相關經驗，也都能在總部的輔導下，快速的步上軌道，回收成本，並獲取利潤。野宴成功的關鍵還是在於口味獨特，野宴團隊曾遠到日本取經，尋找日本傳統的燒肉醬汁，回台再自行調配。",
+      "Address": "臺中市433沙鹿區光大路147號",
+      "ZipCode": "433",
+      "Phone": "886-4-26625309",
+      "OpenTime": "午餐 11:00-17:00 晚餐 17:00-21:30 宵夜 21:30-01:00(宵夜場限週一至週四晚上21:30後)",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3789/640x480_Filedata635186429738395859.png",
+        "PictureDescription1": "野宴日式碳火燒烤-沙鹿店"
+      },
+      "Position": {
+        "PositionLon": 120.5653305053711,
+        "PositionLat": 24.24329948425293,
+        "GeoHash": "wsm9zt2gr"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000736",
+      "RestaurantName": "狀元仙草舖-東興店",
+      "Description": "無",
+      "Address": "臺中市408南屯區東興路二段350號",
+      "ZipCode": "408",
+      "Phone": "886-4-24738842",
+      "OpenTime": "12:00am-22:00pm",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1347/640x480_Filedata635176295603202968.jpg",
+        "PictureDescription1": "狀元仙草舖-東興店"
+      },
+      "Position": {
+        "PositionLon": 120.65322875976562,
+        "PositionLat": 24.144699096679688,
+        "GeoHash": "wsmc3e2vp"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000769",
+      "RestaurantName": "幸發亭蜜豆冰 - 北平店",
+      "Description": "民國27年,最早的蜜豆冰(ミツマメ)是龍井區人 陳溪先生在台中火車站旁,以手推車沿街叫賣的方式經營的,當時的蜜豆冰是參考日本的四果冰,再加上十多種配料製成的.民國32年左右,進入第一市場,終於有個小小的攤位,並將攤位命名為[辛發亭].在一次大火中, 辛發亭幸運的只有招牌和少部分店面受損,於是火災後[辛發亭]便改名為[幸發亭],希望能夠化辛酸為幸運.豐富配料的蜜豆冰是當年許多學生、阿兵哥、台中人記憶中的好味道，近幾年來也陸續開發新產品,例如雪綿冰、手工豆花、嫩仙草等.數十年來秉持實在用心的經營理念，目前已交由第三代經營，繼續傳承這令人懷念的美妙滋味.推薦菜單：招牌蜜豆冰、紅豆牛奶冰、芒果冰、各類雪綿冰",
+      "Address": "臺中市404北區北平路2段98-2號",
+      "ZipCode": "404",
+      "Phone": "886-4-22935339",
+      "OpenTime": "11:00~23:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3518/640x480_Filedata635184884661058047.jpg",
+        "PictureDescription1": "幸發亭蜜豆冰(北平店)"
+      },
+      "Position": {
+        "PositionLon": 120.6751937866211,
+        "PositionLat": 24.17144012451172,
+        "GeoHash": "wsmcd02bz"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000858",
+      "RestaurantName": "泰妃苑泰式料理",
+      "Description": "位在台中西屯路三段的異國料理路段，泰妃苑代表泰式料理在此坐鎮；一般泰式料理給人的觀念是，很酸、很辣、很重口味，根深蒂固在台灣人的腦海中，但在泰妃苑，主廚在泰式料理界打滾十多餘年，知道饕客要的是什麼，並想在泰式料理上做些改變，一直有別於一般想法的他，決定自身出來開店，要實現自己的夢想，並帶給喜愛泰式料理的饕客一個全新的體驗。。",
+      "Address": "臺中市407西屯區西屯路三段166號之46號",
+      "ZipCode": "407",
+      "Phone": "886-4-23142191",
+      "OpenTime": "11:30 -14:30/17:00 - 22:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1097/640x480_Filedata635176184274706875.jpg",
+        "PictureDescription1": "泰妃苑泰式料理"
+      },
+      "Position": {
+        "PositionLon": 120.65579986572266,
+        "PositionLat": 24.164260864257812,
+        "GeoHash": "wsmc3wfz5"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000927",
+      "RestaurantName": "素樂活廚房",
+      "Description": "素樂活廚坊提供最精緻的美味素食，為台中素食餐廳的新典範。想一嚐不一樣的台中素食美食嗎？素樂活廚坊是您最佳的選擇！台中素食餐廳中的翹楚，將素食化身為不一樣的西式料理，顛覆傳統素食的刻板印象，誰說素食不能有更好、更新的選擇！",
+      "Address": "臺中市407西屯區漢口路二段121號",
+      "ZipCode": "407",
+      "Phone": "886-4-23150898",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/2224/640x480_Filedata635179727667415468.jpg",
+        "PictureDescription1": "素樂活廚房"
+      },
+      "Position": {
+        "PositionLon": 120.66114044189453,
+        "PositionLat": 24.165029525756836,
+        "GeoHash": "wsmc3xng2"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000942",
+      "RestaurantName": "寬心園-文心公益店",
+      "Description": "寬心園是一家結合了中國禪風以及日本美學，並透過現代極簡設計來呈現的精緻蔬食館。菜餚的部分強調美味與創意，結合傳統台菜、法義烹調與港日料理的精髓，創造出無國界的蔬食新風貌。嚴選優質蔬菜、菇菌、穀麥與水果食材，運用低鹽、少油的自然烹調方法，製作出一系列天然與健康的蔬食新料理。",
+      "Address": "臺中市408南屯區文心路一段435號(公益路上近文心路口)",
+      "ZipCode": "408",
+      "Phone": "886-4-22516182",
+      "OpenTime": "am11:30- pm09:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/5174/640x480_Filedata635237581818066352.png",
+        "PictureDescription1": "寬心園-文心公益店"
+      },
+      "Position": {
+        "PositionLon": 120.64649963378906,
+        "PositionLat": 24.150659561157227,
+        "GeoHash": "wsmc3kkpg"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_000959",
+      "RestaurantName": "禾野酵素生活館",
+      "Description": "禾本股份有限公司(GRAIN-ROOT CORP),創辦人為董事長陳清裕藥師,總公司成立於民國八十三年。陳董事長為專業的藥師，認為中國人是吃米的民族，而日本則早就有將酵素添加在米飯之內改善白飯品質之做法，所以”禾本股份有限公司”成立之初期以銷售”炊飯素”為主，而”稻米”在生物分類上屬於”禾本科”這也是”禾本股份有限公司”命名的由來。民國九十四年四月，第一家　禾野酵素生活館於此開幕。",
+      "Address": "臺中市407西屯區四川路18號",
+      "ZipCode": "407",
+      "Phone": "886-8-00362288",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/2237/640x480_Filedata635179730829895937.jpg",
+        "PictureDescription1": "禾野酵素生活館"
+      },
+      "Position": {
+        "PositionLon": 120.68714141845703,
+        "PositionLat": 24.171770095825195,
+        "GeoHash": "wsmcd23dy"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001017",
+      "RestaurantName": "赤鬼炙燒牛排-台灣大道店",
+      "Description": "台中赤鬼牛排餐廳為日船美食連鎖系統之子公司，日船美食連鎖系統包含了：日船章魚小丸子、日船重口味麵線、台中赤鬼牛排餐廳；日船美食連鎖系統自1995年起投入餐飲研究領域，我們堅持以【立足台灣、放眼國際】的事業經營理念，將美食文化推及世界各地，在這期間，正因為堅持，日船美食連鎖系統的事業版圖已跨足：美加地區、港澳地區、中國大陸地區、東南亞地區。 遙想數十年前”牛排館”是平價好吃與高品質專業排餐的代名詞，但，如今遍觀市場上大多是採複合式沙拉吧經營的牛排餐廳，食材豐富多樣卻也忽略了許多愛吃排餐，但對於沙拉吧卻意願低落的消費者，一間真正專業牛排餐廳應有的樣子與原始初衷似乎被消費者漸漸遺忘 為此，赤鬼牛排餐廳因而成立，我們的經營目標就是要滿足這些愛吃排餐的消費者，我們沒有豐富的沙拉吧，也沒有精緻的服務，我們只有專業的五塊肉，我們回歸到牛排餐廳都應有的最原始初衷，專注於提供最高品質的肉...",
+      "Address": "臺中市403西區臺灣大道二段170號",
+      "ZipCode": "403",
+      "Phone": "886-4-23205157",
+      "OpenTime": "AM11:00 ~ PM11:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1928/640x480_Filedata635177155108017421.jpg",
+        "PictureDescription1": "赤鬼炙燒牛排-公益店"
+      },
+      "Position": {
+        "PositionLon": 120.67022705078125,
+        "PositionLat": 24.150850296020508,
+        "GeoHash": "wsmc3ut2u"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001122",
+      "RestaurantName": "又見一炊煙",
+      "Description": "又見一炊煙，最著名的就是它極富日本味的庭園區，一個美麗典雅寫意禪風空間，到訪人無不沉醉其間。早晨、夕陽與晚景各有迷人風采，坐在迴廊裡聽風賞景，品味主廚精心現做的當令鮮美料理，自然的美好滋味不止在味蕾化開，也在心裡蔓延。",
+      "Address": "臺中市426新社區中興嶺街一段107號",
+      "ZipCode": "426",
+      "Phone": "886-4-25823568",
+      "OpenTime": "午餐 11:30-13:50、晚餐 17:30-19:30、下午茶 15:00-17:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1515/640x480_Filedata635176922526992031.jpg",
+        "PictureDescription1": "日式禪意的用餐環境"
+      },
+      "Position": {
+        "PositionLon": 120.78610229492188,
+        "PositionLat": 24.208560943603516,
+        "GeoHash": "wsmcsx1c0"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001175",
+      "RestaurantName": "中非咖啡",
+      "Description": "中非咖啡是台中市知名老咖啡館。老闆咖啡達人廖仁村先生三十多年咖啡烘培的經驗，把咖啡豆當成畫布，獨家研發的烘培和咖啡調製法，讓咖啡成為值得回味的藝術品，歡迎喜愛咖啡的人來品嚐。",
+      "Address": "臺中市403西區四維街46號",
+      "ZipCode": "403",
+      "Phone": "886-4-22264361",
+      "OpenTime": "08:00-22:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1570/640x480_Filedata635176945101367031.jpg",
+        "PictureDescription1": "中非咖啡"
+      },
+      "Position": {
+        "PositionLon": 120.6747817993164,
+        "PositionLat": 24.138519287109375,
+        "GeoHash": "wsmc6429n"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001237",
+      "RestaurantName": "春水堂-國際店",
+      "Description": "國際店位於台中市東海藝術商圈，坐在店內其實能感受十分悠閒的氣氛，尤其在傍晚時分，來到這個地方，就是要放鬆自己的心情，享受一下喝茶的樂趣，這裡的夜晚就較白天來的浪漫許多，藝術街上人來人往散步著，能感受到在這充滿著涼爽的氣息。吸煙區：一樓 外廣場　　禁煙區：室內全禁煙",
+      "Address": "臺中市434龍井區藝術街48號",
+      "ZipCode": "434",
+      "Phone": "886-4-26528288",
+      "OpenTime": "平假日：AM10:30 – PM23:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3264/640x480_Filedata635184857826780703.jpg",
+        "PictureDescription1": "春水堂-國際店"
+      },
+      "Position": {
+        "PositionLon": 120.59394073486328,
+        "PositionLat": 24.187780380249023,
+        "GeoHash": "wsmc85mb4"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001243",
+      "RestaurantName": "2派克脆皮雞排-台中黎明店",
+      "Description": "超級獨家配方醃製，將雞肉炸得外脆內嫩，厚實肉質裡飽含鮮甜湯汁，搭配酥、香、脆的外皮，愈嚼愈香甜，讓味蕾無限滿足。",
+      "Address": "臺中市408南屯區永定里黎明路2段56號",
+      "ZipCode": "408",
+      "Phone": "886-4-23850200",
+      "OpenTime": "pm14:00~pm24:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1366/640x480_Filedata635176865697743984.jpg",
+        "PictureDescription1": "2派克脆皮雞排-台中黎明店"
+      },
+      "Position": {
+        "PositionLon": 120.63739776611328,
+        "PositionLat": 24.144100189208984,
+        "GeoHash": "wsmc35m3x"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001312",
+      "RestaurantName": "印月創意東方宴",
+      "Description": "台中美食餐廳-印月-創意東方宴從食材的本質思考；用創意為五感提味，以燈光點燃空間情境；將藝術融入時尚文化。得意料理人做菜以理想為出發點，每一道菜從料理到擺盤，看似純淨、其實豐富，都是挑動食慾與滿足視覺的經典創作。讓食的時間以享受為單位，慢慢流動、緩緩嚐味！(本文選自印月創意東方宴 官網)",
+      "Address": "臺中市408南屯區公益路二段818號",
+      "ZipCode": "408",
+      "Phone": "886-4-22511155",
+      "OpenTime": "星期一~星期日 AM 11：30 ~ PM 09：30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/12806/640x480_Filedata635562254309860367.jpg",
+        "PictureDescription1": "印月創意東方宴"
+      },
+      "Position": {
+        "PositionLon": 120.62850952148438,
+        "PositionLat": 24.151639938354492,
+        "GeoHash": "wsmc2uwvr"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001320",
+      "RestaurantName": "木匠租車烤肉休閒廣場",
+      "Description": "木匠租車烤肉休閒廣場”位於國道四號橋旁，緊鄰東豐綠色走廊和后豐鐵馬道雙起點，地理位置佳，腹地寬闊，交通便捷停車方便。",
+      "Address": "臺中市420豐原區國豐路三段145巷41弄36號",
+      "ZipCode": "420",
+      "Phone": "886-4-25297706",
+      "OpenTime": "平日AM8:00~PM6:30  假日AM7:00~PM7:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/3211/640x480_Filedata635184811017522890.jpg",
+        "PictureDescription1": "木匠租車烤肉休閒廣場-宣傳海報(包含聯絡資訊)"
+      },
+      "Position": {
+        "PositionLon": 120.74207305908203,
+        "PositionLat": 24.271249771118164,
+        "GeoHash": "wsmf5d3wq"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001341",
+      "RestaurantName": "潮港城海鮮樓",
+      "Description": "潮港城提供國際化、專業化的餐飲服務，由經驗老道的大廚掌廚，魚翅、燕窩、港式海鮮、馳名燒烤，各式名菜任君挑選。專業服務人員親切有禮，讓您賓至如歸，一試成主顧，歡迎預約訂位。潮港城是海線地區設備最好的餐廳，有百萬響設備，氣派非凡，高雅大方，大型宴客空間，可席開 200 桌，且備有超大停車場。海鮮樓可容納席開50桌，水晶燈飾歐風裝潢，特別設計場景雷射燈光效果、製作優雅夢幻氛圍的泡泡機及煙霧機、彩帶機、投影設備、立體音響設備，加上輕柔悅耳的音樂，典雅的舞台設備，是喜慶宴客、產品發表、社團授證、尾牙春酒的最佳選擇。專辦喜慶壽宴、會議宴客、尾牙犒賞員工、家庭聚餐、公司社團聚餐等。",
+      "Address": "臺中市437大甲區中山路一段876號",
+      "ZipCode": "437",
+      "Phone": "886-4-26872070",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1256/640x480_Filedata635176246001396328.jpg",
+        "PictureDescription1": "潮港城海鮮樓"
+      },
+      "Position": {
+        "PositionLon": 120.62774658203125,
+        "PositionLat": 24.347890853881836,
+        "GeoHash": "wsmf8bqkw"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001359",
+      "RestaurantName": "震樺百菇美食特產",
+      "Description": "無",
+      "Address": "臺中市426新社區協中街169號",
+      "ZipCode": "426",
+      "Phone": "886-4-25815988",
+      "OpenTime": "詳見官網或電話洽詢",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1977/640x480_Filedata635179494400774843.jpg",
+        "PictureDescription1": "震樺百菇美食特產"
+      },
+      "Position": {
+        "PositionLon": 120.80854797363281,
+        "PositionLat": 24.19239044189453,
+        "GeoHash": "wsmcth44g"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001379",
+      "RestaurantName": "新天地餐飲集團-梧棲創始店",
+      "Description": "新天地餐飲集團創始於梧棲小鎮，擁有超過一甲子的豐富料理美饌經驗，打造餐飲界最具規模的國宴大廚團隊，被譽為台灣十大美食餐廳之ㄧ。梧棲創始店-建構中部海線最美雄偉建築，眺望台中港美景、品嚐最道地海鮮美味，是中部海線地區最氣派大方的時尚宴會場所，亦是政商名流指定宴客首選。絕美的宴客場地，與專業「婚禮企劃團隊」，為新人打造完美婚禮，構築幸福的婚禮饗宴。遠近馳名的梧棲店提供家族聚會、商務宴客、團體餐會活動最佳場所！歡迎您蒞臨梧棲！",
+      "Address": "臺中市435梧棲區大智路二段400號",
+      "ZipCode": "435",
+      "Phone": "886-4-26562222",
+      "OpenTime": "am11：30~pm21：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/50317/640x480_image637709460058606525.jpg",
+        "PictureDescription1": "1F 海鮮小吃區"
+      },
+      "Position": {
+        "PositionLon": 120.53294372558594,
+        "PositionLat": 24.260330200195312,
+        "GeoHash": "wsmdnb3qt"
+      },
+      "ParkingInfo": "新天地梧棲創始店 附有免費停車場。",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001402",
+      "RestaurantName": "富鼎旺豬腳",
+      "Description": "位在台中中華路夜市旁邊的『富鼎旺極品豬腳餐廳』，總是飄來陣陣香味，讓許多經過的民眾都忍不著聞香而來，每逢用餐時間，都得排隊等上一會兒，才有可口豬腳美食可以享用！ 老師傅每天早上7點就得開始準備魯豬腳，經過篩選、洗淨、整理等過程，再依循古法細燉慢熬3至4小時，火候掌控得宜，才能呈現豬腳的精華。",
+      "Address": "臺中市400中區臺灣大道一段560號",
+      "ZipCode": "400",
+      "Phone": "886-4-22253188",
+      "OpenTime": "am11:00-pm08:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/5228/640x480_Filedata635246242458978449.jpg",
+        "PictureDescription1": "富鼎旺豬腳"
+      },
+      "Position": {
+        "PositionLon": 120.67655181884766,
+        "PositionLat": 24.145280838012695,
+        "GeoHash": "wsmc659br"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_001720",
+      "RestaurantName": "臺中金典酒店",
+      "Description": "臺中金典酒店，座落於臺中交通樞紐、最繁華的商業地段，不論您來自何方，請讓我們以最貼心的服務，帶領您進入臺中這個富含創意及文化魅力的都市！",
+      "Address": "臺中市403西區健行路1049號",
+      "ZipCode": "403",
+      "Phone": "886-4-23288000",
+      "OpenTime": "Check in 15：00、Check out 12：00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/2415/640x480_Filedata635182113734319765.jpg",
+        "PictureDescription1": "酒店夜晚外觀"
+      },
+      "Position": {
+        "PositionLon": 120.66316986083984,
+        "PositionLat": 24.155969619750977,
+        "GeoHash": "wsmc3v2nx"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_002347",
+      "RestaurantName": "潭子臭豆腐",
+      "Description": "取名潭子臭豆腐，是因為老闆的上一代真的是從潭子推車到台中來賣臭豆腐的。這裡的臭豆腐和向上路的梁婆婆臭豆腐口感不大一樣，口味各有千秋，梁婆婆的豆腐內外炸得更為酥脆，而潭子臭豆腐的內部則比較保留軟綿多汁的口感，醬汁的蒜味也比較不那麼重，個人覺得是臭豆腐界中比較清爽耐吃的口味。",
+      "Address": "臺中市400中區中華路與民族路交叉口",
+      "ZipCode": "400",
+      "Phone": "886-4-22270572",
+      "OpenTime": "pm5:00~am3:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1501/640x480_Filedata635176917299238125.jpg",
+        "PictureDescription1": "潭子臭豆腐"
+      },
+      "Position": {
+        "PositionLon": 120.67636108398438,
+        "PositionLat": 24.14466094970703,
+        "GeoHash": "wsmc653ug"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_002352",
+      "RestaurantName": "四十年老店雞蛋蚵仔煎",
+      "Description": "位於全家便利商店旁的40年老店雞蛋蚵仔煎是到中華路必吃的。除了蚵仔煎是必點外，其他還有豬肝湯、麻油腰子、炒三鮮等，因為食材很新鮮，所以味道當然一級棒。這裡的蚵仔煎蚵仔鮮美，粉皮煎得微微焦脆，加上空心菜菜莖脆脆的口感，以及甜鹹適中的醬料，真是給他100分。麻油腰子的鮮度也是沒話說，雕花的腰子和清爽不膩的麻油，以及提味的老薑片，一吃完心裡就覺得有補到。炒三鮮加了醋提味，吃起來感覺很開胃。",
+      "Address": "臺中市400中區中華路一段197號",
+      "ZipCode": "400",
+      "Phone": "886-4-22273193",
+      "OpenTime": "pm5:00~am1:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1468/640x480_Filedata635176899427490078.jpg",
+        "PictureDescription1": "四十年老店-雞蛋蚵仔煎"
+      },
+      "Position": {
+        "PositionLon": 120.6775894165039,
+        "PositionLat": 24.146240234375,
+        "GeoHash": "wsmc65dwp"
+      },
+      "Class": "其他",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_002364",
+      "RestaurantName": "50年代台北蚵仔麵線",
+      "Description": "大大的蚵仔，就是「50年代台北老牌蚵仔麵線」的最佳代言人，肥茲茲又新鮮的蚵仔讓消費者讚不絕口，也奠定了在台中中華夜市的閃亮名聲！ 中華路夜市內的40年小吃店，創始人簡金萬先生原是台北艋舺人，在偶然的機緣下，邀請台中朋友品嚐台北的蚵仔麵線，並來到台中經營蚵仔麵線小吃店，深獲台中朋友的喜愛，一轉眼就經過了40年的光陰。招牌蚵仔麵線選用嘉義布袋的飽滿鮮蚵，以及有十足嚼勁的大腸一同享用，鮮度與甜味十足，加上台灣道地的手工麵線，完整呈現台灣小吃的精華之處。目前提供超過50道料理，滿足每一位饕客的胃。",
+      "Address": "臺中市400中區中華路一段199號",
+      "ZipCode": "400",
+      "Phone": "886-4-22289111",
+      "OpenTime": "17:00–01:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1379/640x480_Filedata635176871313671718.jpg",
+        "PictureDescription1": "50年代台北蚵仔麵線"
+      },
+      "Position": {
+        "PositionLon": 120.67752838134766,
+        "PositionLat": 24.14628028869629,
+        "GeoHash": "wsmc65dwq"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_002412",
+      "RestaurantName": "正老牌麵線糊",
+      "Description": "正老牌麵線糊頂著這老招牌闖蕩忠孝夜市三四十年，從小路邊攤到現今的店面，老闆用心經營是大家有目共睹的。每次看到所勺子上的麵線糊真的是料多實在，而且每碗的麵線糊幾乎是要滿出來，最後淋在麵線上的醬汁是老闆的獨門醬料，美味且道地的麵線糊就在眼前了!!麵線糊有三種配料可選，有肉羹麵線、蚵仔麵線、魷魚嘴麵線，每種都是40元，任選兩種口味的話是50元，如果想要吃到3種口味那就要點綜合麵線而且只要60元!!趕快來嚐嚐忠孝老招牌美食正老牌麵線糊!!",
+      "Address": "臺中市402南區合作街 70-2號",
+      "ZipCode": "402",
+      "Phone": "886-4-22879468",
+      "OpenTime": "pm3:00~am1:00",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1472/640x480_Filedata635176900488769375.jpg",
+        "PictureDescription1": "正老牌麵線糊"
+      },
+      "Position": {
+        "PositionLon": 120.68138885498047,
+        "PositionLat": 24.12965965270996,
+        "GeoHash": "wsmc60tt2"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "RestaurantID": "C3_387000000A_002495",
+      "RestaurantName": "一中豐仁冰",
+      "Description": "賣冰一世人　鹹酸甜都嚐     一碗冰，賣了超過一甲子時光，養活一家三代數十口人。老闆娘說，一中豐仁冰是很多人共同的回憶，特別是台中一中、體育大學的學生，他們總是一下課就來吃冰，畢業後，有機會回到一中街也會過來吃碗冰，感覺相當親切。一中豐仁冰裡面，有香濃滑口的牛奶冰淇淋、酸梅冰沙及蜜紅豆，嚐起來甜甜、酸酸又鹹鹹，正謂「鹹酸甜」的冰品，令人百吃不膩。",
+      "Address": "臺中市404北區育才街3巷4號之6",
+      "ZipCode": "404",
+      "Phone": "886-4-22230522",
+      "OpenTime": "am10:00~pm10:30",
+      "Picture": {
+        "PictureUrl1": "https://travel.taichung.gov.tw/content/images/shops/1360/640x480_Filedata635176844699374843.jpg",
+        "PictureDescription1": "一中豐仁冰"
+      },
+      "Position": {
+        "PositionLon": 120.68665313720703,
+        "PositionLat": 24.14900016784668,
+        "GeoHash": "wsmc6k1q4"
+      },
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:50:13+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    }
+  ]

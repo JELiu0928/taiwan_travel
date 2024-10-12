@@ -1,0 +1,1239 @@
+[
+    {
+      "HotelID": "C4_A15010000H_000078",
+      "HotelName": "新家大飯店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區光復路45號1至5樓",
+      "ZipCode": "400",
+      "Phone": "886-4-22262125",
+      "Fax": "886-4-22252006",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.68477630615234,
+        "PositionLat": 24.14052391052246,
+        "GeoHash": "wsmc64xux"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000108",
+      "HotelName": "昭月民宿",
+      "Description": "台中東勢昭月民宿位於純樸的山中，您有多久沒有親近大自然了呢?歡迎來到這鳥語花香，寧靜森林的大自然中~享受~再享受!!1.我們是中縣民宿第44號合法民宿2.有投保公共責任意外險最高1000萬3.我們將帶給您有機健康`慢活生活的舒適體驗4.螢火蟲季專人生態導覽(導覽時間於最新消息另行公告)5.有寬廣草地庭園可供遊憩(櫻花季.梅花季...)6.餐廳供應(1)早餐(早餐若需素食請先告知)(2)宿客晚餐(請先預約)7.本民宿專業精緻以日式風格為主深受好評8.讓您感受我們昭月滿滿的心意~~~無價",
+      "Address": "臺中市東勢區慶福里慶福街39號",
+      "ZipCode": "423",
+      "Phone": "886-4-25855997",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/3577.JPG?v=20241010",
+        "PictureDescription1": "房間3",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/7473.JPG?v=20241010",
+        "PictureDescription2": "外觀",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/21543.JPG?v=20241010",
+        "PictureDescription3": "大廳或櫃檯"
+      },
+      "Position": {
+        "PositionLon": 120.85575103759766,
+        "PositionLat": 24.194461822509766,
+        "GeoHash": "wsmcwhkqz"
+      },
+      "Class": "民宿",
+      "Spec": "其他6000;其他6000;",
+      "ServiceInfo": "餐廳,有線網路,國民旅遊卡,停車場,,,,導覽解說,體驗活動,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000115",
+      "HotelName": "君鈦商務飯店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市北屯區大連路1段278號",
+      "ZipCode": "406",
+      "Phone": "886-4-22968600",
+      "Fax": "886-4-22950036",
+      "WebsiteUrl": "http://www.tconehotel.com.tw",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/66908.JPG?v=20241010",
+        "PictureDescription1": "外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/36759.jpg?v=20241010",
+        "PictureDescription2": "房間3",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/46778.jpg?v=20241010",
+        "PictureDescription3": "房間1"
+      },
+      "Position": {
+        "PositionLon": 120.68012237548828,
+        "PositionLat": 24.176321029663086,
+        "GeoHash": "wsmcd1ht6"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車20輛、機車0輛、大客車2輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000118",
+      "HotelName": "默默旅宿",
+      "Description": "位於臺中市的民宿",
+      "Address": "臺中市后里區安眉路116巷105號",
+      "ZipCode": "421",
+      "Phone": "886-980-168517",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.69889068603516,
+        "PositionLat": 24.321453094482422,
+        "GeoHash": "wsmf6ed4x"
+      },
+      "Class": "民宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000138",
+      "HotelName": "植光花園酒店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區光復路50、52號2~6樓",
+      "ZipCode": "400",
+      "Phone": "886-4-22230880",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.68122863769531,
+        "PositionLat": 24.141939163208008,
+        "GeoHash": "wsmc64vku"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000389",
+      "HotelName": "知客商旅",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市西屯區福星北三街33巷56號",
+      "ZipCode": "407",
+      "Phone": "886-4-24517333",
+      "Fax": "886-4-24517711",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.64556884765625,
+        "PositionLat": 24.183626174926758,
+        "GeoHash": "wsmc967rv"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "會議場所,健身房,有線網路,無線網路,國民旅遊卡,停車場,自助洗衣(收費),上網電腦(免費),,,洗衣服務,郵電服務,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000403",
+      "HotelName": "GOGO HOTEL",
+      "Description": "Go│台中精華，位置絕佳富盛商旅有限公司GOGOHOTEL，座落於台中市精華地段七期，新市政中心商圈，緊鄰台灣大道、新光三越、大遠百、國家音樂廳與秋紅谷生態公園近在咫尺，北銜人聲鼎沸熱鬧的逢甲商圈，西接中山高速公路及高鐵台中烏日站，人文薈萃、交通便利。Go│北歐風格，簡約生活飯店建有客房、餐廳、咖啡吧、貴賓平面停車位等設施；全館設計以Modern Style北歐風格為基調，簡潔自然、寬敞明亮、不做作、不浮華。勾勒出理性又兼顧感性的情感空間，展現簡單洗鍊又具摩登時尚的生活品味。Go│出發旅程，擁抱生活GOGOHOTEL懷抱一份回歸生活的誠實與謙虛態度，用心期待每一位入住的貴賓都能盡情享受一段平易自然、溫馨人性的旅程。",
+      "Address": "臺中市西屯區四川路138號",
+      "ZipCode": "407",
+      "Phone": "886-4-23693399",
+      "Fax": "886-4-23692299",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/7607.jpg?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/41178.jpg?v=20241010",
+        "PictureDescription2": "餐廳環境",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/4079.jpg?v=20241010",
+        "PictureDescription3": "餐廳環境"
+      },
+      "Position": {
+        "PositionLon": 120.65428924560547,
+        "PositionLat": 24.16208267211914,
+        "GeoHash": "wsmc3w9f2"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "餐廳,無線網路,國民旅遊卡,停車場,上網電腦(免費),,,,洗衣服務,自行車租借,行動支付,AED,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車40輛、機車20輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000494",
+      "HotelName": "久窩行旅-逢甲館",
+      "Description": "關於K行旅的故事，從這裡開始...老闆夫妻倆，本身就是個玩咖，常帶著二個孩子，四處旅遊..住過無數個飯店、旅店、民宿，深深體會到… 飯店不只是旅人歇腳睡覺的地方，更是旅程中另一個溫暖的家，甚至比家更迷人。在人聲鼎沸的逢甲夜市裡，我們覓得一個旺中取靜的好地方。在這裡我們建造一個會讓您賞心悅目的“久窩行旅”，讓您在旅途中轉換心情、療癒身心、擁有好眠，讓您久久不想離開，離開後又久久難忘。在這裡可以旅人交流、帶回回憶，也可以是旅行的目的地，把旅途中所有的感動分享給大家。將台灣最美好的風景、親切的人情，告訴全世界。",
+      "Address": "臺中市西屯區文華路43號(2-5樓)",
+      "ZipCode": "407",
+      "Phone": "886-4-24511701",
+      "WebsiteUrl": "http://www.khotel.tw/",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/76342.jpg?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/76343.jpg?v=20241010",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/76344.jpg?v=20241010"
+      },
+      "Position": {
+        "PositionLon": 120.64427185058594,
+        "PositionLat": 24.177200317382812,
+        "GeoHash": "wsmc9366r"
+      },
+      "Class": "一般旅館",
+      "Spec": "單人房5000;雙人房5000;雙人房4500;",
+      "ServiceInfo": "無線網路,,,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000593",
+      "HotelName": "葉綠宿 台中車站館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區建國路173號",
+      "ZipCode": "400",
+      "Phone": "886-4-22262777",
+      "Fax": "886-4-22240808",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.68557739257812,
+        "PositionLat": 24.138399124145508,
+        "GeoHash": "wsmc66283"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000609",
+      "HotelName": "富帝大飯店",
+      "Description": "提供您體貼入微、處處關懷的貼心服務， 享受溫馨舒適、居家般悠遊愜意；是本店經營之一貫宗旨，亦是我們對您不變的承諾。以客為尊的富帝，為了給您溫馨如家，更勝於家的柔性感受；本飯店半數之套房改裝鋪設進口巴西實木地板，另半數之套房鋪設高級原木地板。走進富帝，必能感受虔虔富帝心，濃濃富帝情。富帝大飯店設有實地木板、蒸汽浴、烤箱等設備；歡迎蒞臨！舊雨新知，大家告訴大家。",
+      "Address": "臺中市南區南屯路1段279號",
+      "ZipCode": "402",
+      "Phone": "886-4-23726855",
+      "Fax": "886-4-23731203",
+      "WebsiteUrl": "http://www.fudihotel.com.tw/",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/45794.JPG?v=20241010",
+        "PictureDescription1": "飯店外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/14055.jpg?v=20241010",
+        "PictureDescription2": "大廳及櫃檯",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/20253.jpg?v=20241010",
+        "PictureDescription3": "飯店大廳櫃檯"
+      },
+      "Position": {
+        "PositionLon": 120.65624237060547,
+        "PositionLat": 24.134328842163086,
+        "GeoHash": "wsmc39e0w"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房1320;單人房990;其他1870;雙人房1210;套房1980;雙人房1540;雙人房1760;",
+      "ServiceInfo": "有線網路,停車場,商店,餐廳,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000621",
+      "HotelName": "心有林畦",
+      "Description": "緣起一個愛的故事 開始了『心有林畦』莊園，一對雙方姓『林』的夫妻，一起生活，時常『心有靈犀』默契十足 一直喜歡田園山林草木為鄰，一個有夢 另一個人就幫她圓夢 故事未完 待續...用『木』築夢的夫妻愛木成痴Mr.林 & 愛樹上癮的Mrs.林，讓莊園以樹為主角，除種植近百棵的落羽松外， 六十年的龍眼樹枝繁葉茂彷彿天然的涼亭，小葉欖仁、銀樺、五葉松、櫻花、光臘樹、羅漢松、南洋杉...等數十種，或挺或彎 或低垂的樹形，錯落有致十分豐富，扶桑花、杜鵑花、紫薇...等花卉為曲徑增添色彩Mrs.林還貼心幫她們別了名牌，讓生命得以發光，老樹幹在這裡不寂寞，成了廚房的天花板燈座，枯枝也有了新生命， 改製藝品、窗櫺和杯墊，木材更是不遑多讓，打造成精緻的桌椅或廚櫃，特別是廚房內擺放的木頭，成了冬天暖爐的材料 一輩子愛樹、惜木的Mr.林 & Mrs.林，希望來到這裡的朋友能共同欣賞並愛惜她們",
+      "Address": "臺中市東勢區中嵙里8鄰東崎路三段688巷100弄20號",
+      "ZipCode": "423",
+      "Phone": "886-930-873820",
+      "WebsiteUrl": "http://heartvilla.mmweb.tw",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/16498.jpg?v=20241010",
+        "PictureDescription1": "入口",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/30879.jpg?v=20241010",
+        "PictureDescription2": "水有林畦villa外觀",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/43378.jpg?v=20241010",
+        "PictureDescription3": "夜景"
+      },
+      "Position": {
+        "PositionLon": 120.85903930664062,
+        "PositionLat": 24.268922805786133,
+        "GeoHash": "wsmfn4nbe"
+      },
+      "Class": "民宿",
+      "ServiceInfo": "無線網路,停車場,,",
+      "ParkingInfo": "車位:小客車10輛、機車20輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000622",
+      "HotelName": "水瓶汽車旅館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市南屯區南屯區大墩南路427號",
+      "ZipCode": "408",
+      "Phone": "886-4-24733938",
+      "Fax": "886-4-24732918",
+      "WebsiteUrl": "http://www.aquariumotel.com.tw/",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/22611.JPG?v=20241010",
+        "PictureDescription1": "房間1",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/35193.JPG?v=20241010",
+        "PictureDescription2": "房間2",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/49862.JPG?v=20241010",
+        "PictureDescription3": "房間3"
+      },
+      "Position": {
+        "PositionLon": 120.64974212646484,
+        "PositionLat": 24.13459014892578,
+        "GeoHash": "wsmc33w6n"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車35輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000719",
+      "HotelName": "台中日光溫泉會館",
+      "Description": "<B>頂級度假體驗，城市旅遊新去處</B>以往在台中地區如果想泡湯，必須到谷關、廬山一帶，但現在不必遠求，距離台中市區30分鐘的大坑風景區，因921地震造成的劇烈地層變動而成為新興溫泉區。靜落於大坑山區的『台中日光溫泉會館』如同其建築物外觀採用低調的黑觀音石一般，展現出一種低調奢華，永不妥協極致品味。為了提供民眾更多旅遊新玩法，『台中日光溫泉會館』除了推出『山中樂園』豪華雙人房一泊二食平日住宿優惠之外，更特別規劃出多條路線，告訴您如何暢遊大坑、新社地區。讓遊客可以從星期一至星期日，天天都能有不同的旅遊組合大坑及新社地區。大坑人氣小吃『東東芋圓』、『紙箱王主題餐廳』、『野克漆彈場』、『郭叔叔猴園』、『新社古堡』、『新社香菇街』、『新社蘭亭生態園區』、『薰衣草賽車場』、『新社七分窯』、『園情蜜意果園』與『東豐自行車』路線等等。消費者除了能夠享受到豐富的行程外，另外還可享用日光溫泉會館主廚所精心設計的花見西餐廳套餐、體驗日光溫泉400坪戶外大眾池、男女裸湯、SPA水療區及溫泉魚池等多項設施。讓您能同時盡享大坑清晨，及落日美景。此外，『台中日光溫泉會館』更於10月即將參加旅展、住宿、美饌、泡湯、遊憩，「台中日光溫泉溫會館」將一次滿足您多樣旅遊選擇。來一趟日光溫泉會館，體驗最放鬆、慢活的舒適環境，親切、貼心的溫馨感受。歡迎您親身蒞臨本館，實現另一種永不妥協極致品味。",
+      "Address": "臺中市北屯區大坑里東山路二段光西巷78號",
+      "ZipCode": "406",
+      "Phone": "886-4-22399000",
+      "Fax": "886-4-22396299",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/7801.jpg?v=20241010",
+        "PictureDescription1": "中餐廳",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/10735.JPG?v=20241010",
+        "PictureDescription2": "房間2",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/21359.jpg?v=20241010",
+        "PictureDescription3": "會館大廳"
+      },
+      "Position": {
+        "PositionLon": 120.744140625,
+        "PositionLat": 24.19287109375,
+        "GeoHash": "wsmces5jw"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房4000;雙人房12000;雙人房8000;套房6000;單人房12000;",
+      "ServiceInfo": "有線網路,停車場,商店,咖啡廳,餐廳,宴會廳,會議場所,,,各式球場,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車20輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000725",
+      "HotelName": "水悅麗緻會館",
+      "Description": "位於臺中市的旅館水悅精品會館位在台中大里地區，提供全新的住宿體驗，從設計到設施都散發出低調奢華的魅力。 距離台中市區車程十分鐘，全館提供25間優質獨立車庫客房，小家庭到情侶都能讓您滿意出遊旅宿，商務旅客也有專屬的休憩空間，可供舒適乾淨的度過美好夜晚。 本館會隨時不斷推出適合您的優惠方案，能讓您以更優惠的價格住宿。官網的訂房並不收取訂房手續費。下訂即確認訂房 免等候，誠摯歡迎您的預定。",
+      "Address": "臺中市大里區永隆里永隆七街137號",
+      "ZipCode": "412",
+      "Phone": "886-4-24077666",
+      "Fax": "886-4-24077677",
+      "WebsiteUrl": "http://www.shuiyuemotel.com/",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/89080.png?v=20241010",
+        "PictureDescription1": "水悅麗緻會館正面照",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/89094.png?v=20241010",
+        "PictureDescription2": "水悅正門照"
+      },
+      "Position": {
+        "PositionLon": 120.67452239990234,
+        "PositionLat": 24.1135196685791,
+        "GeoHash": "wsmc4j8x2"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "無線網路,國民旅遊卡,停車場,,,,自行車租借,行動支付,AED,寵物友善旅宿,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000831",
+      "HotelName": "草悟道漂鳥青年旅館",
+      "Description": "找到生命的座標，驕傲的飛翔 漂鳥，是一種主動積極面對人生無限想像與可能的態度，鼓舞每位年輕旅者重拾夢想與勇氣，在人生旅途中勇於實現自我、以熱情堅持出走、闖蕩，創造專屬自我的獨特生命旅程。 Stray birds漂鳥透過旅店空間的載體，提供大專院校青年、青創夥伴與旅人一個開放且多元的匯聚平台，旅店規劃有共創空間、常年策展、季節性活動與不定期的講座、分享會、音樂表演等，藉此傳遞漂鳥品牌中勇敢冒險、探索生命、自我實現的核心精神，此外為更落實匯聚青年、青創與各路夢想家的串連平台。 旅行X青創匯聚X勇敢冒險=Stray birds漂鳥，我們透過旅行、社群共聚、共創空間、活動分享等的形式，鼓勵青年走入城市展開一段非日常的體驗，開啟與更多青創夥伴與夢想者的交流互動，進而帶給青年旅人一段身心靈收穫滿溢的旅程。因為我們相信每段旅程，都將幻化為人生豐蘊的積累，Stray birds漂鳥期盼化身為引領年輕旅者探索人生與追逐夢想的燃石，透過Stray birds漂鳥以旅行為媒介，匯聚更多青年旅者在此展開青春無懼的心靈壯遊。",
+      "Address": "臺中市西區公益路201號4~7樓",
+      "ZipCode": "403",
+      "Phone": "886-4-23015518",
+      "Fax": "886-4-23015398",
+      "WebsiteUrl": "http://www.straybirds.com.tw",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/65682.png?v=20241010",
+        "PictureDescription1": "公共交誼廳",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/65682.png?v=20241010",
+        "PictureDescription2": "公共交誼廳"
+      },
+      "Position": {
+        "PositionLon": 120.65840148925781,
+        "PositionLat": 24.1506404876709,
+        "GeoHash": "wsmc3skz8"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "餐廳,會議場所,酒吧,商店,無線網路,停車場,,,洗衣服務,郵電服務,商務旅遊中心,",
+      "ParkingInfo": "車位:小客車8輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000860",
+      "HotelName": "創意時尚旅店",
+      "Description": "創意時尚飯店選擇台中市中心交通便利地段，於2010年落成，讓來台中商旅的旅客又多了一處生活、交通機能俱佳的台中住宿飯店。步行僅約10分鐘的距離即可達台中火車站、客運站，方便旅客商務旅遊的行程規劃。位於市中心的住宿地點，商家林立，附近有中友百貨、一中商圈、自由商圈、逢甲夜市..等著名熱鬧商圈，台中商旅之餘，方便您隨興四處逛逛，享受踩街購物的樂趣。鄰近多處台中熱門景點，台中中山堂、國立自然科學博物館、國立台灣美術館、台中孔廟、台中忠烈祠、台中公園、台中市立文化中心、經國綠園道，利用四通八達的大眾運輸工具，皆可快速抵達",
+      "Grade": "二星級",
+      "Address": "臺中市北區五權路332、334號1至7樓",
+      "ZipCode": "404",
+      "Phone": "886-4-22022666",
+      "Fax": "886-4-22026182",
+      "WebsiteUrl": "http://gorates-hotel.com/web/summary/58",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/990.jpg?v=20241010",
+        "PictureDescription1": "房間2",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/27511.jpg?v=20241010",
+        "PictureDescription2": "房間3",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/46240.jpg?v=20241010",
+        "PictureDescription3": "房間1"
+      },
+      "Position": {
+        "PositionLon": 120.68033599853516,
+        "PositionLat": 24.152286529541016,
+        "GeoHash": "wsmc6hu9r"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)8000;",
+      "ServiceInfo": "無障礙客房,,,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000862",
+      "HotelName": "歐遊國際精品旅館(台中館)",
+      "Description": "歐遊國際連鎖精品旅館集團為台灣地區規模最大之連鎖精品旅館，並榮獲觀光局頒發旅館評鑑最高榮譽三星級肯定，為國內精品旅館業龍頭業者，從300坪的總統級套房到商務級 套房，遍佈全台灣的12家連鎖據點全年無休隨時為南來北往的旅客提供奢華、舒適、衛生、隱秘的住宿休息服務。",
+      "Grade": "三星級",
+      "Address": "臺中市南屯區文心南路98號",
+      "ZipCode": "408",
+      "Phone": "886-4-24727711",
+      "Fax": "886-5-5517755",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/87877.jpg?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/87876.jpg?v=20241010",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/87883.jpg?v=20241010"
+      },
+      "Position": {
+        "PositionLon": 120.646728515625,
+        "PositionLat": 24.13455581665039,
+        "GeoHash": "wsmc33s3b"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房6900;套房4500;雙人房5250;雙人房4500;雙人房7900;雙人房3000;其他4000;雙人房4250;",
+      "ServiceInfo": "餐廳,游泳池,有線網路,無線網路,國民旅遊卡,停車場,,,,商務旅遊中心,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000884",
+      "HotelName": "友愛富豪國際大飯店",
+      "Description": "友愛富豪國際大飯店於 2013 年全新裝潢完成，地點位於台中市中心的五權路上，距離大雅交流道及台中火車站等交通樞紐開車僅需 10 分鐘，步行即可抵達繁華熱鬧的中友商圈、一中商圈及中華路夜市，方便入住的旅客出遊，享受購物愉悅。由於位於市中心，利用大眾運輸工具更可以在短時間內抵達如秋紅谷、自然科學博物館、七期商圈、美術館、綠園道等台中市知名人氣景點。友愛富豪國際大飯店為旅客提供最典雅別緻的裝潢氛圍，同時讓旅客置身於台灣中部最佳選擇的購物天堂。寬敞明亮的客房空間，高雅脫俗的裝潢設計，讓旅客彷彿回到家中一般的舒適自在，每間客房配備大尺寸液晶電視、免費無線寬頻上網、羽絨柔軟被枕等，完善的設備滿足客人多樣化需求。精緻舒適的餐廳提供多樣化菜色及飲品的中西式自助早餐，為客人提供一天旅遊的活力來源。友愛富豪國際大飯店為擁有地上十二層、地下二層之高大建築，除了 重視安全管理之外，人員服務更是經營重點，如何讓每位旅客享有休閒娛樂、安全舒適的住宿空間是飯店全體工作人員目標。富豪國際大飯店相信會是您前來台中旅遊住宿的最佳選擇。",
+      "Address": "臺中市北區五權路317號6-12樓",
+      "ZipCode": "404",
+      "Phone": "886-4-22023990",
+      "Fax": "886-4-22063187",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/211311.jpg?v=20241010",
+        "PictureDescription1": "LOGO"
+      },
+      "Position": {
+        "PositionLon": 120.67884063720703,
+        "PositionLat": 24.152067184448242,
+        "GeoHash": "wsmc6hexu"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "自行車友善旅宿",
+      "ParkingInfo": "車位:小客車10輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_000888",
+      "HotelName": "倍蒂雅汽車旅舘",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市北屯區河北路3段151號",
+      "ZipCode": "406",
+      "Phone": "886-4-22416162",
+      "Fax": "886-4-22411637",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/5965.jpg?v=20241010",
+        "PictureDescription1": "房間1",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/14039.jpg?v=20241010",
+        "PictureDescription2": "外觀",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/43354.jpg?v=20241010",
+        "PictureDescription3": "大廳或櫃檯"
+      },
+      "Position": {
+        "PositionLon": 120.6838607788086,
+        "PositionLat": 24.180442810058594,
+        "GeoHash": "wsmcd1zm3"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車31輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001010",
+      "HotelName": "168活水源",
+      "Description": "位於臺中市的民宿",
+      "Address": "臺中市東勢區慶福里6鄰東關路四段1078巷51號",
+      "ZipCode": "423",
+      "Phone": "886-4-25877245",
+      "WebsiteUrl": "http://home.emmm.tw",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.84451293945312,
+        "PositionLat": 24.245962142944336,
+        "GeoHash": "wsmcvvu6c"
+      },
+      "Class": "民宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001106",
+      "HotelName": "金家園大旅社",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市東勢區第二橫街7號",
+      "ZipCode": "423",
+      "Phone": "886-4-25877182",
+      "Fax": "886-4-25877185",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.83014678955078,
+        "PositionLat": 24.2545166015625,
+        "GeoHash": "wsmcvx3uf"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001297",
+      "HotelName": "凝萃文旅台中車站店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區綠川西街135號4樓之一、之二",
+      "ZipCode": "400",
+      "Phone": "886-4-22205588",
+      "Fax": "886-4-22232055",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.68144226074219,
+        "PositionLat": 24.13947296142578,
+        "GeoHash": "wsmc64mw9"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)0;",
+      "ServiceInfo": "無線網路,國民旅遊卡,停車場,無障礙客房,,,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001351",
+      "HotelName": "皇凱賓館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區三民路二段116號6樓之1",
+      "ZipCode": "400",
+      "Phone": "886-4-22206108",
+      "Fax": "886-4-22206110",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.680419921875,
+        "PositionLat": 24.14314842224121,
+        "GeoHash": "wsmc65hu1"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001354",
+      "HotelName": "伊戀汽車旅館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市清水區港埠路三段350號",
+      "ZipCode": "436",
+      "Phone": "886-4-26581766",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/48370.JPG?v=20241010",
+        "PictureDescription1": "外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/5525.JPG?v=20241010",
+        "PictureDescription2": "房間1",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/8675.JPG?v=20241010",
+        "PictureDescription3": "房間2"
+      },
+      "Position": {
+        "PositionLon": 120.54510498046875,
+        "PositionLat": 24.27014923095703,
+        "GeoHash": "wsmdp44rb"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001448",
+      "HotelName": "巧合大飯店",
+      "Description": "巧合飯店位於台中的交通樞紐-台中火車站附近，臨近國光客運、統聯客運、全航客運及豐原客運(步行距離皆在5分鐘內)，步行可達繼光商店街、台中電子街、台中公園、一中商圈、太魯閣購物中心...搭乘公車、客運、火車等大眾交通工具遊覽台中亦非常便利。本飯店為全新裝潢並領有「旅館業登記證」、「旅館工會證照」客房均有中央空調控制；全館使用政府評定合格高級防火建材及進口浴設備，並投保公共意外責任險，提供您一個舒適、乾淨、安全的商務旅遊住宿環境。",
+      "Grade": "二星級",
+      "Address": "臺中市中區建國路163號",
+      "ZipCode": "400",
+      "Phone": "886-4-22297161",
+      "Fax": "886-4-22251845",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/30609.JPG?v=20241010",
+        "PictureDescription1": "飯店外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/6605.JPG?v=20241010",
+        "PictureDescription2": "飯店大門",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/21113.jpg?v=20241010",
+        "PictureDescription3": "大廳"
+      },
+      "Position": {
+        "PositionLon": 120.6853256225586,
+        "PositionLat": 24.13821029663086,
+        "GeoHash": "wsmc660r7"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)9800;雙人房(無障礙客房)9800;",
+      "ServiceInfo": "餐廳,無線網路,國民旅遊卡,無障礙客房,,,,",
+      "ParkingInfo": "車位:小客車4輛、機車10輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001464",
+      "HotelName": "展旺台中輕行旅",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區建國路180號",
+      "ZipCode": "400",
+      "Phone": "886-4-22269666",
+      "Fax": "886-4-22223398",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/25601.jpg?v=20241010",
+        "PictureDescription1": "外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/46268.jpg?v=20241010",
+        "PictureDescription2": "大廳",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/12819.jpg?v=20241010",
+        "PictureDescription3": "商務套房"
+      },
+      "Position": {
+        "PositionLon": 120.6851806640625,
+        "PositionLat": 24.137847900390625,
+        "GeoHash": "wsmc660m0"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)0;雙人房(無障礙客房)0;雙人房(無障礙客房)3800;",
+      "ServiceInfo": "會議場所,健身房,有線網路,無線網路,國民旅遊卡,無障礙客房,自助洗衣(免費),上網電腦(免費),,,,洗衣服務,郵電服務,貴重物品保管專櫃,行動支付,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001625",
+      "HotelName": "帶月山丘",
+      "Description": "位於臺中市的民宿",
+      "Address": "臺中市東勢區東崎路三段192巷70號",
+      "ZipCode": "423",
+      "Phone": "886-4-25274805",
+      "WebsiteUrl": "http://www.dhching.com.tw",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/25809.jpg?v=20241010",
+        "PictureDescription1": "山丘民宿的夜晚,寧靜的像幅畫",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/47278.jpg?v=20241010",
+        "PictureDescription2": "民宿位於山丘頂端,視野開闊前方雪山群峰盡收眼底",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/18172.jpg?v=20241010",
+        "PictureDescription3": "霧中的帶月山丘"
+      },
+      "Position": {
+        "PositionLon": 120.8650894165039,
+        "PositionLat": 24.259727478027344,
+        "GeoHash": "wsmfn2770"
+      },
+      "Class": "民宿",
+      "ParkingInfo": "車位:小客車3輛、機車10輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001805",
+      "HotelName": "大甲大飯店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市大甲區蔣公路73號",
+      "ZipCode": "437",
+      "Phone": "886-4-26872126",
+      "Fax": "886-4-26876648",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/281.jpg?v=20241010",
+        "PictureDescription1": "外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/7389.jpg?v=20241010",
+        "PictureDescription2": "房間1",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/11967.jpg?v=20241010",
+        "PictureDescription3": "房間3"
+      },
+      "Position": {
+        "PositionLon": 120.62422180175781,
+        "PositionLat": 24.345165252685547,
+        "GeoHash": "wsmf2zguu"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001849",
+      "HotelName": "台中金典酒店",
+      "Description": "文化、休閒、購物、交通一應俱全，與自然科學博物館、植物園、廣三SOGO、勤美誠品綠園道商圈及金典綠園道共構完整的生活中心，只需5分鐘的步行時間，便可以領略台中的文化、台中的美。10分鐘車程可抵達台中市各大知名觀光景點、20分鐘車程抵達台中火車站及烏日高鐵站，距離清泉崗機場也只需30分鐘，在最短的時間內滿足您對食衣住行的所有需求！",
+      "Grade": "五星級",
+      "Address": "臺中市西區健行路1049號",
+      "ZipCode": "403",
+      "Phone": "886-4-23288000",
+      "Fax": "886-4-23229000",
+      "WebsiteUrl": "http://www.splendor-taichung.com.tw",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/5851.jpg?v=20241010",
+        "PictureDescription1": "大廳櫃台",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/7719.jpg?v=20241010",
+        "PictureDescription2": "金園中餐廳",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/25275.jpg?v=20241010",
+        "PictureDescription3": "鐵板燒"
+      },
+      "Position": {
+        "PositionLon": 120.66316986083984,
+        "PositionLat": 24.15597152709961,
+        "GeoHash": "wsmc3v2nx"
+      },
+      "Class": "國際觀光旅館",
+      "Spec": "套房19000;套房21000;雙人房10200;套房13800;套房65000;雙人房8800;雙人房(無障礙客房)8000;套房12800;套房21000;",
+      "ServiceInfo": "餐廳,會議場所,咖啡廳,酒吧,宴會廳,健身房,游泳池,有線網路,無線網路,三溫暖,國民旅遊卡,停車場,無障礙客房,上網電腦(免費),,,兒童遊樂設施,洗衣服務,商務旅遊中心,接送服務,自行車租借,行動支付,哺乳室,AED,外幣兌換,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車450輛、機車250輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_001935",
+      "HotelName": "簡愛汽車旅館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市北區山西路1段86號",
+      "ZipCode": "404",
+      "Phone": "886-4-22927878",
+      "Fax": "886-4-22927799",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.67543029785156,
+        "PositionLat": 24.166364669799805,
+        "GeoHash": "wsmc6p35m"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車33輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002050",
+      "HotelName": "統一大飯店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市沙鹿區日新街92號",
+      "ZipCode": "433",
+      "Phone": "886-4-26622121",
+      "Fax": "886-4-26622792",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.56147766113281,
+        "PositionLat": 24.237077713012695,
+        "GeoHash": "wsm9zknpn"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002104",
+      "HotelName": "東平旅社",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市東勢區豐勢路480號",
+      "ZipCode": "423",
+      "Phone": "886-4-25871285",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.82862091064453,
+        "PositionLat": 24.2569522857666,
+        "GeoHash": "wsmcvxbdy"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002134",
+      "HotelName": "赫絲珀HSR高鐵行旅",
+      "Description": "=台中住宿 赫絲珀高鐵行旅 HSR Hotel=這裡讓你體驗舒適的旅店住宿服務，不單是商務旅行的首選、經濟旅行的首選，更是輕便旅行的選擇，您只需花上5分鐘車程即可抵達台中高鐵站！從這邊可以開啟您的全台之旅。你要去哪裡？哪裡都能去！微旅行的時代正要來臨，歡迎您一同共享美麗的台中。就讓你我一同在旅行的路上細細品嘗每個不同故事的角落吧！* LINE@訂房: hsrhotel* 訂房專線 ： +886 4 2336-5771 * Email: hsrhotel@gmail.com",
+      "Address": "臺中市烏日區新興路255號",
+      "ZipCode": "414",
+      "Phone": "886-4-23365771",
+      "Fax": "886-4-23362482",
+      "WebsiteUrl": "https://www.hesperhotel.com.tw/",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/67664.jpg?v=20241010",
+        "PictureDescription3": "Hesper Hotel Lobby"
+      },
+      "Position": {
+        "PositionLon": 120.62325286865234,
+        "PositionLat": 24.104164123535156,
+        "GeoHash": "wsmc0u50v"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)5680;",
+      "ServiceInfo": "無線網路,停車場,無障礙客房,自助洗衣(收費),上網電腦(免費),,,洗衣服務,郵電服務,商務旅遊中心,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車21輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002203",
+      "HotelName": "庄園",
+      "Description": "【庄園】民宿位於台中后里麗寶樂園西方約三公里，是一獨棟三層日系建築，戶外綠油油稻田，眺望大台中市一望無際。民宿主人熱愛這片土地、以任職台北建設公司工作三十年的經驗，一手打造自設計、規劃、監工、嚴謹施工品質，挑選一流建材【庄園】民宿焉然成型。 【庄園】要求乾淨、寧靜、樸實，讓旅人們有賓至如歸的感受，寧靜純樸的房宿，為的是讓貴賓們可以在每次來臨時，都有遠離塵囂的體驗。在三樓露臺提供戶外空間可休憩，一樓庭院寬廣舒適、停車、野營、烤肉、嬉戲皆宜，是享受農村無拘無束生活的好地方，讓您無拘無束的享受悠閒的一日，是我們所衷心期盼、也是我們最大的目的。在這裡你可以隨意地眺望遠處青翠的山巒，享受一畝畝綠油油的稻田田園美景，或是騎著單車悠閒自在地穿梭於鄉間小路間，恣意的呼吸著新鮮的空氣及迎面撲鼻而來的稻穗清香。當寂靜夜晚降臨，蟲鳴蛙叫聲將伴你入眠，而悅耳的鳥叫聲則呼喚你迎接美麗的早晨，這一切的一切，您會發現原來幸福其實離我們這麼近，歡迎來到后里【庄園】，我們誠摯地邀請您的蒞臨。訂房專線:0920-039-872LINE ID: B1200ADV",
+      "Address": "臺中市后里區太平里公館路20之20號",
+      "ZipCode": "421",
+      "Phone": "886-4-25570543",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/4337.jpg?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/11037.jpg?v=20241010",
+        "PictureDescription2": "三樓共用浴廁",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/16894.jpg?v=20241010",
+        "PictureDescription3": "二樓雪邦二人客房有陽台"
+      },
+      "Position": {
+        "PositionLon": 120.66278076171875,
+        "PositionLat": 24.310565948486328,
+        "GeoHash": "wsmf39xgq"
+      },
+      "Class": "民宿",
+      "Spec": "雙人房3000;其他3000;雙人房3000;雙人房3000;",
+      "ServiceInfo": "無線網路,停車場,,,接送服務,",
+      "ParkingInfo": "車位:小客車10輛、機車20輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002263",
+      "HotelName": "情人谷民宿",
+      "Description": "位於臺中市的民宿",
+      "Address": "臺中市豐原區東陽里東陽路清谷巷1號",
+      "ZipCode": "420",
+      "Phone": "886-4-25268830",
+      "Fax": "886-4-25275107",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/16744.jpg?v=20241010",
+        "PictureDescription1": "大廳或櫃檯",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/18806.jpg?v=20241010",
+        "PictureDescription2": "外觀",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/37785.jpg?v=20241010",
+        "PictureDescription3": "房間1"
+      },
+      "Position": {
+        "PositionLon": 120.75699615478516,
+        "PositionLat": 24.225725173950195,
+        "GeoHash": "wsmcgfht1"
+      },
+      "Class": "民宿",
+      "ServiceInfo": "自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002500",
+      "HotelName": "台中萬楓酒店",
+      "Description": "台中萬楓酒店擁有著現代高科技的配置和設計。酒店的131間客房均配備有55英吋大屏幕電視、高速wifi、保險箱、USB充電端口和寬敞的浴室，以滿足每一位商務旅客或休閒旅客的需求。此外，作為台灣中南部首家萬豪國際品牌酒店，台中萬楓酒店目前是該區域唯一一家同時提供在線入住和無鑰匙入住便利的酒店。在餐廳，賓客可以享受豐富多樣的自助早餐，盡情享用華夫餅、炒蛋、香腸、燕麥片和當地特色餐品等。早餐過後，餐廳將按照賓客需求提供亞洲、西方美食和萬豪國際精選葡萄酒。此外，最多可容納70人的餐廳也是賓客舉行會議或休閒聚餐的理想場所。在24小時開放的健身中心，賓客可以根據自身的需求隨時進行健身塑形，盡情揮灑汗水。位於大堂的商店同樣全天候營業，賓客可以在任何時間獲取他們喜愛的商品。萬楓酒店品牌起源於J.W. Marriott與Alice Marriott夫婦於1951年在美國弗吉尼亞州買下的萬楓農莊，而萬楓酒店便是以此農莊的名字命名，其創立的目的是為各類旅行者提供寧靜安然、順暢無憂的下榻體驗。一直以來，萬楓酒店以其精選的優質服務、對性價比的注重，以及對舒適住宿體驗的追求而聞名於酒店業。目前在全球擁有近1000間酒店，發展穩定而迅猛。在中國，萬楓酒店也秉承為注重平衡生活的商旅賓客提供舒適簡約的住宿體驗，將「舒適，可靠」的品牌服務，通過成熟的市場網絡，順暢地帶給賓客。台中萬楓酒店致力於讓賓客體驗高效無憂的入住體驗。如欲查詢更多資料及預訂，請前往萬豪國際官方網www.marriott.com或官方App。",
+      "Address": "臺中市西屯區環中路二段1155號",
+      "ZipCode": "407",
+      "Phone": "886-4-36065188",
+      "Fax": "886-4-36065168",
+      "WebsiteUrl": "http://www.fairfield.tw/",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.63624572753906,
+        "PositionLat": 24.182031631469727,
+        "GeoHash": "wsmc94hws"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)8000;",
+      "ServiceInfo": "餐廳,會議場所,宴會廳,健身房,商店,無線網路,停車場,無障礙客房,上網電腦(免費),,,,洗衣服務,郵電服務,貴重物品保管專櫃,接送服務,AED,外幣兌換,,",
+      "ParkingInfo": "車位:小客車71輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002544",
+      "HotelName": "和昕商旅",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區自由路二段135號(1至4樓)",
+      "ZipCode": "400",
+      "Phone": "886-4-22262227",
+      "Fax": "886-4-22255571",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.68415832519531,
+        "PositionLat": 24.142213821411133,
+        "GeoHash": "wsmc64zw8"
+      },
+      "Class": "一般旅館",
+      "Spec": "單人房(無障礙客房)1380;",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002626",
+      "HotelName": "豪爵大飯店台中館",
+      "Description": "豪爵大飯店台中館為經濟簡約型的商務旅館，，位於具備文藝氣息的美術園區，強調簡約、舒適感，並有愜意的綠園休憩空間，可享受異國風情的美食饗宴，客房內的標準配置：液晶數位電視、乾濕分離衛浴設備、按鍵式個人保險箱、無線寬頻上網，舒適經濟的客房空間，強調簡約、舒適感，本館位處台中市中心區，交通便利，生活機能齊全，為台中最便利的商旅飯店。全館101間客房，大廳備有電腦免費無線上網服務，並有報章、雜誌、書冊提供給房客閱讀，輕鬆享受現泡咖啡、茶飲品，給蒞臨的旅客一個舒適悠閒的閱讀空間。",
+      "Address": "臺中市西區五權路1-23號",
+      "ZipCode": "403",
+      "Phone": "886-4-23729000",
+      "Fax": "886-4-23752288",
+      "WebsiteUrl": "http://metrotaichung-hotel.tw",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/76340.JPG?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/76341.jpg?v=20241010",
+        "PictureDescription2": "飯店",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/76105.JPG?v=20241010",
+        "PictureDescription3": "大廳"
+      },
+      "Position": {
+        "PositionLon": 120.66551208496094,
+        "PositionLat": 24.138498306274414,
+        "GeoHash": "wsmc3f3by"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房7000;雙人房7000;雙人房7000;雙人房7000;",
+      "ServiceInfo": "無線網路,國民旅遊卡,自助洗衣(收費),上網電腦(免費),,,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002665",
+      "HotelName": "荷米旅居",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區中山路320、322號",
+      "ZipCode": "400",
+      "Phone": "886-4-22292900",
+      "Fax": "886-4-22292990",
+      "WebsiteUrl": "https://www.hommie-inn.com",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/117486.jpg?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/48889.jpg?v=20241010",
+        "PictureDescription2": "精緻雙人房",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/11683.jpg?v=20241010",
+        "PictureDescription3": "大廳商務中心"
+      },
+      "Position": {
+        "PositionLon": 120.67639923095703,
+        "PositionLat": 24.144020080566406,
+        "GeoHash": "wsmc653c5"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "會議場所,有線網路,無線網路,國民旅遊卡,無障礙客房,上網電腦(免費),,,,商務旅遊中心,室內遊樂設施,行動支付,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車1輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002848",
+      "HotelName": "迷你屋旅舍",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市沙鹿區興安路46-1號",
+      "ZipCode": "433",
+      "Phone": "886-4-26353777",
+      "Fax": "886-4-26353776",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.55474090576172,
+        "PositionLat": 24.232707977294922,
+        "GeoHash": "wsm9z73mc"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車1輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002913",
+      "HotelName": "風緻精品時尚旅館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市大里區永隆路428號",
+      "ZipCode": "412",
+      "Phone": "886-4-24180099",
+      "Fax": "886-4-24180088",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/160412.jpg?v=20241010"
+      },
+      "Position": {
+        "PositionLon": 120.676025390625,
+        "PositionLat": 24.11472511291504,
+        "GeoHash": "wsmc4jcw7"
+      },
+      "Class": "一般旅館",
+      "ServiceInfo": "無線網路,國民旅遊卡,,,,行動支付,寵物友善旅宿,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002919",
+      "HotelName": "樂府大飯店",
+      "Description": "(近民權路口，和運租車對面)出台中火車站左側，徒步僅2分鐘，近繼光街 、電子商圈、第一廣場、一中街、台中公園、居仁國中步行只需2-5分鐘， 是洽公、經商、旅遊、最佳住宿地點。完善的設備和親切熱忱的服務，竭誠歡迎閣下蒞臨指導！",
+      "Address": "臺中市中區建國路89號5樓之1(5-11樓)",
+      "ZipCode": "400",
+      "Phone": "886-4-22297181",
+      "Fax": "886-4-22241289",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/5397.jpg?v=20241010",
+        "PictureDescription1": "精緻套房",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/34159.jpg?v=20241010",
+        "PictureDescription2": "兩單套房",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/42248.jpg?v=20241010",
+        "PictureDescription3": "三人套房"
+      },
+      "Position": {
+        "PositionLon": 120.68263244628906,
+        "PositionLat": 24.13623809814453,
+        "GeoHash": "wsmc61y7v"
+      },
+      "Class": "一般旅館",
+      "Spec": "其他(無障礙客房)5000;",
+      "ServiceInfo": "無線網路,國民旅遊卡,,,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_002972",
+      "HotelName": "鴻賓大旅社",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市豐原區三民路35號",
+      "ZipCode": "420",
+      "Phone": "886-4-25222168",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.72159576416016,
+        "PositionLat": 24.253747940063477,
+        "GeoHash": "wsmcgp6b3"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003044",
+      "HotelName": "臺中逢甲智選假日酒店",
+      "Description": "台中，安於「寶島」臺灣的腹地，以富有特色的自然景觀、歷史人文、文化美學和慢生活韻律吸引著四面八方的遊人前來做客。臺中逢甲智選假日酒店位於台中市西屯區福星北三街，毗鄰逢甲夜市、新光三越台中中港店，距離臺中國際機場約10公里，休閒購物出行皆輕鬆便捷。 酒店96間時尚簡約的客房，充滿巧思創意。可移動桌板、乾濕分離衛浴、充足便捷的充電插孔和USB介面等體貼周到的設計，為入住增添舒適性與私密性。在此，你可盡享優質睡眠、暢爽沐浴，自如切換辦公與休閒模式。酒店的多功能共用空間——「智•空間」，提供中西式自助早餐，令你開啟一天的活力。非用餐時段則輕鬆變身為靈活的工作和休閒之所。高速網路全面覆蓋，帶給你簡單、睿智的體驗。無論是假期、還是公務，台中逢甲智選假日酒店助你智在，必達！",
+      "Address": "臺中市西屯區福星北三街33巷28號",
+      "ZipCode": "407",
+      "Phone": "886-4-27083911",
+      "Fax": "886-4-27085513",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/146895.jpg?v=20241010",
+        "PictureDescription1": "酒店外觀(夜晚)",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/146909.jpg?v=20241010",
+        "PictureDescription2": "標準大床無菸房",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/146910.jpg?v=20241010",
+        "PictureDescription3": "高級大床無菸房"
+      },
+      "Position": {
+        "PositionLon": 120.64574432373047,
+        "PositionLat": 24.183122634887695,
+        "GeoHash": "wsmc967sc"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)0;",
+      "ServiceInfo": "餐廳,會議場所,健身房,有線網路,無線網路,國民旅遊卡,停車場,無障礙客房,自助洗衣(收費),上網電腦(免費),,,,洗衣服務,郵電服務,商務旅遊中心,貴重物品保管專櫃,行動支付,導覽解說,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車58輛、機車1輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003052",
+      "HotelName": "宇春商旅",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市西屯區廣吉一街102號",
+      "ZipCode": "407",
+      "Phone": "886-4-24264458",
+      "Fax": "886-4-24264457",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.63658905029297,
+        "PositionLat": 24.15833282470703,
+        "GeoHash": "wsmc3juuk"
+      },
+      "Class": "一般旅館",
+      "Spec": "單人房4000;其他(無障礙客房)4580;",
+      "ServiceInfo": "無線網路,國民旅遊卡,停車場,無障礙客房,,,,行動支付,,",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003075",
+      "HotelName": "星月文旅",
+      "Description": "位於臺中市的民宿",
+      "Address": "臺中市后里區月眉北路482號",
+      "ZipCode": "421",
+      "Phone": "886-965-725526",
+      "Fax": "886-4-26834003",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/8393.jpg?v=20241010",
+        "PictureDescription1": "星月文旅外觀",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/6559.jpg?v=20241010",
+        "PictureDescription2": "寬敞溫馨的大廳",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/22609.JPG?v=20241010",
+        "PictureDescription3": "大廳"
+      },
+      "Position": {
+        "PositionLon": 120.70191955566406,
+        "PositionLat": 24.332584381103516,
+        "GeoHash": "wsmf6ts7w"
+      },
+      "Class": "民宿",
+      "ServiceInfo": "餐廳,咖啡廳,宴會廳,無線網路,三溫暖,國民旅遊卡,停車場,溫泉設施,,,,兒童遊樂設施,自行車租借,導覽解說,AED,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車12輛、機車10輛、大客車2輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003086",
+      "HotelName": "好望角大飯店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市和平區梨山里民族街52號",
+      "ZipCode": "424",
+      "Phone": "886-4-25989512",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/150287.jpg?v=20241010",
+        "PictureUrl2": "https://taiwan.taiwanstay.net.tw/twpic/150288.jpg?v=20241010",
+        "PictureUrl3": "https://taiwan.taiwanstay.net.tw/twpic/150286.jpg?v=20241010"
+      },
+      "Position": {
+        "PositionLon": 121.25267028808594,
+        "PositionLat": 24.25372314453125,
+        "GeoHash": "wsq1zpm2p"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003096",
+      "HotelName": "圖格旅旅館",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市中區成功路339號",
+      "ZipCode": "400",
+      "Phone": "886-4-22295653",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.6756591796875,
+        "PositionLat": 24.145105361938477,
+        "GeoHash": "wsmc653r6"
+      },
+      "Class": "一般旅館",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003162",
+      "HotelName": "幸福農莊",
+      "Description": "位於臺中市的民宿",
+      "Address": "臺中市新社區龍安21-3號",
+      "ZipCode": "426",
+      "Phone": "886-4-25931426",
+      "Fax": "886-4-25931427",
+      "WebsiteUrl": "http://happyfarm.emmm.tw/",
+      "Picture": {},
+      "Position": {
+        "PositionLon": 120.83492279052734,
+        "PositionLat": 24.169418334960938,
+        "GeoHash": "wsmcmxvm1"
+      },
+      "Class": "民宿",
+      "ParkingInfo": "車位:小客車0輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    },
+    {
+      "HotelID": "C4_A15010000H_003262",
+      "HotelName": "鳥人創意旅店",
+      "Description": "位於臺中市的旅館",
+      "Address": "臺中市北屯區經貿三路二段55號",
+      "ZipCode": "406",
+      "Phone": "886-4-24262777",
+      "WebsiteUrl": "http://www.bmmotel.com",
+      "Picture": {
+        "PictureUrl1": "https://taiwan.taiwanstay.net.tw/twpic/84699.jpg?v=20241010"
+      },
+      "Position": {
+        "PositionLon": 120.65768432617188,
+        "PositionLat": 24.18856430053711,
+        "GeoHash": "wsmc9ekhx"
+      },
+      "Class": "一般旅館",
+      "Spec": "雙人房(無障礙客房)9360;",
+      "ServiceInfo": "無線網路,無障礙客房,,,,,自行車友善旅宿",
+      "ParkingInfo": "車位:小客車35輛、機車0輛、大客車0輛",
+      "City": "臺中市",
+      "SrcUpdateTime": "2024-10-11T01:53:48+08:00",
+      "UpdateTime": "2024-10-11T02:14:56+08:00"
+    }
+  ]

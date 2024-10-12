@@ -1,9 +1,11 @@
 @import "../../styles/base";
 .cityCard{
+    
     position: relative;
-    width: 123px;
-    height: 151px;
+    width: 12.3rem;
+    height: 15.1rem;
     border-radius: 1.5rem;
+    flex:0 0 12.3rem;
     // border: 1px solid #888;
     @include flexCenter;
     flex-direction: column;
@@ -12,19 +14,28 @@
     background-color: #fff;
     border: none;
     cursor: pointer;
+
     &--active{
         & > span{
             color: $color-primary;
         }
-
     }
-    &:not(:last-child){
-        // background-color: red;
-        // padding: 20px;
-        margin-right: 35px;
-    }
+ 
     &__outer{
         display: flex;
+        gap: 3.5rem;
+        flex-wrap: wrap;
+        justify-content: center;
+        // flex: 0;     
+        width: 100%;   
+        @include respond(tab-port){
+            width: 65%;   
+
+        }
+        @include respond(small-tab){
+            width: 80%;   
+        }
+
     }
     
     &__circle{

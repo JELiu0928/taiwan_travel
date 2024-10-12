@@ -7,8 +7,31 @@ $right-bottom-gradient:linear-gradient(to right bottom,$color-gradient-1,$color-
 // #78E389 #1EB893 //漸變
 html{
     font-size: 62.5%; //1rem = 10px (10px/16px = 62.5%)
-    
 }
+@mixin respond($breakpoint){
+    // @content允許使用Mixin時傳入內容
+    @if $breakpoint == phone{
+        // 如果有人要列印就不適用媒體查詢
+        @media only screen and (max-width: 37.5em) { @content }; //600px(37.5*16)
+    }
+    @if $breakpoint == small-tab{
+        // 如果有人要列印就不適用媒體查詢
+        @media only screen and (max-width: 46.875em) { @content }; //750px
+    }
+    @if $breakpoint == tab-port{
+        @media only screen and (max-width: 56.25em) { @content }; //900px
+    }
+    @if $breakpoint == tab-land{
+        @media only screen and (max-width: 75em) { @content }; //1200px
+    }
+    @if $breakpoint == mid-desktop{
+        @media only screen and (max-width: 81.25em) { @content }; //1300px
+    }
+    @if $breakpoint == big-desktop{
+        @media only screen and (min-width: 112.5em) { @content }; //1800px
+    }
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -104,6 +127,8 @@ body{
     position: absolute;
     z-index: 2;
     font-size: 2.5rem;
+    cursor: pointer;
+
 }
 @mixin leftButton{
     background-color: rgba(255, 255, 255, 0.63);
