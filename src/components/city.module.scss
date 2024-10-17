@@ -7,11 +7,13 @@ body{
     flex-direction: column;
     // max-width: 1440px;
     // overflow: hidden;
-    width: 100%;
+    max-width: 100%;
     // margin: 0 10rem;
     margin-bottom: 6.6rem;
     padding-top: 5.6rem;
-    
+    @include respond(phone){
+        padding-top: 0;
+    }
 }
 .city{
     &__banner{
@@ -26,18 +28,89 @@ body{
     &__cityChoose{
         text-align: center;
         background-color: $color-tertiary;
+        
+        @include respond(phone){
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #fff;
+            // position: relative;
+            // min-height: 70px; 
+            
+        }
+
     }
     &__cityCard{
         width: 100%;
-        @include flexCenter();
+        // @include flexCenter();
+        display: flex;
+        justify-content: flex-start;
         flex-direction: column;
+        align-items: center;
         // width: 90rem;
         flex-wrap: wrap;
-        &-choose{
+        transition: opacity 1s cubic-bezier(.21,.63,.01,.98), transform .5s cubic-bezier(.21,.63,.01,.98);
+        border-radius: 0 0 1rem 1rem ;
+        
+        @include respond(phone){
+            position: absolute;
+            top: 20rem;
+            z-index: 10;
+            padding-top: 5rem;
+            width: 80%;
+            background-color: #F2F2F2;
+            transform-origin: top;
+            transform: scaleY(0);
+            opacity: 0;
+        }
+        & > hr{
+            width: 100%;
+            height: 1px;
+            // background-color: #DEDEDE;
+            border:none;
+            border-bottom: .1rem solid #DEDEDE;
+            // height: 2px;
+            padding-top: 2rem;
+        }
+        &-chooseArea{
             margin-top: 3.8rem;
             margin-bottom: 6.2rem;
             display: flex;
             justify-content: center;
+            @include respond(phone){
+                margin: 3rem 0; 
+            }
+        }
+        &-select{
+            position: relative;
+            z-index: 12;
+            display: flex;
+            background-color: #F2F2F2;
+            width: 80%;
+            padding: 1.3rem;
+            font-size: 1.4rem;
+            vertical-align: middle;
+            margin-top: 3.4rem;
+            border-radius: 2.25rem;
+            border: 1px solid #e6e6e6;
+            & > div:first-child{
+                // background-color: purple;
+                padding-left: 2rem;
+            }
+            &__area{
+                flex: 1;
+                display: flex;
+
+                & > span:first-child {
+                    // display: inline-block;
+                    margin-right: auto;
+                    // margin-top: 20rem;
+                    border-left: 1px solid #CCC;
+                    padding-left: 2rem;
+
+                }
+                padding-left: 2rem;
+            }
         }
     }
     &__attraction{
@@ -54,7 +127,6 @@ body{
             & > span:first-child{
                 color: $color-primary;
                 padding-right: 1.5rem;
-                
             }
         }
         &-card{
@@ -62,9 +134,16 @@ body{
             gap: 2.5rem;
             grid-template-columns: repeat(6,29rem); 
             position: relative;
-            transition: 1s;
-            // grid-template-columns: repeat(auto-fill, 29rem);
+            transition: transform 1s;
             // padding-bottom: 5.6rem;
+            @include respond(small-tab){
+                grid-template-columns: repeat(12, 29rem);
+                gap: 2.5rem;
+            }
+            @include respond(phone){
+                grid-template-columns: repeat(12, 16.8rem);
+                gap: 1rem;
+            }
             &--container{
                 overflow-x: hidden;
                 scroll-behavior: smooth; /* 平滑滾動 */
@@ -73,18 +152,25 @@ body{
                 // width: (29rem *4 + 2.5rem * 3 + 3rem);
                 width: (29rem *4 + 2.5rem * 3 + 5rem);
                 // border:  1px solid red;
-                transition: .5s;
                 @include respond(mid-desktop){
                     width: (29rem *2 + 2.5rem *1 + 5rem);         
                 }
                 @include respond(small-tab){
-                    width: (29rem + 5rem);         
+                    width: (29rem + 5rem);     
+
+                }
+                @include respond(phone){
+                    width: (34.6rem + 5rem);     
+
                 }
             }
         }
         &--btn{
             @include directionButton();
             z-index: 10;
+            @include respond(phone){
+                display: none;   
+            }
         }
         &--leftBtn{
             @include leftButton();
@@ -151,10 +237,14 @@ body{
             grid-template-columns: repeat(6,29rem); 
             gap: 2.5rem;
             position: relative;
-            transition: 1s;
+            transition: transform 1s;
             // overflow-x: hidden;
             // scroll-behavior: smooth; 
             // margin-top: 3rem;
+            @include respond(phone){
+                grid-template-columns: repeat(6, 16.8rem);
+                gap: 1rem;
+            }
             &--container{
                 overflow: hidden;
                 scroll-behavior: smooth; /* 平滑滾動 */
@@ -171,10 +261,16 @@ body{
                 @include respond(small-tab){
                     width: (29rem + 5rem);         
                 }
+                @include respond(phone){
+                    width: (34.6rem + 5rem);     
+                }
             }
         }
         &--btn{
             @include directionButton();
+            @include respond(phone){
+                display: none;   
+            }
         }
         &--leftBtn{
             @include leftButton();
@@ -214,13 +310,6 @@ body{
 
     &__food{
         position: relative;
-        // width: (23rem * 5 + 2rem * 4);
-        // margin: auto 17.5%;
-        // margin-top: 5.6rem;
-        
-        
-        // width: 100%;
-        position: relative;
         &--outer{
             padding-top: 5.6rem;
 
@@ -228,7 +317,9 @@ body{
             @include flexCenter();
             flex-direction: column;
             padding-bottom: 6.6rem;
-
+            @include respond(phone){
+                width: 100%;
+            }
         }
         &-text{
             // padding-bottom: 3rem;
@@ -249,15 +340,17 @@ body{
         }
         &-card{
             display: grid;
-            // grid-template-columns: repeat(auto-fill,23.1rem); 
             grid-template-columns: repeat(7,23.1rem); 
             gap: 2rem;
-            // overflow: hidden;
             position: relative;
-            // overflow-x: auto; /* 啟用水平滾動 */
-            transition: 1s;
-            // margin-top: 3rem;
+            transition: transform 1s;
 
+    
+            @include respond(phone){
+                grid-template-columns: repeat(7, 16.8rem);
+                gap: 1rem;
+                // width: 100%;
+            }
             &--container{
                 overflow: hidden;
                 scroll-behavior: smooth; /* 平滑滾動 */
@@ -266,16 +359,23 @@ body{
                 // border: 1px solid red;
                 // border:  1px solid red;
                 padding:2rem 0;
-                transition: .5s;
+                // transition: .5s;
                 @include respond(mid-desktop){
                     width: (23.1rem * 3 + 2rem * 2);         
                 }
                 @include respond(small-tab){
-                    width: (23.1rem );         
+                    // width: (23.1rem * 2 + 2rem);         
+                    width: (23.1rem * 2 + 4rem);         
+                }
+                @include respond(phone){
+                    width: (34.6rem + 3rem);     
                 }
             }
             &>div{
-                height: 23.1rem;
+                height: 33.5rem;
+                @include respond(phone){
+                    // height: 16.8rem;    
+                }
                 &>img{
                     object-fit: cover;
                 }
@@ -283,6 +383,9 @@ body{
         }
         &--btn{
             @include directionButton();
+            @include respond(phone){
+                display: none;   
+            }
         }
         &--leftBtn{
             @include leftButton();
@@ -350,7 +453,10 @@ body{
             // margin-top: 3rem;
             transition: 1s;
             // border:  1px solid red;
-
+            @include respond(phone){
+                grid-template-columns: repeat(6, 16.8rem);
+                gap: 1rem;
+            }
             &--container{
                 overflow: hidden;
                 scroll-behavior: smooth; /* 平滑滾動 */
@@ -365,10 +471,18 @@ body{
                 @include respond(small-tab){
                     width: (29rem + 5rem);         
                 }
+         
+                @include respond(phone){
+                    width: (34.6rem + 5rem);     
+                    // height: 28.2rem;
+                }
             }
         }
         &--btn{
             @include directionButton();
+            @include respond(phone){
+                display: none;   
+            }
         }
         &--leftBtn{
             @include leftButton();

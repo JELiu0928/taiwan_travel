@@ -20,7 +20,7 @@ const Activity = () => {
         });
     }
     useEffect(()=>{
-        fetchNorth()
+        // fetchNorth()
     },[])
     
     return (
@@ -59,6 +59,7 @@ const Activity = () => {
                 </span>
             </h2>
             <div className={styles["activity__card"]}>
+                {/* <CommonCard/>
                 <CommonCard/>
                 <CommonCard/>
                 <CommonCard/>
@@ -69,8 +70,7 @@ const Activity = () => {
                 <CommonCard/>
                 <CommonCard/>
                 <CommonCard/>
-                <CommonCard/>
-                <CommonCard/>
+                <CommonCard/> */}
             </div>
         </section>
         <div className={styles.activity__page}>

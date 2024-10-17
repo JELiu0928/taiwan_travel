@@ -2,14 +2,26 @@
 .foodCard{
     // background-color: teal;
     // flex: 0 0 14%; 
-    flex: 1 0 23.1rem;
+    // flex: 1 0 23.1rem;
     width: 23.1rem;
     height: 35.5rem;    
     position: relative;
-    &:not(:last-child){
-        margin-right: 2rem;
-
+    &:last-child{
+        margin-right: 25rem;
+        @include respond(mid-desktop){
+            margin-right: 18rem;
+    
+        }
+        @include respond(small-tab){
+            margin-right: 3rem;
+    
+        }
     }
+    @include respond(phone){
+        width: 12.3rem;
+        height: 19rem;    
+    }
+   
     // overflow:hidden;
     &> img{
         width: 100%;
@@ -24,14 +36,26 @@
         color: #fff;
         left: 0;
         bottom: 0;
-        padding-left: 1.4rem;
+        padding: 0 1.4rem;
         padding-bottom: 2rem;
-
+        @include respond(phone){
+            padding: 0 1rem;
+            padding-bottom: 2rem;
+        
+        }
         &--title{
             font-size: 1.6rem;
+            @include respond(phone){
+                font-size: 1.4rem;
+                
+            }
         }
         &--category{
             font-size: 1.2rem;
+            @include respond(phone){
+                font-size: 1.0rem;
+                
+            }
         }
     }
     &__mask{
@@ -54,5 +78,10 @@
         border-radius: 1.1rem;
         font-size: 1.2rem;
         margin: 1.6rem;
+        @include respond(phone){
+            margin: 1rem;
+
+            
+        }
     }
 }

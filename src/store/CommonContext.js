@@ -5,8 +5,12 @@ const RegionContext = React.createContext({
     setSelectedArea: () => {},
     selectedCity:'Taipei',
     setSelectedCity:() => {},
-    filterAndRandomData:() => {}
-
+    fetchDatas:()=>{},
+    filterAndRandomData:() => {},
+    spanIndexActive: 0,
+    setSpanIndexActive:() => {},
+    offsetpiece:3,
+    setOffsetpiece:() => {},
 })
 
 export default RegionContext;

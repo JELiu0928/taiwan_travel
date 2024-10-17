@@ -1,0 +1,27 @@
+@import "../../styles/base";
+.cardIndicator{
+    display:flex;
+    justify-content: center;
+    transition: 2s;
+    &--active{
+        height: 8px;
+        width: 8px;
+
+        width: 30px;
+        // transform:scaleX(3.75);
+
+        background-color: $color-primary;
+        border-radius: 3rem;
+        margin: 0 .6rem;
+        transition: width .5s;
+        transform-origin:left;
+    }
+    & > span{
+        &:not(.cardIndicator--active){
+            width: 8px;
+            border-radius: 50%;
+            background-color: #CDCDCD;
+            margin: 0 .6rem;
+        }
+    }
+}

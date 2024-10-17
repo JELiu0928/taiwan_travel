@@ -1,32 +1,89 @@
 @import "../styles/base";
 .header{
     font-size: 1.5rem;
+    position: fixed;
+    z-index: 30;
+    left: 0;
+    right: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 .4rem 1rem rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    @include respond(small-tab){
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
     &__logo{
         width: 16rem;
         margin-left: 2.3rem;
         display: block;
+        flex: 1;
+        @include respond(small-tab){
+            padding: 1.5rem;
+            margin-left: 1.5rem;
+        }
+    }
+    &__nav{
+        @include flexCenter;
+        flex: 1;
+        transition: max-height 1.2s cubic-bezier(.21,.63,.01,.98) ,opacity .3s;
+        // background-color: #fff;
+        // height: 61px;
+        @include respond(small-tab){
+            flex-direction: column;
+            align-self: center;
+            width: 100%;
+            max-height: 0;
+            opacity: 0;
+
+        }
     }
     &__navList{
         display: flex;
         padding: 0;
+        justify-content: center;
+
+        @include respond(small-tab){
+            flex-direction: column;
+
+        }
         &-item{
             list-style: none;
             padding: 2rem;
-
+            
             & > * {
                 text-decoration: none;
                 color: #000;
             }
+            @include respond(small-tab){
+                border-bottom: 1px solid #E9E9E9;
+            }
+        }
+        &-wrap{
+            flex: 1;
+            @include respond(small-tab){
+                order: 3;
+                align-self: center;
+                text-align: center;
+                width: 100%;
+
+            }
         }
     }
     &__search{
+        // flex: 1;
         position: relative;
         margin-right: 2.3rem;
         // background-color: blue;
+        @include respond(small-tab){
+            order: 2;
+            width: 60%;
+            margin-right: 0;
+            align-self: center;
+
+        }
         &-input{
             width: 19.5rem;
             border: 3px solid #f0f0f0;
@@ -35,7 +92,9 @@
             padding: .6rem;
             padding-left: 1.5rem;
             border-radius: 3.4rem;
-            // color: #eaa6a6;
+            @include respond(small-tab){
+                width: 100%;
+            }
 
         }
         &-icon{
@@ -45,6 +104,47 @@
             right: 1.5rem;
             transform: translateY(-50%);
             color: #707070;
+        }
+    }
+    &__menu{
+        &--btn{
+            cursor: pointer;
+            position: fixed;
+            right: 3rem;
+            top: 2.5rem;
+            // &--btn:hover &--icon::before{
+            //     top: -5rem;
+            //     background-color: red;
+            
+            // }
+        }
+
+        &--icon{
+            &,&::before,&::after{
+                width: 2.5rem;
+                height: 2px;
+                background-color: #333;
+                display: inline-block; 
+            }
+            position: relative;
+        
+            &::before,&::after{
+                content: "";
+                position: absolute;
+                left: 0;
+                // transition: all .2s;
+            }
+            &::before{
+                top: -.8rem;
+            }
+            
+            &::after{
+                top: .8rem;
+                :hover{
+                    top: 1rem;
+                }
+            }
+         
         }
     }
 

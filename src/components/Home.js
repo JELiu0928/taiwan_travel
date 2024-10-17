@@ -1,7 +1,7 @@
-import React, { useContext, useEffect,useState } from 'react'
+import React, { useContext, useEffect,useRef,useState } from 'react'
 import styles from './home.module.scss'
 import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faMagnifyingGlass, faAngleLeft, faAngleRight,faPlay} from '@fortawesome/free-solid-svg-icons'
+import {faMagnifyingGlass,faPlay} from '@fortawesome/free-solid-svg-icons'
 import CityCard from './UI/CityCard'
 import CommonCard from './UI/CommonCard'
 import FoodCard from './UI/FoodCard'
@@ -10,86 +10,80 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import activityDatas from '../data/activity01.json'
 import foodDatas from '../data/food01.json'
 import accommodationDatas from '../data/accommodation01.json'
-// import second from '../data/'
+import useMedia, { LAYOUT }  from '../hook/useMedia'
+import useTouchSlide from '../hook/useTouchSlide'
 
 const Home = () => {
-    const {selectedArea,setSelectedArea,filterAndRandomData} = useContext(RegionContext)
+    const {selectedArea,setSelectedArea,filterAndRandomData,fetchAndRandomDatas} = useContext(RegionContext)
     const navigate = useNavigate()
     const SelectAreaHandler =(area)=>{
         setSelectedArea(area)
         navigate('/city')
     }
     const location = useLocation()
-    const [randomActivity,setRandomActivity] = useState([]) //隨機取3筆顯示
+    const [randomActivity,setRandomActivity] = useState([]) 
     const [attraction,setAttraction] = useState([]) 
     
-    const [randomFood,setRandomFood] = useState([]) //隨機取3筆顯示
-    const [randomAccommodation,setRandomAccommodation] = useState([]) //隨機取3筆顯示
+    const [randomFood,setRandomFood] = useState([]) 
+    const [randomAccommodation,setRandomAccommodation] = useState([]) 
 
+    const layout = useMedia()
+    // console.log("我是layout",layout,)
+    const fetchDatas = (fetchUrl,setRandomState)=>{
+        fetch(fetchUrl)
+        .then(res=>res.json())
+        .then(data=>{
+            console.log('我是activity_data',data)
+            filterAndRandomData(data,setRandomActivity,0,6)
+        })
+    }
+   
     useEffect(()=>{
-        // console.log('activityData',activityData)
+        
         if(location.pathname == '/'){
             setSelectedArea('')
         }
-        console.log('函數',filterAndRandomData)
-        // console.log(location)
-        // https://tdx.transportdata.tw/api/basic/v2/Tourism/Restaurant/Taichung?%24top=50&%24format=JSON
-        // https://www.shubo.io/javascript-random-shuffle/#%E7%A5%9E%E5%A5%87%E7%9A%84-javascript-%E4%BA%82%E6%95%B8%E6%8E%92%E5%BA%8F%E6%BC%94%E7%AE%97%E6%B3%95
+
         // 活動
+        // JSON
         if(activityDatas){
             filterAndRandomData(activityDatas,setRandomActivity,0,6)
-
         }
-        // let newActivityData = [...activityDatas]
-        // newActivityData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
-        // setRandomActivity(newActivityData.slice(0,6)) //取六筆
-        // console.log('activityData',activityData)
+        // 線上API(node版)
+        // fetchAndRandomDatas("http://localhost:3010/activity",setRandomActivity,0,6)
+
         
+        // JSON
         if(foodDatas){
             filterAndRandomData(foodDatas,setRandomFood,0,10)
         }
-        // 餐廳
-        // let newFoodData = [...foodData]
-        // newFoodData.sort(()=>Math.random() - 0.5)
-        // setRandomFood(newFoodData.slice(0,10))
-        // console.log('foodData',foodData)
+        // 線上API (node版)
+        // fetchAndRandomDatas("http://localhost:3010/food",setRandomFood,0,10)
+        // 線上API (直接fetch)
+        fetchAndRandomDatas("https://tdx.transportdata.tw/api/basic/v2/Tourism/Restaurant?%24top=50&%24skip=2000&%24format=JSON",
+            setRandomFood,0,10)
+
+        // 住宿
+        // JSON
         if(accommodationDatas){
             filterAndRandomData(accommodationDatas,setRandomAccommodation,0,4)
         }
-        // 住宿
-        // let newAccommodationData = [...accommodationDatas]
-        // newAccommodationData.sort(()=>Math.random() - 0.5)
-        // setRandomAccommodation(newAccommodationData.slice(0,4))
-        // console.log('accommodationData',accommodationData)
+        // 線上API
+        // fetchAndRandomDatas("http://localhost:3010/accommodation",setRandomAccommodation,0,10)
 
         
-        // let baseUrl = "https://tdx.transportdata.tw/api/basic"
-        // let randomSkip = Math.floor(Math.random() * 100) //隨機跳過
-        // console.log(randomSkip)
-
-        // fetch(`http://localhost:3010/attraction`)
-        // .then(res=>res.json())
-        // .then((data)=>{
-        //     console.log('我是data',data)
-        //     setAttraction(data.value)
-            
-        //     let newAttractionData = [...attraction]
-        //     newAttractionData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
-        //     setAttraction(newAttractionData.slice(0,6)) //取六筆
-        //     // console.log('activity',attraction)
-        // }).catch((e) => {
-        //     console.log('我是err',e)
-        // });
-    },[activityDatas,attraction])
+      
+    },[activityDatas])
+    const foodRef = useRef()
     const moveLeft = ()=>{
         // let foodCards = document.querySelector(`.${styles["tasty__foodCard-container"]}`);
-        let foodCards = document.querySelector(`.${styles["tasty__foodCard-container--wrap"]}`);
-        console.log(foodCards)
-        if(foodCards){
-            let cardWidth = foodCards.children[0].offsetWidth + 20
+        // let foodCards = document.querySelector(`.${styles["tasty__foodCard-container--wrap"]}`);
+        // console.log(foodCards)
+        if(foodRef){
+            let cardWidth = foodRef.current.children[0].offsetWidth + 20
             console.log(cardWidth)
-            foodCards.scrollBy({
-                left: cardWidth
+            foodRef.current.scrollBy({
+                left: -cardWidth
             })
 
         }
@@ -98,15 +92,20 @@ const Home = () => {
         // let foodCards = document.querySelector(`.${styles["tasty__foodCard-container"]}`);
         let foodCards = document.querySelector(`.${styles["tasty__foodCard-container--wrap"]}`);
         console.log(foodCards)
-        if(foodCards){
-            let cardWidth = foodCards.children[0].offsetWidth + 20
+        if(foodRef){
+            let cardWidth = foodRef.current.children[0].offsetWidth + 20
             // console.log(cardWidth)
-            foodCards.scrollBy({
-                left: -cardWidth
+            foodRef.current.scrollBy({
+                left: +cardWidth
             })
 
         }
     }
+    // useTouchSlide(
+    //     foodRef,
+    //     moveLeft,
+    //     moveRight
+    // )
     return (
         <>
         <section className={styles.banner}>
@@ -122,54 +121,78 @@ const Home = () => {
         </section>
         <section >
             <div className={styles.cityChoose}>
-                <div className={`${styles["common__text--city"]}`}>
-                    <h3 className={`${styles["common__text-main"]} `}>縣市快選</h3>
-                    <span className={styles["common__text-sub"]}>Choose Cities</span>
+                <div className={` ${styles["cityChoose__text"]}`}>
+                    <h3 className={`${styles["common__text-main"]}`}>縣市快選</h3>
+                    <span className={`${styles["common__text-sub"]} ${styles["cityChoose__text-sub"]}`}>Choose Cities</span>
                 </div>
-                <CityCard onSelectArea={SelectAreaHandler}/>
+                <div className={styles.cityChoose__cityCard}>
+                    <CityCard onSelectArea={SelectAreaHandler}/>
+                </div>
                 <img className={styles.cityChoose__icon} src="/img/city_person.png" alt="icon" />
             </div>
             <div className={`${styles["cityChoose__decoration"]} ${styles["cityChoose__decoration-1"]}`}></div>
             <div className={`${styles["cityChoose__decoration"]} ${styles["cityChoose__decoration-2"]}`}></div>
         </section>
         <section>
-            <div className={styles.festival}>
+            {/* <div className={styles.activity}> */}
                 {
-                    randomActivity && randomActivity.slice(0,3).map((item,i)=>(
-                        <CommonCard data={item} key={i} type={"activity"}/>
-                    ))
-                }  
-                {/* {
-                    randomActivity && randomActivity.slice(0,3).map((item,i)=>(
-                        <CommonCard activityData={item} key={i} type={"activity"}/>
-                    ))
-                }              */}
-                <div className={styles.festival__text}>
-                    <h3 className={`${styles["common__text-main"]} `}>多久沒有</h3>
-                    <h3 className={`${styles["common__text-main"]} `}>出門走走了呢？</h3>
-                    <span className={`${styles["common__text-sub"]} ${styles["common__text--getout"]}`}>Let’s get out</span>
-                    <button className={styles.festival__btn}>更多FUNNY</button>
-                </div>
-            </div>
-            <div className={styles.festival}>
-                {/* {   randomActivity && randomActivity.slice(3,6).map((item,i)=>(
-                        <CommonCard activityData={item} key={i} type={"activity"}/>
-                    ))
-                } */}
-            </div>
+                    layout === LAYOUT.BIG_DESKTOP ? (<>
+                     <div className={styles.activity}>
+                        <div className={styles.activity__card}>
+                            {
+                                randomActivity && randomActivity.slice(0,3).map((item,i)=>(
+                                    <CommonCard data={item} key={i} type={"activity"}/>
+                                ))
+                            }  
+                        </div>
+                        <div className={styles.activity__text}>
+                            <h3 className={`${styles["common__text-main"]} `}>多久沒有</h3>
+                            <h3 className={`${styles["common__text-main"]} `}>出門走走了呢？</h3>
+                            <span className={`${styles["common__text-sub"]} ${styles["common__text--getout"]}`}>Let’s get out</span>
+                            <div className={styles["activity__btn--wrap"]}>
+                                <button className={styles.activity__btn}>更多FUNNY</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className={styles.activity__card}>
+                        {
+                            randomActivity && randomActivity.slice(0,3).map((item,i)=>(
+                                <CommonCard data={item} key={i} type={"activity"}/>
+                            ))
+                        }  
+                    </div>
+                        </>):(
+                            <div className={styles.activity}>
+                                <div className={styles.activity__text}>
+                                    <h3 className={`${styles["common__text-main"]} `}>多久沒有出門走走了呢？</h3>
+                                    <span className={`${styles["common__text-sub"]} ${styles["common__text--getout"]}`}>Let’s get out</span>
+                                </div>
+                                <div className={styles.activity__card}>
+                                    {
+                                        randomActivity && randomActivity.slice(0,6).map((item,i)=>(
+                                            <CommonCard data={item} key={i} type={"activity"}/>
+                                        ))
+                                    }  
+                                </div>
+                                <button className={styles.activity__btn}>更多FUNNY</button>
+                            </div>
+                        )
+                }
+              
         </section>
         <section className={styles.tasty__outer}>
             <div className={styles.tasty}>
                 <div className={styles.tasty__text}>
                     <h3 className={`${styles["common__text-main"]} `}>餐飲美食</h3>
                     <span className={`${styles["common__text-sub"]} `}>Tasty</span>
-                    <button className={styles.tasty__btn}>更多美味</button>
+                    {
+                        (layout !== LAYOUT.PHONE && layout !== LAYOUT.SMALL_TAB) ? <button className={styles.tasty__btn}>更多美味</button> : ""
+                    }
                 </div>
                 <div>
                     <div className={styles["tasty__foodCard-outer"]}>
                         <div className={styles["tasty__foodCard-container"]}>
-                            <div className={styles["tasty__foodCard-container--wrap"]}>
-
+                            <div className={styles["tasty__foodCard-container--wrap"]} ref={foodRef}>
                             {
                                 randomFood.map((item,i)=> <FoodCard data={item} foodData={item} key={i}/>)
                             }
@@ -185,10 +208,13 @@ const Home = () => {
                         </button>
                     </div>
                 </div>
+                {
+                   ( layout === LAYOUT.PHONE || layout === LAYOUT.SMALL_TAB) ? <button className={styles.tasty__btn}>更多美味</button> : ""
+                }
             </div>
         </section>
         <section className={styles.accommodation}>
-            <div className={`${styles.common__text} ${styles["common__text--accommodation"]}`}>
+            <div className={`${styles.accommodation__text}`}>
                 <h3 className={`${styles["common__text-main"]} `}>精選住宿</h3>
                 <span className={`${styles["common__text-sub"]} `}>accommodation</span>
             </div>
@@ -197,8 +223,9 @@ const Home = () => {
                     randomAccommodation.map((item,i)=> <CommonCard data={item} accommodationData={item} key={i} type={"accommodation"}/>)
                 }              
             </div>
+           
             <div >
-                <button className={styles.accommodation__btn}>更多美味</button>
+                <button className={styles.accommodation__btn}>更多住宿</button>
             </div>
         </section>
         </>

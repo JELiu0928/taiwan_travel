@@ -8,18 +8,27 @@ main{
 .banner{
     background: url('../../public/img/banner_home.jpg') no-repeat center;
     background-size: cover;
-    // background-repeat: no-repeat;
-    font-size: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     color: #fff;
+    font-size: 1.5rem;
+    @include flexCenter;
+    flex-direction: column;
+    width: 100%;
+
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    // @include respond(phone){
+    //     margin: auto;
+    // }
+
     &__main-text{
         font-size: 4rem;
         font-weight: 700;
         margin-top: 14.9rem;
         margin-bottom: .4rem;
+        @include respond(phone){
+            // align-self: flex-start;
+        }
     }
     &__sub-text{
         margin-bottom: 5.3rem;
@@ -28,6 +37,9 @@ main{
         width: 60%;
         position: relative;
         margin-bottom: 15.4rem;
+        @include respond(phone){
+            width: 80%;
+        }
         &-input{
             width: 100%;
             border: 6px solid #f0f0f0;
@@ -53,9 +65,7 @@ main{
         }
     }
 }
-.common__text-main{
-    // background-color: aqua;
-}
+
 .cityChoose{
     position: relative;
     // display: flex;
@@ -63,7 +73,58 @@ main{
     // width: 81%;
     height: 32.9rem;
     margin-bottom: 15.8rem;
-    @include flexCenter();
+    // @include flexCenter();
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    @include respond(mid-desktop){
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    @include respond(tab-port){
+        // width: 80%;
+        flex: 0 0 100%;
+        padding-top: 4rem;
+
+    }
+    &__cityCard{
+        // margin-left: 200px;
+        display: flex;
+        // width: 80%;
+        flex: 0 0 70%;
+        @include respond(mid-desktop){
+            // width: 80%;
+            // flex: 0 0 45%;
+
+
+        }
+        @include respond(tab-port){
+            // width: 80%;
+            flex: 0 0 100%;
+            justify-content: center;
+
+
+        }
+    }
+    
+    &__text{
+        // justify-content: center;
+        // text-align: center;
+        flex: 0 0 15%;
+        // flex: 0 0 10.42%;
+        // margin-right: 8.33%;
+        z-index: 2;
+        @include respond(mid-desktop){
+            // width: 80%;
+            flex: 0 0 20%;
+            text-align: center;
+        }
+     
+        &-sub{
+           
+            margin-bottom: 2.5rem;
+        }
+    }
     &::after{
         content: '';
         background-color: $color-tertiary;
@@ -73,6 +134,14 @@ main{
         position: absolute;
         top: 0;
         left: 0;
+        @include respond(small-tab){
+            // position: static;
+            width:100%;
+            height: 52rem;
+            background-color: $color-tertiary;
+            border-bottom-right-radius: 0rem;
+
+        }
     }
     &::before{
         content: '';
@@ -87,22 +156,8 @@ main{
         // left: -6.7%;
         left: -5.3%;
         transform: translate(0%, 50%); 
-    }
-    &__text{
-        // position: relative;
-        // z-index: 2;
-        // margin-right: 11.2rem;
-        &-main{
-            // font-size: 3.2rem;
-            // font-weight: 500;
-            // margin-bottom: 1.4rem;
-        }
-        &-sub{
-            // font-size: 1.4rem;
-            // font-weight: 500;
-            // color: #9a9a9a;
-            // text-transform: uppercase;
-            // letter-spacing: 0.1rem;
+        @include respond(small-tab){
+            display: none;
         }
     }
     &__icon{
@@ -112,70 +167,57 @@ main{
         z-index: 2;
         bottom: 2.5%;
         left: 1.4%;
-
+        @include respond(small-tab){
+            display: none;
+        }
     }
     
     &__decoration{
         background: $right-bottom-gradient;
     }
 }
-// .common{
-//     &__text{
-//         flex: 0 0 10.42%;
-//         margin-right: 8.33%;
-//         &--city{
-//             position: relative;
-//             z-index: 2;
-//             margin-right: 11.2rem;
-//         }
-//         &--accommodation{
-//             margin-bottom: 5rem;
-//             text-align: center;
-//             margin-right: 0;
-//         }
-//         &-main{
-//             font-size: 3.6rem;
-//             font-weight: 600;
-//             margin-bottom: 1.4rem;
-//             margin: 0;
-//             letter-spacing: 0.3rem;
-//         }
-//         &-sub{
-//             font-size: 1.4rem;
-//             font-weight: 500;
-//             color: #9a9a9a;
-//             text-transform: uppercase;
-//             letter-spacing: 0.1rem;
-//             display: block;
-//             margin-top: 1.2rem;
-//             margin-bottom: 2.7rem;
-//         }
-//     }
-// }
-.festival{
-    // padding: 0 rem;
-    // margin-top: 15.8rem;
-    // max-width: 1000px;
-    &:not(:last-child){
-        margin-bottom: 3rem;
-    }
-    & > div:not(:nth-child(3)){
-        margin-right: 2.5rem;
 
-    }
-    display: flex;
-    // justify-content: left;
+.activity{
+  
     @include flexCenter;
-    // justify-content: center;
-    // padding-right: 20rem;
+
+    @include respond(mid-desktop){
+        flex-direction: column;
+        // justify-content: flex-start;
+        // order: 2;
+    }
+    &__card{
+        display: grid;
+        grid-template-columns: repeat(3,29rem);
+        gap:3rem;
+        justify-content: center;
+        margin-bottom: 3rem;
+        @include respond(tab-land){
+            gap: 1.6rem;
+        }
+        @include respond(tab-port){
+            grid-template-columns: repeat(2,25rem);
+        }
+        @include respond(phone){
+            grid-template-columns: repeat(2,16.8rem);
+        }
+    }
     &__text{
         margin-left: 5.5rem;
+        @include respond(mid-desktop){
+            order: -1;
+            text-align: center;
+            margin-left: 0;
+
+        }
+        @include respond(small-tab){
+           margin-top: 10rem;
+        }
     }
     &__btn{
         @include moretButton();
         position: relative;
         padding-left: 1.5rem;
-
         &::before{
             @include moretButtonBefore();
         }
@@ -192,9 +234,30 @@ main{
     // flex-direction: column;
     align-items: center;
     // justify-content: center;
+    @include respond(small-tab){
+        flex-direction: column;
+        align-items: center;
+        // height: 53rem; 
+        height: 100%;
+
+        justify-content: space-evenly;
+        // order: 2;
+    }
+    @include respond(small-tab){
+        align-items: flex-start;
+        
+    }
     &__text{
+
         margin-left: 10.3rem;
         margin-right: 11.1rem;
+        @include respond(tab-port){
+            margin: 0 8rem;
+        }
+        @include respond(small-tab){
+            // margin: 0 5rem;
+            align-self: center;
+        }
     }
     &::after{
         content: '';
@@ -211,13 +274,20 @@ main{
     }
     &__outer{
         margin-top: 14rem;
-        overflow: hidden
+        overflow: hidden;
+        @include respond(phone){
+            margin-top: 5rem;  
+        }
     }
     &__btn{
         @include moretButton();
         position: relative;
         padding-left: 1.5rem;
-
+        @include respond(small-tab){
+            margin: 3.4rem;
+            align-self: center;
+            // align-self: flex-start;
+        }
         &::before{
             @include moretButtonBefore();
             width: 3rem;
@@ -227,51 +297,85 @@ main{
         }
     }
     &__foodCard{
-
+        flex:1;
+        // width: 100vw;
         &-container{
-            // display: flex;
+            display: flex;
             // align-items: center;
             // justify-content: center;
             // max-width: (23.1rem *6 + 23.1rem/3);
-            width:85vw;
-            // overflow-x: auto;
-            // scroll-behavior: smooth;
-            padding-right: 19.5rem;
+            // width:85vw;
+            width: 100%;
+            padding-right: 10%;
+            @include respond(mid-desktop){
+                width: 90%;
+            }
+            @include respond(small-tab){
+                width: 100%;
+                padding-right: 0;
+            }
+            
+            @include respond(phone){
+                width: 100%;
+                // margin-left: 2rem;
+               
+
+            }
             &--wrap{
-                display: flex;
-                // width: 200%;
-                overflow-x: hidden;
-                overflow-y: hidden;
-                 scroll-behavior: smooth;
-                
+                width: 100vw;
+                display: grid;
+                gap: 2rem;
+                grid-template-columns: repeat(10,1fr);
+                // overflow-x: hidden;
+                // overflow-y: hidden;
+                overflow: auto;
+                scroll-behavior: smooth;
+                @include respond(small-tab){
+                    // justify-content: center;
+                    margin-left: 2rem;
+    
+                }
+                @include respond(phone){
+                    // justify-content: flex-start;
+                    gap: 1rem;
+                    // max-width: ;
+                    margin-left: 2rem;
+                    padding-right: 2rem;
+
+                }
             }
         }
-        // height: 100%;
-        // overflow: hidden;
-        
-        &-outer{
-            // position: relative;
-            // overflow: hidden;
-            // display: flex;
-            // justify-content: flex-end; /* 使子元素靠右對齊 */
-        }
+      
         &--btn{
             @include directionButton();
+            @include respond(phone){
+                display: none  
+            }
         }
         &--leftBtn{
             @include leftButton();
-            // left: (-7.2rem /2);
             
             left: 31.5rem;
             // top: 6.5rem;
-            bottom: 30rem;
+            bottom: 31rem;
 
+            @include respond(tab-port){
+                left: 26rem;
+
+            }
+            @include respond(small-tab){
+                left: 7.5rem;
+                top: 15rem;
+            }
         }
         &--rightBtn{
             @include rightButton();
             right: (7.2rem /2);
-            // right:20%;
             bottom: 10rem;
+            @include respond(small-tab){
+                right: 9.5rem;
+                bottom: 15rem;
+            }
         }
     }
 }
@@ -281,6 +385,9 @@ main{
     flex-direction: column;
     position: relative;
     overflow: hidden;
+    @include respond(phone){
+        margin-top: 5rem;  
+    }
     &::after{
         content: '';
         height: 72.8rem;
@@ -293,23 +400,40 @@ main{
     }
     
     &__card{
-        // display: flex;
-        @include flexCenter();
-        & > div:not(:last-child){
-            margin-right: 3rem;
-        }
+        display: grid;
+        grid-template-columns: repeat(4,29rem);
+        gap: 3rem;
         & > div:nth-child(even){
             transform: translateY(3rem);
         }
+        @include respond(mid-desktop){
+            grid-template-columns: repeat(2,29rem);
+          
+            & > div:nth-child(even){
+                transform: translateY(0);
+            }
+        }
+        @include respond(tab-port){
+            grid-template-columns: repeat(2,25rem);
+        }
+        @include respond(phone){
+            grid-template-columns: repeat(2,16.8rem);
+        }
     }
-  
+    &__text{
+        text-align: center
+    }
     &__btn{
         @include moretButton();
         margin-bottom: 6.8rem;
         margin-top: 9.8rem;
         position: relative;
         padding-left: 1.5rem;
+        @include respond(small-tab){
+            margin-top: 3.4rem;
 
+
+        }
         &::before{
             @include moretButtonBefore();
             width: 3rem;

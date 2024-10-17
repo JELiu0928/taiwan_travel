@@ -1,13 +1,20 @@
 @import "../styles/base";
 .areaChoose{
-    display: flex;
+    display: grid;
     width: 100%;
     height: 100%;
     justify-content: center;
-    flex-wrap: wrap;
+    // grid-template-columns: repeat(auto-fill,minmax(20rem,1fr));
+    // grid-template-columns: repeat(10,1fr);
+    // flex-wrap: wrap;
+
 
     @include respond(small-tab){
-        width: 80%;   
+    //     width: 80%;   
+    }
+    @include respond(phone){
+        grid-template-columns: repeat(3,1fr);
+        gap: 1rem;
     }
     &__area{
         list-style: none;

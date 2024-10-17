@@ -14,26 +14,50 @@
     background-color: #fff;
     border: none;
     cursor: pointer;
-
+    @include respond(phone){
+        // background-color: transparent;
+    }
     &--active{
         & > span{
             color: $color-primary;
         }
+        
+        color: #fff;
     }
- 
+    &-capsule{
+        list-style: none;
+        & > button:not(.cityCard--active){
+            color: #000;
+            
+            background-color: transparent;
+            &::before{
+                content: '';
+                background-color: transparent;
+
+            }
+        }
+        & > button{
+            @include capsuleBtn();
+            padding-bottom: 0rem;
+            background-color: #10CC9F;
+        
+        }
+    }
     &__outer{
-        display: flex;
+        display: grid;
         gap: 3.5rem;
-        flex-wrap: wrap;
-        justify-content: center;
-        // flex: 0;     
-        width: 100%;   
+        grid-template-columns: repeat(5,1fr);
+
         @include respond(tab-port){
-            width: 65%;   
+            gap: 2rem;
 
         }
         @include respond(small-tab){
-            width: 80%;   
+            gap: 3rem;
+            grid-template-columns: repeat(3,1fr);
+        }
+        @include respond(phone){
+            gap: 1rem;
         }
 
     }
@@ -48,6 +72,7 @@
         background-image:linear-gradient(to right bottom,$color-gradient-1,$color-gradient-2);
         @include flexCenter;
         // margin-bottom: .876rem;
+        
     }
     &__icon{
         filter:invert(.99);

@@ -2,10 +2,14 @@ import React, { useEffect, useState } from 'react'
 import styles from './commonCard.module.scss'
 import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faLocationDot,faPhone} from '@fortawesome/free-solid-svg-icons'
+import useMedia, { LAYOUT }  from '../../hook/useMedia'
+
 
 // import activityData from '../../data/activity01.json'
 const CommonCard = (props) => {
-    const { data,activityData,type,accommodationData,attractionData,eventData,cityData,cityENName} = props
+    const layout = useMedia()
+    const { data,activityData,type,accommodationData,attractionData,eventData,cityData,cityName} = props
+    // console.log("city====>",cityName)
     // console.log('cityData_type',data && data )
     // const {} = props
     // const [cardType,setCardType] = useState('')
@@ -26,7 +30,7 @@ const CommonCard = (props) => {
     const renderContent = ()=>{
         switch(type){
             case 'attraction':
-            case `attraction_${cityENName}`:   
+            case `attraction_${cityName && cityName.EN}`:   
                 // pic = data ? data.Picture.PictureUrl1 : "/img/test.jpg"
                 name = data ? data.ScenicSpotName : "data not found"
                 // fullAddress = data && `${data.PostalAddress.City}${data.PostalAddress.Town}${data.PostalAddress.StreetAddress}`
@@ -36,9 +40,12 @@ const CommonCard = (props) => {
                 }
                 // console.log('address',address)
                 description = data ? data.Description :"未提供描述"
-                let textLength = 100
-                if(description.length >= textLength){
-                    description = description.substring(0,textLength) + "..."
+               
+                if(layout !== LAYOUT.PHONE || description.length >= 100){
+                    description = description.substring(0,100) + "..."
+                }else{
+                    description = description.substring(0,30) + "..."
+
                 }
 
                 return ( <>
@@ -53,8 +60,8 @@ const CommonCard = (props) => {
                 )
                 // break;
             case 'activity':
-            case `activity_${cityENName}`:    
-                name = data ? data.ActivityName :"data not found"
+            case `activity_${cityName && cityName.EN}`:    
+                name = data ? data.ActivityName || data.ScenicSpotName :"data not found"
                 if(data){
                     // console.log('activityData',activityData)
                     let arr = Object.entries(data) // 將物件的{key:value,key:value}=>[[key:value],[key:value]]
@@ -63,13 +70,13 @@ const CommonCard = (props) => {
                 city = data ? data.City :"錯誤"
                 return (
                     <>
-                    <h3 className={styles["commonCard__text-main"]} style={{display:"block", marginBottom:".1rem"}}>{name}</h3>
+                    <h3 className={styles["commonCard__text-main"]} style={{display:"block", marginBottom:".1rem"}}>{name }</h3>
                     <span className={styles["commonCard__text-sub"]} >{address} </span>
                     </>
                 )
                 // break;
             case 'accommodation':
-            case `accommodation_${cityENName}`:   
+            case `accommodation_${cityName && cityName.EN}`:   
                 // pic = data ? data.Picture.PictureUrl1 : "/img/test.jpg"
                 name = data ? data.HotelName : "data not found"
                 // address = data ? data.Address :"地址未提供"
@@ -112,19 +119,23 @@ const CommonCard = (props) => {
             <div className={styles.commonCard__text}>
                 { renderContent() }
             </div>
-            <div className={styles["commonCard__tag-zone"]}>
-                <div className={styles["commonCard__tag-zone--keyword"]}>
-                    {
-                        tags.map( (tag,i) =>{
-                            return (
-                                <span key={i}>{tag[1].slice(0,2)}</span>
-                            )    
-                        })
-                    }
-                    
-                </div>
-                <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
-            </div>
+            {
+                 type.startsWith("activity") ? (
+                    <div className={styles["commonCard__tag-zone"]}>
+                        <div className={styles["commonCard__tag-zone--keyword"]}>
+                            {
+                                tags.map( (tag,i) =>{
+                                    return (
+                                        <span key={i}>{tag[1].slice(0,2)}</span>
+                                    )    
+                                })
+                            }
+                            
+                        </div>
+                        <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
+                    </div> 
+                ): ""
+            }
            
         </div>   
         </>
