@@ -7,7 +7,7 @@
     // border: 1px red solid;
     display: flex;
     flex-direction: column;
-    box-shadow: 0 .4rem 3rem rgba(0, 0, 0, 0.04);
+    box-shadow: 0 .4rem 3rem rgba(0, 0, 0, 0.1);
     // flex: 0 29rem;
 
     // max-width: 1000px;
@@ -22,9 +22,7 @@
     }
     &__img{
         height: 24.3rem;
-        @include respond(tab-port){  
-            height: 20rem;    
-        }
+        @include respond(tab-port){height: 20rem;    }
         @include respond(phone){
             height: 14rem;    
     

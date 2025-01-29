@@ -7,7 +7,6 @@ import {faPlay,faCaretDown} from '@fortawesome/free-solid-svg-icons'
 import AreaCard from './UI/AreaCard';
 import CityChoose from './CityChoose';
 import CommonCard from './UI/CommonCard';
-import CommonCardLong from './UI/CommonCardLong';
 import FoodCard from './UI/FoodCard';
 import CardIndicator from './UI/CardIndicator';
 import Footer from './Footer';
@@ -50,7 +49,7 @@ const City = () => {
     // https://tdx.transportdata.tw/api/basic/v2/Tourism/Hotel/Taichung?%24top=50&%24format=JSON
    
     useEffect(()=>{
-        // console.log(selectedArea.area)
+        console.log(selectedArea.area)
         // 景點
         // let newAttractionData = [...attractionTaoyuan]
         // newAttractionData.sort(()=> Math.random() - 0.5) // 將一個array作亂數排序
@@ -112,7 +111,7 @@ const City = () => {
         // 線上API (直接fetch)：待測試
         // fetchAndRandomDatas(`https://tdx.transportdata.tw/api/basic/v2/Tourism/Hotel/${cityName.EN}?%24top=100&%24skip=500&%24format=JSON`,
         //     setCityAccommodationData,0,12)
-        // console.log('根據縣市變化查API...',cityName.EN)
+        console.log('根據縣市變化查API...',cityName.EN)
 
 
         // console.log('activityData',activityData)
@@ -156,21 +155,21 @@ const City = () => {
             setAccommodationCardOffset(0)
         }else if(window.innerWidth < 750){
             // setOffsetPiece(5)
-            // console.log("==================我小於750")
+            console.log("==================我小於750")
             let cardType = foodRef && foodRef.current.getAttribute("data-card-type")
             cardType = "food"
 
             if(activeCardType == "food"){
                 setOffsetPiece(6)
                 // console.log("我有執行嗎",foodRef.current.getAttribute("data-card-type"))
-                // console.log("===========================我是foodCard",cardType)
+                console.log("===========================我是foodCard",cardType)
             }else if(cardType == "common"){
                 setOffsetPiece(5)
                 // console.log("==============activeCardType==============我是CommonCard",activeCardType)
-                // console.log("===========================我是CommonCard",cardType)
+                console.log("===========================我是CommonCard",cardType)
             }else{
                 setOffsetPiece(5)
-                // console.log("===========================我是else",cardType)
+                console.log("===========================我是else",cardType)
 
             }
         }
@@ -303,7 +302,7 @@ const City = () => {
         const observerOption = {threshold:.2}
         const observer = new IntersectionObserver((entries)=>{
             entries.forEach((entry)=>{
-                // console.log(entry)
+                console.log(entry)
                 if(entry.isIntersecting){
                     // console.log(entry.target)
                     entry.target.classList.add(styles['slide-up--show'])
@@ -326,55 +325,6 @@ const City = () => {
         }
     }
     const chooseCity = useRef(null)
-
-    const [windowWidth, setWindowWidth] = useState(window.innerWidth);
-    const swiperRef = useRef(null);
-
-    // 監聽視窗大小變化
-    useEffect(() => {
-        const handleResize = () => {
-            setWindowWidth(window.innerWidth); // 更新寬度
-        };
-
-        window.addEventListener('resize', handleResize);
-
-        return () => {
-            window.removeEventListener('resize', handleResize);
-        };
-    }, []);
-
-    // 在寬度變化時觸發更新 Swiper
-    useEffect(() => {
-        console.log('current',swiperRef.current)
-        if (swiperRef.current) {
-            console.log('update');
-            swiperRef.current.swiper.update(); // 強制更新 Swiper
-        }
-        console.log(windowWidth);
-    }, [windowWidth]); // 每次 windowWidth 變化時更新
-    // const [containerStyle,setContainerStyle] = useState({ width: 'calc(29rem *4 + 2.5rem *3 + 3rem)' })
-    // // const containerSizeStyles = {
-    // //     'city-large4' :  { width: 'calc(29rem *4 + 2.5rem *3 + 3rem)' },//126.5
-    // //     'city-large3' :  { width: 'calc(29rem *3 + 2.5rem *2 + 3rem)' }, //95
-    // //     'city-large2' :  { width: 'calc(29rem *2 + 1.5rem *1 + 3rem)'}, //62.5
-    // //     'city-medium2' :  { width: '25rem *2 + 1.5rem *1 + 3rem)'}, //54.5
-    // // };
-    // // console.log('layout',layout,'containerStyle',containerStyle)
-    // // useEffect(() => {
-    // //     if (layout === LAYOUT.MID_DESKTOP) {
-    // //         setContainerStyle(containerSizeStyles['city-large3']);
-    // //     }else if(layout === LAYOUT.TAB_PORT){
-    // //         setContainerStyle(containerSizeStyles['city-large2']);
-    // //     }else if(layout === LAYOUT.SMALL_TAB){
-    // //         setContainerStyle(containerSizeStyles['city-medium2']);
-    // //     }else{
-    // //         setContainerStyle(containerSizeStyles['city-large4']);
-
-    // //     }
-    // // // 你可以根據需要對其他 layout 進行設定
-    // // }, [layout]); // 只有當 layout 改變時才會執行
-    // let containerStyle = containerSizeStyles['city-large4']
-    // console.log('0000',layout)
     return (
         <>
         <Header/>
@@ -430,63 +380,28 @@ const City = () => {
                     <span>{cityName.ZH}</span>
                     <span>景點介紹</span>
                 </h2>
-                <div className={styles["city__attraction-card--container"]} >
-                        {/* <div className={styles["city__attraction-cardOuter"]}> */}
-                    <div className={styles["city__attraction-card"]} ref={attractionRef} data-card-type="common" >
-                        
-                        <Swiper
-                            modules={[Grid, Navigation, Pagination]}
-                            navigation={{
-                                prevEl: `.prev-attraction`,
-                                nextEl: `.next-attraction`,
-                            }}
-                            breakpoints={{
-                                1300: {
-                                    slidesPerView: 4,
-                                    spaceBetween:25 
-                                },
-                                1000: {
-                                    slidesPerView: 3, 
-                                    spaceBetween:25 
-                                },
-                                480: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:15 
-                                },
-                                0: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:10 
-                                },
-                            }}
-                            pagination={{
-                                el: `.attraction--pagination`,
-                                clickable: true, 
-                                type: 'bullets',
-                            }}
-                            slidesPerGroup={1}    
-                            >
-                            {
-                                attractionTaoyuan && cityAttractionData.map((item,i)=>(
-                                    <SwiperSlide key={i} >
-                                        <CommonCardLong cityData={item} data={item} key={i} type={"attraction"} size={'city-large'} />
-                                    </SwiperSlide>
-                                ))
-                            }
-                        </Swiper>
-                        </div>
-
-                    {/* </div> */}
+                <div className={styles["city__attraction-card--container"]}>
+                    <div className={styles["city__attraction-card"]} ref={attractionRef} data-card-type="common" style={{ transform: `translateX(${attractionOffset}px)`}}>
+                        {
+                            attractionTaoyuan && cityAttractionData.map((item,i)=>{
+                                return <CommonCard cityData={item} data={item} key={i} type={"attraction"}/>
+                            })
+                        }
+                    </div>
                 </div>
-        
-                <button className={`prev-attraction ${styles["city__attraction--leftBtn"]} ${styles["city__attraction--btn"]}`}>
-                    <FontAwesomeIcon icon={faPlay} /></button>
-                <button className={`next-attraction ${styles["city__attraction--rightBtn"]} ${styles["city__attraction--btn"]}`}>
+                <button 
+                    onClick={attractionMoveLeft}
+                    className={`${styles["city__attraction--leftBtn"]} ${styles["city__attraction--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
-                <div className={`attraction--pagination ${styles["city__attraction--pagination"]}`}></div>
+                <button 
+                    onClick={attractionMoveRight}
+                    className={`${styles["city__attraction--rightBtn"]} ${styles["city__attraction--btn"]}`}>
+                    <FontAwesomeIcon icon={faPlay}/></button>
+                <CardIndicator type={"common"}
+                    spanIndexActive={attractionSpanIndexActive}
+                    setSpanIndexActive={setAttractionSpanIndexActive}/>
             </div>
         </section>
-
-
         <section className={`${styles.container} ${styles['slide-up']}`} ref={addToslideUpRef}>
             <div className={styles["city__activity"]}>
                 <h2 className={styles["city__attraction-text"]}>
@@ -494,79 +409,26 @@ const City = () => {
                     <span>特色活動</span>
                 </h2>
                 <div className={styles["city__activity-card--container"]}>
-                    <div className={styles["city__activity-card"]} ref={activityRef} data-card-type="common" >
-                        <Swiper
-                            modules={[Grid, Navigation, Pagination]}
-                            navigation={{
-                                prevEl: `.prev-activity`,
-                                nextEl: `.next-activity`,
-                            }}
-                            grid={{
-                                rows: 2,
-                                fill: "row", 
-                            }}
-                            pagination={{
-                                el: '.activity--pagination',
-                                clickable: true, 
-                                type: 'bullets',
-                            }}
-                            breakpoints={{
-                                1300: {
-                                    slidesPerView: 4,
-                                    spaceBetween:25,
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                1000: {
-                                    slidesPerView: 3, 
-                                    spaceBetween:25,
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                480: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:15, 
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                0: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:10, 
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                            }}
-                            // spaceBetween={20} 
-                            // slidesPerView={4}
-                            slidesPerGroup={2}    
-                        >
+                    {/* <div className={styles["city__activity-card"]} style={{ transform:`translateX(${activityCardOffset}px)`}}> */}
+                    <div className={styles["city__activity-card"]} ref={activityRef} data-card-type="common" style={{ transform:`translateX(${activityCardOffset}px)`}}>
                         {
-                            activityTaipei && cityActivityData.map((item,i)=>(
-                                <SwiperSlide key={i} >
-                                    <CommonCard data={item} key={i} type={`activity_${cityName.EN}`} cityName={cityName} size={'large'}/>
-                                </SwiperSlide>
-                            ))
+                            activityTaipei && cityActivityData.map((item,i)=>{
+                                return <CommonCard data={item} key={i} type={`activity_${cityName.EN}`} cityName={cityName}/>
+                            })
                         }
-                        </Swiper>
                     </div>
                 </div>
-                <button className={`prev-activity ${styles["city__activity--leftBtn"]} ${styles["city__activity--btn"]}`}>
+                <button 
+                    onClick={activityMoveLeft}
+                    className={`${styles["city__activity--leftBtn"]} ${styles["city__activity--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
-                <button className={`next-activity ${styles["city__activity--rightBtn"]} ${styles["city__activity--btn"]}`}>
+                <button 
+                    onClick={activityMoveRight}
+                    className={`${styles["city__activity--rightBtn"]} ${styles["city__activity--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
-                <div className={`activity--pagination ${styles["city__activity--pagination"]}`}></div>
-
-                {/* <CardIndicator type={"common"}
+                <CardIndicator type={"common"}
                     spanIndexActive={activitySpanIndexActive}
-                    setSpanIndexActive={setActivitySpanIndexActive}/> */}
+                    setSpanIndexActive={setActivitySpanIndexActive}/>
             </div>
         </section>
         <section className={`${styles["city__food--outer"]} ${styles['slide-up']}`} ref={addToslideUpRef}>
@@ -577,87 +439,23 @@ const City = () => {
                     <span>餐飲美食</span>
                 </h2>
                 <div className={styles["city__food-card--container"]}>
-                    <div className={styles["city__food-card"]} ref={foodRef} data-card-type="food" >
-                        <Swiper modules={[Grid, Navigation, Pagination]}
-                            navigation={{
-                                prevEl: `.prev-food`,
-                                nextEl: `.next-food`,
-                            }}
-                            breakpoints={{
-                                // 1700: {
-                                //     slidesPerView: 5,
-                                //     spaceBetween:20,
-                                //     grid:{
-                                //         rows: 2,
-                                //         fill: "row", 
-                                //     }
-                                // },
-                                1300: {
-                                    slidesPerView: 5,
-                                    // spaceBetween:10,
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                1000: {
-                                    slidesPerView: 4, 
-                                    // spaceBetween:20,
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                750: {
-                                    slidesPerView: 3,   
-                                    // spaceBetween:20, 
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                // 750: {
-                                //     slidesPerView: 3,   
-                                //     // spaceBetween:20, 
-                                //     grid:{
-                                //         rows: 2,
-                                //         fill: "row", 
-                                //     }
-                                // },
-                                0: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:10, 
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                            }}
-                            pagination={{
-                                el: '.food--pagination',
-                                clickable: true, 
-                                type: 'bullets',
-                            }}
-                            spaceBetween={10}
-                            slidesPerGroup={2}    
-                        >
+                    <div className={styles["city__food-card"]} ref={foodRef} data-card-type="food" style={{ transform: `translateX(${foodCardOffset}px)`}}>
                         {
-                             foodTaichung && cityFoodData.map((item,i)=> (
-                                <SwiperSlide key={i} >
-                                    <FoodCard foodData={item} key={i} size={'medium'} type={'city-food'}/>
-                                </SwiperSlide>
-                            ))
+                            foodTaichung && cityFoodData.map((item,i)=> <FoodCard foodData={item} key={i} />)
                         }
-                        </Swiper>
                     </div>
                 </div>
                 <button 
-                    className={`prev-food ${styles["city__food--leftBtn"]} ${styles["city__food--btn"]}`}>
+                    onClick={foodMoveLeft}
+                    className={`${styles["city__food--leftBtn"]} ${styles["city__food--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
                 <button 
-                    className={`next-food ${styles["city__food--rightBtn"]} ${styles["city__food--btn"]}`}>
+                    onClick={foodMoveRight}
+                    className={`${styles["city__food--rightBtn"]} ${styles["city__food--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
-                <div className={`food--pagination ${styles["city__food--pagination"]}`}></div>
+                <CardIndicator type={"food"}
+                    spanIndexActive={foodSpanIndexActive}
+                    setSpanIndexActive={setFoodSpanIndexActive}/>
             </div>
         </section>
         <section className={`${styles.container} ${styles['slide-up']}`} ref={addToslideUpRef}>
@@ -669,84 +467,24 @@ const City = () => {
                 </h2>
                 <div className={styles["city__accommodation-card--container"]}>
                     <div className={styles["city__accommodation-card"]} ref={accommodationRef} data-card-type="common" style={{ transform: `translateX(${accommodationCardOffset}px)`}}>
-                    {/* {
+                    {
                         accommodationTaichung && cityAccommodationData.map((item,i)=>{
                             return <CommonCard data={item} key={i} type={"accommodation"}/>
                         })
-                    } */}
-                    <Swiper modules={[Grid, Navigation, Pagination]}
-                            navigation={{
-                                prevEl: `.prev-accommodation`,
-                                nextEl: `.next-accommodation`,
-                            }}
-                            grid={{
-                                rows: 2,
-                                fill: "row", 
-                            }}
-                            pagination={{
-                                el: '.accommodation--pagination',
-                                clickable: true, 
-                                type: 'bullets',
-                            }}
-                            breakpoints={{
-                                1300: {
-                                    slidesPerView: 4,
-                                    spaceBetween:25,
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                1000: {
-                                    slidesPerView: 3, 
-                                    spaceBetween:25,
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                480: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:15, 
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                                0: {
-                                    slidesPerView: 2,  
-                                    spaceBetween:10, 
-                                    grid:{
-                                        rows: 2,
-                                        fill: "row", 
-                                    }
-                                },
-                            }}
-                            slidesPerGroup={2}    
-                        >
-                        {
-                             accommodationTaichung && cityAccommodationData.map((item,i)=>(
-                                <SwiperSlide key={i} >
-                                     <CommonCard data={item} key={i} type={"accommodation"}  size={'large'}/>
-                                </SwiperSlide>
-                            ))
-                        }
-                        </Swiper>
+                    }
                     </div>
                 </div>
                 <button 
-                    // onClick={accommodationMoveLeft}
-                    className={`prev-accommodation ${styles["city__accommodation--leftBtn"]} ${styles["city__accommodation--btn"]}`}>
+                    onClick={accommodationMoveLeft}
+                    className={`${styles["city__accommodation--leftBtn"]} ${styles["city__accommodation--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
                 <button 
-                    // onClick={accommodationMoveRight}
-                    className={`next-accommodation ${styles["city__accommodation--rightBtn"]} ${styles["city__accommodation--btn"]}`}>
+                    onClick={accommodationMoveRight}
+                    className={`${styles["city__accommodation--rightBtn"]} ${styles["city__accommodation--btn"]}`}>
                     <FontAwesomeIcon icon={faPlay}/></button>
-                <div className={`accommodation--pagination ${styles["city__accommodation--pagination"]}`}></div>
-
-                {/* <CardIndicator type={"common"}
+                <CardIndicator type={"common"}
                     spanIndexActive={accommodationSpanIndexActive}
-                    setSpanIndexActive={setAccommodationSpanIndexActive}/> */}
+                    setSpanIndexActive={setAccommodationSpanIndexActive}/>
 
             </div>
         </section>

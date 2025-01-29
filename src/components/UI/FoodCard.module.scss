@@ -4,10 +4,11 @@
     // flex: 0 0 14%; 
     // flex: 1 0 23.1rem;
     width: 23.1rem;
+    min-width: 23.1rem;
     height: 35.5rem;    
     position: relative;
     &:last-child{
-        margin-right: 25rem;
+        // margin-right: 25rem;
         @include respond(mid-desktop){
             margin-right: 18rem;
     
@@ -17,10 +18,15 @@
     
         }
     }
-    @include respond(phone){
-        width: 12.3rem;
-        height: 19rem;    
+    @include respond(small-tab){
+        width: 18rem;
+        min-width: 18rem;
+        height: 23rem; 
     }
+    // @include respond(phone){
+    //     width: 12.3rem;
+    //     height: 19rem;    
+    // }
    
     // overflow:hidden;
     &> img{

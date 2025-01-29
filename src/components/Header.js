@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import styles from './header.module.scss'
 import { Link } from 'react-router-dom';
 import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -9,20 +9,44 @@ const Header = () => {
     const layout = useMedia()
     const navListRef = useRef()
     const searchRef = useRef()
-    const [isShowing,setIsShowing] = useState(false)
-    const showMenu = ()=>{
+    const [isMenuShowing,setIsMenuShowing] = useState(false)
+    const menuIconRef = useRef(null)
+    const handleMenuInput = ()=>{
         console.log("hi")
-        setIsShowing((prevValue)=> !prevValue)
+        setIsMenuShowing(menuIconRef.current.checked)
     }
+    useEffect(()=>{
+        const handleResize = ()=>{
+            if(layout != LAYOUT.SMALL_TAB && layout != LAYOUT.PHONE){
+                setIsMenuShowing(false) //漢堡不見時關閉菜單
+            }
+        }
+        window.addEventListener('resize',handleResize)
+        return ()=>{
+            window.removeEventListener('resize',handleResize)
+        }
+    })
+
+
     return (
         <header className={styles.header}>
             {/* <div className={styles["header__logo-wrap"]}> */}
-            <div >
+            <div className={styles.header__zone}>
                 <Link to={"/"}>
                     <img src="/img/LOGO.png" alt="TAIWAN GO LOGO" className={styles.header__logo}/>
                 </Link>
+                {
+                    // onClick={showMenu}
+                    layout === LAYOUT.SMALL_TAB || layout === LAYOUT.PHONE ? (
+                        <div className={styles.header__menu} >
+                            <input id="menuIcon" ref={menuIconRef} type='checkbox'
+                            className={styles["header__menu--btn"]} onChange={handleMenuInput} />
+                            <label htmlFor="menuIcon" className={styles["header__menu--icon"]}><span></span></label>
+                        </div>
+                        ) : ""
+                }
             </div> 
-            <div className={styles.header__nav} style={isShowing ? { opacity:1,maxHeight:"500px",transform: "scaleY(1)",pointerEvents: "auto"} : {pointerEvents: "none"}}>
+            <div className={`${styles.header__nav} ${isMenuShowing ? styles['header__nav--open']:''}`}>
                {/*  */}
                 <nav className={styles["header__navList-wrap"]}  ref={navListRef}>
                     <ul className={styles.header__navList}>
@@ -35,13 +59,8 @@ const Header = () => {
                     <input type="text" placeholder="搜尋關鍵字..." className={styles["header__search-input"]}/>
                     <FontAwesomeIcon icon={faMagnifyingGlass} className={styles["header__search-icon"]}/>
                 </div>
+            
             </div>
-            {
-                layout === LAYOUT.SMALL_TAB || layout === LAYOUT.PHONE ? (
-                    <div className={styles["header__menu--btn"]} onClick={showMenu}>
-                        <span className={styles["header__menu--icon"]}>&nbsp;</span>
-                    </div>) : ""
-            }
         </header>
     )
 }

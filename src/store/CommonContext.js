@@ -6,7 +6,7 @@ const RegionContext = React.createContext({
     selectedCity:'Taipei',
     setSelectedCity:() => {},
     fetchDatas:()=>{},
-    filterAndRandomData:() => {},
+    fetchAndRandomDatas:() => {},
     spanIndexActive: 0,
     setSpanIndexActive:() => {},
     offsetpiece:3,

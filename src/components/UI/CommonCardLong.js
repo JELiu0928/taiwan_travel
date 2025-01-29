@@ -1,41 +1,37 @@
 import React, { useEffect, useState } from 'react'
+// import styles from './commonCardLong.module.scss'
 import styles from './commonCard.module.scss'
 import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faLocationDot,faPhone} from '@fortawesome/free-solid-svg-icons'
 import useMedia, { LAYOUT }  from '../../hook/useMedia'
 const sizeStyles = {
-    large: { width: '29rem',minWidth: '29rem', minHeight: '35rem' },
-    medium:  { width: '25rem',minWidth: '25rem', minHeight: '30rem' },
-    small: { width: '20rem',minWidth: '20rem', minHeight: '22rem' },
-    xsmall: { width: '18rem',minWidth: '18rem', minHeight: '28.2rem'},
-
+    'city-large' :  { width: '29rem',minWidth: '29rem', minHeight: '42rem' },
+    'city-medium' :  { width: '25rem',minWidth: '25rem', minHeight: '38rem' },
+    'city-small' :  { width: '20rem',minWidth: '20rem', minHeight: '22rem' },
+    'city-xsmall' :  { width: '18rem',minWidth: '18rem', minHeight: '28.2rem'  },
 };
 
 
 
 // import activityData from '../../data/activity01.json'
-const CommonCard = (props) => {
-    
+const CommonCardLong = (props) => {
     const layout = useMedia()
     const { data,activityData,type,accommodationData,attractionData,eventData,cityData,cityName,size = 'large'} = props
     let cardSize = sizeStyles[size] || sizeStyles.large; // 默認為 'medium'
     // console.log('type',type);
-    if(layout === LAYOUT.TAB_PORT){
-        cardSize = sizeStyles['medium']
-    }else if(layout === LAYOUT.SMALL_TAB ){
-        console.log('SMALL_TAB')
-        cardSize = sizeStyles['medium']
-    } 
-    else if(layout === LAYOUT.PHONE ){
-        console.log('PHONE')
-        cardSize = sizeStyles['small']
+    if(layout === LAYOUT.SMALL_TAB && type == 'attraction'){
+        cardSize = sizeStyles['city-medium']
+    }else if(layout === LAYOUT.PHONE && type == 'attraction'){
+        cardSize = sizeStyles['city-small']
     }else if(layout === LAYOUT.SMALL_PHONE){
-        cardSize = sizeStyles['xsmall']
-    }else{
-        cardSize = sizeStyles['large']
-
+        cardSize = sizeStyles['city-xsmall']
     }
-    
+
+ 
+    // console.log("city====>",cityName)
+    // console.log('cityData_type',data && data )
+    // const {} = props
+    // const [cardType,setCardType] = useState('')
     
     // if(accommodationData){
     //     accommodationData = accommodationData.filter((item)=> item.Picture && item.Picture.length > 0)
@@ -43,7 +39,10 @@ const CommonCard = (props) => {
     // attractionData && console.log('CommonCard-->attractiondata',attractionData.Images)
     let pic,name,address,city,description,fullAddress,tel;
     let tags = []
-   
+    // useEffect(()=>{
+        
+
+    // })
     
     pic = data ? data.Picture.PictureUrl1 : "/img/test.jpg"
     address = data ? data.Address :"地址未提供"
@@ -62,11 +61,13 @@ const CommonCard = (props) => {
                 // console.log('address',address)
                 description = data ? (data.Description || data.DescriptionDetail) : "未提供描述"
                
-                if(layout !== LAYOUT.PHONE || description.length >= 100){
-                    description = description.substring(0,100) + "..." 
-                }else{
+                // if(layout !== LAYOUT.PHONE || description.length >= 100){
+                if(layout == LAYOUT.SMALL_PHONE ){
+                    description = description.substring(0,10) + "..." 
+                }else if(layout == LAYOUT.PHONE ){
                     description = description.substring(0,30) + "..." 
-
+                }else{
+                    description = description.substring(0,100) + "..." 
                 }
 
                 return ( <>
@@ -103,7 +104,7 @@ const CommonCard = (props) => {
                 // address = data ? data.Address :"地址未提供"
                 tel = data ?  data.Phone.replace('886-','0') : "電話未提供"
                 // console.log(data.phone)
-                
+            
                 return (
                     <>
                     <h3 className={styles["commonCard__text-main"]} style={{display:"block", marginBottom:".1rem"}}>{name}</h3>
@@ -114,7 +115,7 @@ const CommonCard = (props) => {
                     </>
                 )
             default:
-                return ''
+                return '';
         }
     }
     
@@ -220,4 +221,4 @@ const CommonCard = (props) => {
     
 }
 
-export default CommonCard;
+export default CommonCardLong;

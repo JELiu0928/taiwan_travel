@@ -1,5 +1,5 @@
 @import "../styles/base";
-.areaChoose{
+.cityChoose{
     display: grid;
     width: 100%;
     height: 100%;
@@ -18,7 +18,7 @@
     }
     &__area{
         list-style: none;
-        &>button:not(.areaChoose__area--active){
+        &>button:not(.cityChoose__area--active){
             background-color: transparent;
             &::before{
                 content: '';

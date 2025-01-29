@@ -1,6 +1,9 @@
 @import "../../styles/base";
-.cityCard{
-    
+@import "../../styles/animation";
+.areaCard{
+    animation: slideUp 1s ease-in-out backwards var(--delay);
+    // transform: translateY(0rem);
+        
     position: relative;
     width: 12.3rem;
     height: 15.1rem;
@@ -26,7 +29,7 @@
     }
     &-capsule{
         list-style: none;
-        & > button:not(.cityCard--active){
+        & > button:not(.areaCard--active){
             color: #000;
             
             background-color: transparent;

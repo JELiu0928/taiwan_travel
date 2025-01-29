@@ -68,9 +68,7 @@ main{
 
 .cityChoose{
     position: relative;
-    // display: flex;
     padding-top: 9.2rem;
-    // width: 81%;
     height: 32.9rem;
     margin-bottom: 15.8rem;
     // @include flexCenter();
@@ -176,9 +174,42 @@ main{
         background: $right-bottom-gradient;
     }
 }
+// .slide-up{
+//     transform: translateY(20rem);
+//     transition: 1.5s;
+//     opacity: 0;
+//     &--show{
+//         transform: translateY(0rem);
+//         opacity: 1;
+//     }
+// }
+// .slide-left{
+//     transform: translateX(100rem);
+//     // transition: 2s;
+//     transition: transform 1s cubic-bezier(1,.46,.54,1.2);
+//     opacity: 0;
+//     @media (max-width: 1000px) {
+//         transform: translateX(30rem);
+//         // transition: 1.5s;
+//         transition: transform 1s cubic-bezier(.05,.82,.89,1.29);
 
+//         opacity: 0;
+//     }
+//     &--show{
+//         transform: translateX(0rem);
+//         opacity: 1;
+//     }
+// }
 .activity{
-  
+    // &__outer{
+    //     transform: translateY(30rem);
+    //     transition: 1.5s;
+    //     opacity: 0;
+    //     &--show{
+    //         transform: translateY(0rem);
+    //         opacity: 1;
+    //     }
+    // }
     @include flexCenter;
 
     @include respond(mid-desktop){
@@ -199,7 +230,7 @@ main{
             grid-template-columns: repeat(2,25rem);
         }
         @include respond(phone){
-            grid-template-columns: repeat(2,16.8rem);
+            grid-template-columns: repeat(2,20rem);
         }
     }
     &__text{
@@ -227,13 +258,27 @@ main{
     }
 
 }
+:global {
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        background: $color-primary;
+        height: 8px;
+        width: 30px;
+        border-radius: 3rem;
+        transition: width .5s;
+        transform-origin:left;
+        
+    }
+    
+}
 .tasty{
     position: relative;
     display: flex;
     height: 48.4rem; 
     // flex-direction: column;
     align-items: center;
-    // justify-content: center;
+    justify-content: center;
+    // max-width: 1800;
+    width: 100vw;
     @include respond(small-tab){
         flex-direction: column;
         align-items: center;
@@ -243,20 +288,46 @@ main{
         justify-content: space-evenly;
         // order: 2;
     }
-    @include respond(small-tab){
-        align-items: flex-start;
-        
+   
+   
+    &__pagination{
+        display: block;
+        margin: 20px;
+        @include respond(small-tab){
+            // display: none;
+            text-align: center;
+            margin: 0;
+            position: absolute;
+            bottom: -26rem !important;  // 強制覆蓋預設樣式
+            // left: 20px !important;    // 強制覆蓋預設樣式
+            // width: auto !important;
+        }
     }
     &__text{
-
-        margin-left: 10.3rem;
-        margin-right: 11.1rem;
+        // width: 30rem;
+        // text-align: center;
+        // margin-left: 10.3rem;
+        // margin-right: 11.1rem;
+        flex-shrink: 0;      
+        flex-grow: 0;  
+        display: flex;
+        // justify-content: center;
+        margin-right: 6%;
+        // padding: 0 10rem;
+        &-inner{
+            @include respond(small-tab){
+                position: relative;
+            }
+        }
+        @include respond(tab-land){
+            margin-right: 4%;
+        }
         @include respond(tab-port){
-            margin: 0 8rem;
+            // margin: 0 8rem;
         }
         @include respond(small-tab){
-            // margin: 0 5rem;
-            align-self: center;
+            margin: 0;
+            // align-self: center;
         }
     }
     &::after{
@@ -284,9 +355,8 @@ main{
         position: relative;
         padding-left: 1.5rem;
         @include respond(small-tab){
-            margin: 3.4rem;
+            margin: 5rem;
             align-self: center;
-            // align-self: flex-start;
         }
         &::before{
             @include moretButtonBefore();
@@ -297,85 +367,110 @@ main{
         }
     }
     &__foodCard{
-        flex:1;
         // width: 100vw;
         &-container{
+            flex:1;
+            // overflow: hidden;
             display: flex;
-            // align-items: center;
-            // justify-content: center;
-            // max-width: (23.1rem *6 + 23.1rem/3);
-            // width:85vw;
+            align-items: center;
+            justify-content: center;
+            max-width: (23.1rem *4 + 2rem *3 );
+            position: relative;
+            // margin-right: 10rem;
+      
+
             width: 100%;
-            padding-right: 10%;
             @include respond(mid-desktop){
-                width: 90%;
+                max-width: (23.1rem *3 + 2rem *2 );
+            }
+            @include respond(tab-land){
+                max-width: (23.1rem *3 + 2rem *2 );
+            }
+            @include respond(tab-port){
+                max-width: (23.1rem *2 + 2rem );
             }
             @include respond(small-tab){
-                width: 100%;
-                padding-right: 0;
+                max-width: (23.1rem *2 + 2rem *1 );
+            }
+            @include respond(phone){
+                max-width: (20rem *2 + 1rem);
             }
             
-            @include respond(phone){
-                width: 100%;
-                // margin-left: 2rem;
-               
+            // @include respond(phone){
+            //     width: 100%;
+            //     // margin-left: 2rem;
 
-            }
+            // }
             &--wrap{
-                width: 100vw;
-                display: grid;
-                gap: 2rem;
-                grid-template-columns: repeat(10,1fr);
+                // width: 100vw;
+                // box-sizing: border-box;
+                width: 100%;
+
+                // display: grid;
+                // gap: 2rem;
+                // grid-template-columns: repeat(10,1fr);
                 // overflow-x: hidden;
                 // overflow-y: hidden;
-                overflow: auto;
-                scroll-behavior: smooth;
-                @include respond(small-tab){
-                    // justify-content: center;
-                    margin-left: 2rem;
+                // overflow: auto;
+                // overflow: hidden;
+                // scroll-behavior: smooth;
+                // @include respond(small-tab){
+                //     // justify-content: center;
+                //     margin-left: 2rem;
     
-                }
-                @include respond(phone){
-                    // justify-content: flex-start;
-                    gap: 1rem;
-                    // max-width: ;
-                    margin-left: 2rem;
-                    padding-right: 2rem;
+                // }
+                // @include respond(phone){
+                //     // justify-content: flex-start;
+                //     gap: 1rem;
+                //     // max-width: ;
+                //     margin-left: 2rem;
+                //     padding-right: 2rem;
 
-                }
+                // }
             }
         }
       
         &--btn{
             @include directionButton();
-            @include respond(phone){
+            @include respond(small-tab){
                 display: none  
             }
+          
         }
         &--leftBtn{
             @include leftButton();
-            
-            left: 31.5rem;
-            // top: 6.5rem;
-            bottom: 31rem;
-
+            left: (-7.2rem /2);
+            top: 6rem;
+            z-index: 2;
             @include respond(tab-port){
-                left: 26rem;
-
+                // left: 26rem;
             }
-            @include respond(small-tab){
-                left: 7.5rem;
-                top: 15rem;
-            }
+            // @include respond(small-tab){
+            //     // display: none  
+            //     background-color:transparent;
+            //     box-shadow: none;
+            //     left: -6rem;
+            //     top: 50%;
+            //     transform:  scaleX(-1) translateY(-50%);
+            // }
+            // @include respond(small-tab){
+            //     left: 7.5rem;
+            //     top: 15rem;
+            // }
         }
         &--rightBtn{
             @include rightButton();
-            right: (7.2rem /2);
-            bottom: 10rem;
-            @include respond(small-tab){
-                right: 9.5rem;
-                bottom: 15rem;
-            }
+            right: (-7.2rem /2);
+            // right: 8.5rem;
+            bottom: 6rem;
+            // @include respond(small-tab){
+            //     color: $color-primary;
+            //     background:transparent;
+            //     box-shadow: none;
+            //     right: -6rem;
+            //     top: 50%;
+            //     transform: translateY(-50%);
+            // }
         }
     }
 }
@@ -406,6 +501,9 @@ main{
         & > div:nth-child(even){
             transform: translateY(3rem);
         }
+        @include respond(tab-land){
+            gap: 1.6rem;
+        }
         @include respond(mid-desktop){
             grid-template-columns: repeat(2,29rem);
           
@@ -417,7 +515,7 @@ main{
             grid-template-columns: repeat(2,25rem);
         }
         @include respond(phone){
-            grid-template-columns: repeat(2,16.8rem);
+            grid-template-columns: repeat(2,20rem);
         }
     }
     &__text{

@@ -6,7 +6,7 @@ import {faPlay} from '@fortawesome/free-solid-svg-icons'
 import styles from './activity.module.scss';
 import CommonCard from './UI/CommonCard';
 import Footer from './Footer';
-import AreaChoose from './AreaChoose';
+import CityChoose from './CityChoose';
 import PageNumber from './UI/PageNumber';
 
 const Activity = () => {
@@ -44,7 +44,7 @@ const Activity = () => {
                     </ul>
                 {/* </div> */}
                 <div className={styles["activity__Choose-city"]}>
-                    <AreaChoose/>
+                    <CityChoose/>
                 </div>
             </div>
 

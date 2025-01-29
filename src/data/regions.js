@@ -6,7 +6,7 @@ const regionsAndCities = {
         { city: "Keelung", name: "基隆市" },
         { city: "Taoyuan", name: "桃園市" },
         { city: "YilanCounty", name: "宜蘭縣" },
-        { city: "HsinchuCity", name: "新竹市" },
+        { city: "Hsinchu", name: "新竹市" },
         { city: "HsinchuCounty", name: "新竹縣" },
     ],
     east: [
@@ -24,13 +24,13 @@ const regionsAndCities = {
         { city: "Tainan", name: "台南市" },
         { city: "Kaohsiung", name: "高雄市" },
         { city: "PingtungCounty", name: "屏東縣" },
-        { city: "ChiayiCity", name: "嘉義市" },
+        { city: "Chiayi", name: "嘉義市" },
         { city: "ChiayiCounty", name: "嘉義縣" },
     ],
     islands: [
         { city: "PenghuCounty", name: "澎湖縣" },
         { city: "KinmenCounty", name: "金門縣" },
-        { city: "Matsu", name: "馬祖" },
+        { city: "LienchiangCounty", name: "連江縣" },
     ],
 };
 const regions = [{

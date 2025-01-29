@@ -1,7 +1,9 @@
 @import "../styles/base";
+@import "../styles/animation";
 body{
     overflow-x: hidden;
 }
+
 .container{
     @include flexCenter();
     flex-direction: column;
@@ -15,7 +17,11 @@ body{
         padding-top: 0;
     }
 }
+
 .city{
+    max-width: 100%;
+    // background-color: red;
+    
     &__banner{
         height: 15rem;
         width: 100%;
@@ -24,10 +30,12 @@ body{
             width: 100%;
             object-fit: cover;
         }
+        
     }
     &__cityChoose{
         text-align: center;
         background-color: $color-tertiary;
+        width: 100%;
         
         @include respond(phone){
             display: flex;
@@ -49,7 +57,7 @@ body{
         align-items: center;
         // width: 90rem;
         flex-wrap: wrap;
-        transition: opacity 1s cubic-bezier(.21,.63,.01,.98), transform .5s cubic-bezier(.21,.63,.01,.98);
+        transition: opacity .8s cubic-bezier(.21,.63,.01,.98), transform 1s cubic-bezier(.21,.63,.01,.98);
         border-radius: 0 0 1rem 1rem ;
         
         @include respond(phone){
@@ -72,13 +80,15 @@ body{
             // height: 2px;
             padding-top: 2rem;
         }
-        &-chooseArea{
+        &-chooseCity{
+            animation: backInRight 1.4s cubic-bezier(0.45, 0.08, 0.56, 1.3) ;
             margin-top: 3.8rem;
             margin-bottom: 6.2rem;
             display: flex;
             justify-content: center;
             @include respond(phone){
                 margin: 3rem 0; 
+                animation: none;
             }
         }
         &-select{
@@ -114,87 +124,109 @@ body{
         }
     }
     &__attraction{
+        :global{
+            .swiper {
+                overflow: visible;
+            }
+        }
         position: relative;
         // width: (29rem *4 + 2.5rem*3);
         // overflow: hidden;
+        // &-cardOuter{
+        //     margin: 0;
+        // }
         &-text{
             padding-top: 2.5rem;
             padding-left: 2.5rem;
             & > span{
                 font-size: 2.6rem;
                 font-weight: 500;
+                @include respond(phone){
+                    font-size: 2.2rem;
+                }
             }
             & > span:first-child{
                 color: $color-primary;
                 padding-right: 1.5rem;
             }
+            
         }
         &-card{
-            display: grid;
-            gap: 2.5rem;
-            grid-template-columns: repeat(6,29rem); 
-            position: relative;
+            // box-sizing: border-box;
+            // 自寫輪播start
+            // display: grid;
+            // gap: 2.5rem;
+            // grid-template-columns: repeat(6,29rem); 
+            // position: relative;
+            // 自寫輪播end
+            // padding: 20px;
             transition: transform 1s;
             // padding-bottom: 5.6rem;
-            @include respond(small-tab){
-                grid-template-columns: repeat(12, 29rem);
-                gap: 2.5rem;
-            }
-            @include respond(phone){
-                grid-template-columns: repeat(12, 16.8rem);
-                gap: 1rem;
-            }
+            // @include respond(small-tab){
+            //     grid-template-columns: repeat(12, 29rem);
+            //     gap: 2.5rem;
+            // }
+            // @include respond(phone){
+            //     grid-template-columns: repeat(12, 16.8rem);
+            //     gap: 1rem;
+            // }
             &--container{
-                overflow-x: hidden;
-                scroll-behavior: smooth; /* 平滑滾動 */
-                padding: 2.5rem ;
+                box-sizing: border-box;
                 // overflow: hidden;
-                // width: (29rem *4 + 2.5rem * 3 + 3rem);
-                width: (29rem *4 + 2.5rem * 3 + 5rem);
+                scroll-behavior: smooth; /* 平滑滾動 */
+                width: calc(29rem *4 + 2.5rem *3 + 3rem);  //126.5
                 // border:  1px solid red;
-                @include respond(mid-desktop){
-                    width: (29rem *2 + 2.5rem *1 + 5rem);         
+                padding: 1.5rem;
+                overflow: hidden;
+                @include respond(mid-desktop){ //1300
+                    width:calc( 29rem *3 + 2.5rem *2 + 3rem); //95         
                 }
-                @include respond(small-tab){
-                    width: (29rem + 5rem);     
-
+                @include respond(tab-port){ //1000       
+                    width: calc(29rem *2 + 1.5rem *1 + 3rem); //63.5     
                 }
-                @include respond(phone){
-                    width: (34.6rem + 5rem);     
-
+                @include respond(small-tab){ //750
+                    width: calc(25rem *2 + 1.5rem *1 + 3rem); 
+                }
+                @include respond(phone){ //750
+                    width: calc(20rem *2 + 1.5rem *1 + 3rem); 
+                }
+                @include respond(small-phone){ //400
+                    width: calc(18rem *2 + 1rem  + 3rem + 1rem); 
+                    padding: 1.5rem 2rem;
                 }
             }
+        }
+        &--pagination{
+            width: 100px;
+            text-align: center
         }
         &--btn{
             @include directionButton();
-            z-index: 10;
-            @include respond(phone){
+            z-index: 5;
+            @include respond(small-tab){ //750
                 display: none;   
             }
         }
         &--leftBtn{
             @include leftButton();
-            left: (-7.2rem/2);
+            left: (-7.2rem / 2);
             // top: 0;
-            // top: 50%;
-            top: 48%;
+            top: 50%;
+            // top: 48%;
             // transform: scaleX(-1) translateY(-50%);
             transform: scaleX(-1);
+            
         }
         &--rightBtn{
             @include rightButton();
             // right: (-7.2rem/2);
-            right: (-7.2rem/2);
-            top: 50%;
+            right: (-7.2rem / 2);
             top: 48%;
-
-            // transform:translateY(-50%)
         }
         &-cardState{
             display:flex;
             justify-content: center;
             // padding-top: 3rem;
-
             &--active{
                 height: 8px;
                 width: 30px;
@@ -220,6 +252,11 @@ body{
         position: relative;
         // width: (29rem *4 + 2.5rem * 3);
         // margin: auto 17.5%;
+        :global{
+            .swiper {
+                overflow: visible;
+            }
+        }
         &-text{
             // padding-bottom: 3rem;
             padding-top: 12rem;
@@ -233,42 +270,62 @@ body{
             }
         }
         &-card{
-            display: grid;
-            grid-template-columns: repeat(6,29rem); 
-            gap: 2.5rem;
-            position: relative;
+            // display: grid;
+            // grid-template-columns: repeat(6,29rem); 
+            // gap: 2.5rem;
+            // position: relative;
             transition: transform 1s;
             // overflow-x: hidden;
             // scroll-behavior: smooth; 
             // margin-top: 3rem;
-            @include respond(phone){
-                grid-template-columns: repeat(6, 16.8rem);
-                gap: 1rem;
-            }
+            // @include respond(phone){
+            //     grid-template-columns: repeat(6, 16.8rem);
+            //     gap: 1rem;
+            // }
             &--container{
                 overflow: hidden;
-                scroll-behavior: smooth; /* 平滑滾動 */
-                padding: 2.5rem;
+                // width: (29rem *4 + 2.5rem * 3 + 3rem);
                 // border:  1px solid red;
-                
-                width: (29rem * 4 + 2.5rem * 3);
-                width: (29rem *4 + 2.5rem * 3 + 5rem);
-                // transition: 1s;
-
-                @include respond(mid-desktop){
-                    width: (29rem *2 + 2.5rem *1 + 5rem);         
+                padding: 1.5rem;
+                width: calc(29rem *4 + 2.5rem *3 + 3rem);  //126.5
+                @include respond(mid-desktop){ //1300
+                    width:calc( 29rem *3 + 2.5rem *2 + 3rem); //95         
                 }
-                @include respond(small-tab){
-                    width: (29rem + 5rem);         
+                @include respond(tab-port){ //1000       
+                    width: calc(29rem *2 + 1.5rem *1 + 3rem); //63.5     
                 }
-                @include respond(phone){
-                    width: (34.6rem + 5rem);     
+                @include respond(small-tab){ //750
+                    width: calc(25rem *2 + 1.5rem *1 + 3rem); 
                 }
+                @include respond(phone){ //750
+                    width: calc(20rem *2 + 1.5rem *1 + 3rem); 
+                }
+                @include respond(small-phone){ //400
+                    width: calc(18rem *2 + 1rem  + 3rem + 1rem); 
+                    padding: 1.5rem 2rem;
+                }
+                // @include respond(mid-desktop){
+                //     width: (29rem *2 + 2.5rem *1 + 5rem);         
+                // }
+                // @include respond(small-tab){
+                //     width: (29rem + 5rem);         
+                // }
+                // @include respond(phone){
+                //     width: (34.6rem + 5rem);     
+                // }
             }
+        }
+        &--pagination{
+            width: 100px;
+            text-align: center
         }
         &--btn{
             @include directionButton();
-            @include respond(phone){
+            // @include respond(phone){
+            //     width: 6rem;
+            //     height: 6rem;
+            // }
+            @include respond(small-tab){ //750
                 display: none;   
             }
         }
@@ -276,17 +333,18 @@ body{
             @include leftButton();
             left: (-7.2rem/2);
             top: 50%;
-            // top: 48%;
-            // transform: scaleX(-1) translateY(-50%);
             transform: scaleX(-1);
+            @include respond(small-phone){
+                left: 0;
+            }
         }
         &--rightBtn{
             @include rightButton();
             right: (-7.2rem/2);
             top: 50%;
-            // top: 48%;
-
-            // transform:translateY(-50%)
+            @include respond(small-phone){
+                right: 0;
+            }
         }
         &-cardState{
             display:flex;
@@ -331,6 +389,9 @@ body{
             & > span{
                 font-size: 2.6rem;
                 font-weight: 500;
+                @include respond(phone){
+                    font-size: 2.2rem;
+                }
             }
             & > span:first-child{
                 color: $color-primary;
@@ -339,40 +400,42 @@ body{
             }
         }
         &-card{
-            display: grid;
-            grid-template-columns: repeat(7,23.1rem); 
-            gap: 2rem;
-            position: relative;
+            // display: grid;
+            // grid-template-columns: repeat(7,23.1rem); 
+            // gap: 2rem;
+            // position: relative;
             transition: transform 1s;
 
     
-            @include respond(phone){
-                grid-template-columns: repeat(7, 16.8rem);
-                gap: 1rem;
-                // width: 100%;
-            }
+            // @include respond(phone){
+            //     grid-template-columns: repeat(7, 16.8rem);
+            //     gap: 1rem;
+            //     // width: 100%;
+            // }
             &--container{
-                overflow: hidden;
-                scroll-behavior: smooth; /* 平滑滾動 */
+                // overflow: hidden;
+                // scroll-behavior: smooth; /* 平滑滾動 */
                 
-                width: (23.1rem * 5 + 2rem * 4);
-                // border: 1px solid red;
-                // border:  1px solid red;
-                padding:2rem 0;
+                width: (23.1rem * 5 + 1rem * 4 + 4rem);
+                padding: 2rem ;
+                // padding: 2rem 0;
                 // transition: .5s;
-                @include respond(mid-desktop){
-                    width: (23.1rem * 3 + 2rem * 2);         
+                @include respond(mid-desktop){ ///1300 / 99.4
+                    width: (23.1rem * 4 + 1rem * 3+ 4rem);         
                 }
-                @include respond(small-tab){
-                    // width: (23.1rem * 2 + 2rem);         
-                    width: (23.1rem * 2 + 4rem);         
+                @include respond(tab-port){ //1000 / 62.5      
+                    width: (23.1rem * 3 + 1rem * 2+ 4rem);     //75.3  
+                }
+                @include respond(small-tab){ //750 
+                    width: (25rem * 2 + 2rem * 1+ 4rem);     //75.3  
                 }
                 @include respond(phone){
-                    width: (34.6rem + 3rem);     
+                    width: (18rem * 2 + 1rem * 1+ 4rem);     //75.3  
+
                 }
             }
             &>div{
-                height: 33.5rem;
+                // height: 33.5rem;
                 @include respond(phone){
                     // height: 16.8rem;    
                 }
@@ -381,11 +444,20 @@ body{
                 }
             }
         }
+        &--pagination{
+            width: 100px;
+            text-align: center
+        }
         &--btn{
             @include directionButton();
-            @include respond(phone){
-                display: none;   
+            @include respond(small-tab){ //1000 / 62.5      
+                // width: (18rem * 3 + 1rem * 2+ 4rem);     //75.3  
+                display: none;
             }
+            // @include respond(phone){
+            //     width: 6rem;
+            //     height: 6rem;
+            // }
         }
         &--leftBtn{
             @include leftButton();
@@ -394,15 +466,18 @@ body{
             top: 48%;
             // transform: scaleX(-1) translateY(-50%);
             transform: scaleX(-1);
+            @include respond(tab-port){
+                left: -1.8rem;
+            }
         }
         &--rightBtn{
             @include rightButton();
             right: (-7.2rem / 2);
             // right: -5.6rem;
             top: 50%;
-            top: 48%;
-
-            // transform:translateY(-50%)
+            @include respond(tab-port){
+                right: -1.8rem;
+            }
         }
         &-cardState{
             display:flex;
@@ -428,77 +503,88 @@ body{
     &__accommodation{
         position: relative;
         // width: (29rem *4 + 2.5rem * 3);
-        &-text{
-            // padding-bottom: 3rem;
-            margin-bottom: 3rem;
-            padding-top: 5.4rem;
-            & > span{
-                font-size: 2.6rem;
-                font-weight: 500;
-            
-            }
-            & > span:first-child{
-                color: $color-primary;
-                padding-right: 1.5rem;
-                
+        :global{
+            .swiper {
+                overflow: visible;
             }
         }
+        &-text{
+            // padding-bottom: 3rem;
+            // margin-bottom: 3rem;
+            // padding-top: 5.4rem;
+            // & > span{
+            //     font-size: 2.6rem;
+            //     font-weight: 500;
+            
+            // }
+            // & > span:first-child{
+            //     color: $color-primary;
+            //     padding-right: 1.5rem;
+                
+            // }
+        }
         &-card{
-            display: grid;
-            grid-template-columns: repeat(6,29rem); 
-            gap: 2.5rem;
-            // overflow: hidden;
-            position: relative;
-            // scroll-behavior: smooth; 
-            // margin-top: 3rem;
+            // display: grid;
+            // grid-template-columns: repeat(6,29rem); 
+            // gap: 2.5rem;
+            // position: relative;
+       
             transition: 1s;
-            // border:  1px solid red;
-            @include respond(phone){
-                grid-template-columns: repeat(6, 16.8rem);
-                gap: 1rem;
-            }
+            // @include respond(phone){
+            //     grid-template-columns: repeat(6, 16.8rem);
+            //     gap: 1rem;
+            // }
             &--container{
                 overflow: hidden;
-                scroll-behavior: smooth; /* 平滑滾動 */
-                padding: 2.5rem;
-                width: (29rem * 4 + 2.5rem * 3 + 5rem);
-                // border: 1px solid red;
-                transition: .5s;
-
-                @include respond(mid-desktop){
-                    width: (29rem *2 + 2.5rem *1 + 5rem);         
+                scroll-behavior: smooth;
+                padding: 1.5rem;
+                // transition: 1s;
+                width: calc(29rem *4 + 2.5rem *3 + 3rem);  //126.5
+                @include respond(mid-desktop){ //1300
+                    width:calc( 29rem *3 + 2.5rem *2 + 3rem); //95         
                 }
-                @include respond(small-tab){
-                    width: (29rem + 5rem);         
+                @include respond(tab-port){ //1000       
+                    width: calc(29rem *2 + 1.5rem *1 + 3rem); //63.5     
                 }
-         
-                @include respond(phone){
-                    width: (34.6rem + 5rem);     
-                    // height: 28.2rem;
+                @include respond(small-tab){ //750
+                    width: calc(25rem *2 + 1.5rem *1 + 3rem); 
                 }
+                @include respond(phone){ //750
+                    width: calc(20rem *2 + 1.5rem *1 + 3rem); 
+                }
+                @include respond(small-phone){ //400
+                    width: calc(18rem *2 + 1rem  + 3rem + 1rem); 
+                    padding: 1.5rem 2rem;
+                }
+            
             }
+        }
+        &--pagination{
+            width: 100px;
+            text-align: center
         }
         &--btn{
             @include directionButton();
-            @include respond(phone){
+            @include respond(small-tab){ //750
                 display: none;   
             }
         }
         &--leftBtn{
             @include leftButton();
             left: (-7.2rem/2);
-            top: 50%;
             top: 48%;
-            transform: scaleX(-1);
-            // transform: scaleX(-1) translateY(-50%);
+            transform: scaleX(-1); 
+            @include respond(small-phone){
+                left: 0;
+            }
         }
         &--rightBtn{
             @include rightButton();
             right: (-7.2rem/2);
-            top: 50%;
             top: 48%;
-
-            // transform:translateY(-50%)
+            @include respond(small-phone){
+                right: 0;
+            }
         }
         &-cardState{
             display:flex;
