@@ -5,6 +5,14 @@ main{
     // max-width: 1440px;
     // background-color: rebeccapurple;
 }
+.food_noResult{
+    margin-left: 20rem;
+    @include respond(small-tab){
+        margin-left: 0;
+
+
+    }
+}
 .banner{
     background: url('../../public/img/banner_home.jpg') no-repeat center;
     background-size: cover;
@@ -57,7 +65,7 @@ main{
             transform: translateY(-50%);
             right: .6rem;
             color: #fff;
-            background-image:linear-gradient(to right bottom,$color-gradient-1,$color-gradient-2);
+            background-image:$right-bottom-gradient;
             border: none;
             padding: 1rem 2rem;
             border-radius: 2rem;
@@ -174,33 +182,10 @@ main{
         background: $right-bottom-gradient;
     }
 }
-// .slide-up{
-//     transform: translateY(20rem);
-//     transition: 1.5s;
-//     opacity: 0;
-//     &--show{
-//         transform: translateY(0rem);
-//         opacity: 1;
-//     }
-// }
-// .slide-left{
-//     transform: translateX(100rem);
-//     // transition: 2s;
-//     transition: transform 1s cubic-bezier(1,.46,.54,1.2);
-//     opacity: 0;
-//     @media (max-width: 1000px) {
-//         transform: translateX(30rem);
-//         // transition: 1.5s;
-//         transition: transform 1s cubic-bezier(.05,.82,.89,1.29);
 
-//         opacity: 0;
-//     }
-//     &--show{
-//         transform: translateX(0rem);
-//         opacity: 1;
-//     }
-// }
 .activity{
+    // scroll-margin-top:8rem; 
+
     // &__outer{
     //     transform: translateY(30rem);
     //     transition: 1.5s;
@@ -271,6 +256,9 @@ main{
     
 }
 .tasty{
+   
+    // scroll-padding-top:100px; 
+
     position: relative;
     display: flex;
     height: 48.4rem; 
@@ -292,29 +280,22 @@ main{
    
     &__pagination{
         display: block;
-        margin: 20px;
+        margin: 20px 0;
         @include respond(small-tab){
             // display: none;
             text-align: center;
             margin: 0;
             position: absolute;
             bottom: -26rem !important;  // 強制覆蓋預設樣式
-            // left: 20px !important;    // 強制覆蓋預設樣式
-            // width: auto !important;
         }
     }
     &__text{
-        // width: 30rem;
-        // text-align: center;
-        // margin-left: 10.3rem;
-        // margin-right: 11.1rem;
         flex-shrink: 0;      
         flex-grow: 0;  
         display: flex;
-        // justify-content: center;
         margin-right: 6%;
-        // padding: 0 10rem;
         &-inner{
+            width: 23rem;
             @include respond(small-tab){
                 position: relative;
             }
@@ -327,7 +308,7 @@ main{
         }
         @include respond(small-tab){
             margin: 0;
-            // align-self: center;
+            text-align: center;
         }
     }
     &::after{
@@ -367,16 +348,12 @@ main{
         }
     }
     &__foodCard{
-        // width: 100vw;
         &-container{
             flex:1;
-            // overflow: hidden;
             display: flex;
             align-items: center;
-            justify-content: center;
             max-width: (23.1rem *4 + 2rem *3 );
             position: relative;
-            // margin-right: 10rem;
       
 
             width: 100%;
@@ -395,39 +372,14 @@ main{
             @include respond(phone){
                 max-width: (20rem *2 + 1rem);
             }
-            
-            // @include respond(phone){
-            //     width: 100%;
-            //     // margin-left: 2rem;
-
-            // }
+        
             &--wrap{
-                // width: 100vw;
-                // box-sizing: border-box;
                 width: 100%;
-
-                // display: grid;
-                // gap: 2rem;
-                // grid-template-columns: repeat(10,1fr);
-                // overflow-x: hidden;
-                // overflow-y: hidden;
-                // overflow: auto;
-                // overflow: hidden;
-                // scroll-behavior: smooth;
-                // @include respond(small-tab){
-                //     // justify-content: center;
-                //     margin-left: 2rem;
-    
-                // }
-                // @include respond(phone){
-                //     // justify-content: flex-start;
-                //     gap: 1rem;
-                //     // max-width: ;
-                //     margin-left: 2rem;
-                //     padding-right: 2rem;
-
-                // }
             }
+        }
+        &-item{
+            display: flex;
+            gap: 2rem
         }
       
         &--btn{
@@ -445,36 +397,20 @@ main{
             @include respond(tab-port){
                 // left: 26rem;
             }
-            // @include respond(small-tab){
-            //     // display: none  
-            //     background-color:transparent;
-            //     box-shadow: none;
-            //     left: -6rem;
-            //     top: 50%;
-            //     transform:  scaleX(-1) translateY(-50%);
-            // }
-            // @include respond(small-tab){
-            //     left: 7.5rem;
-            //     top: 15rem;
-            // }
+           
         }
         &--rightBtn{
             @include rightButton();
             right: (-7.2rem /2);
             // right: 8.5rem;
             bottom: 6rem;
-            // @include respond(small-tab){
-            //     color: $color-primary;
-            //     background:transparent;
-            //     box-shadow: none;
-            //     right: -6rem;
-            //     top: 50%;
-            //     transform: translateY(-50%);
-            // }
+            
         }
     }
 }
 .accommodation{
+    // scroll-padding-top:-10rem; 
+
     margin-top: 12.7rem;
     @include flexCenter();
     flex-direction: column;

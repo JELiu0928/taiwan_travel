@@ -12,7 +12,8 @@ const CityChoose = (props) => {
     const navigate = useNavigate()
     const URLparams = new URLSearchParams(location.search)
     const URLCityEN = URLparams.get('city')
-    const URLArea = URLparams.get('area')
+    const URLArea = URLparams.get('area') ?? "north"
+    console.log('regions',regions)
     const areaName = regions.find((area)=> area.area === URLArea).name //找區域中文
     const citiesArr = regionsAndCities[selectedArea.area]
     const cityZH = regionsAndCities[URLArea].find((city)=> city.city === URLCityEN).name //找城市中文

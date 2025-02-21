@@ -17,11 +17,33 @@ body{
         padding-top: 0;
     }
 }
-
 .city{
     max-width: 100%;
     // background-color: red;
-    
+    &__noData{
+        display: flex;
+        width: 1260px;
+        
+        margin-top: 2rem;
+        justify-content: center;
+        // width: 100%;
+        @include respond(mid-desktop){ //1300
+            width:calc( 29rem *3 + 2.5rem *2 + 3rem); //95         
+        }
+        @include respond(tab-port){ //1000       
+            width: calc(29rem *2 + 1.5rem *1 + 3rem); //63.5     
+        }
+        @include respond(small-tab){ //750
+            width: calc(25rem *2 + 1.5rem *1 + 3rem); 
+        }
+        @include respond(phone){ //750
+            width: calc(20rem *2 + 1.5rem *1 + 3rem); 
+        }
+        @include respond(small-phone){ //400
+            width: calc(18rem *2 + 1rem  + 3rem + 1rem); 
+            padding: 1.5rem 2rem;
+        }
+    }
     &__banner{
         height: 15rem;
         width: 100%;
@@ -130,11 +152,14 @@ body{
             }
         }
         position: relative;
+       
         // width: (29rem *4 + 2.5rem*3);
         // overflow: hidden;
         // &-cardOuter{
         //     margin: 0;
         // }
+        
+
         &-text{
             padding-top: 2.5rem;
             padding-left: 2.5rem;
@@ -256,6 +281,11 @@ body{
             .swiper {
                 overflow: visible;
             }
+            // .swiper-slide {
+            //     height: auto;
+            //     margin-top: 0 !important; /* 強制覆蓋任何自動產生的 margin */
+            //   }
+              
         }
         &-text{
             // padding-bottom: 3rem;
@@ -268,6 +298,11 @@ body{
                 color: $color-primary;
                 padding-right: 1.5rem;
             }
+        }
+        &-card-2{
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+            gap: 25px;
         }
         &-card{
             // display: grid;

@@ -1,6 +1,8 @@
 import React from 'react'
 import styles from './footer.module.scss'
 import { Link } from 'react-router-dom';
+import {FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faArrowUp} from '@fortawesome/free-solid-svg-icons'
 
 const Footer = () => {
     return (
@@ -16,6 +18,9 @@ const Footer = () => {
                 </ul>
             </nav>
             <p className={styles.footer__copyright}>&copy;此網站為練習使用，不做商業用途</p>
+            <div className={styles.scrollUP}  onClick={(e) => { document.getElementById("root")?.scrollIntoView({ behavior: "smooth" });}} >
+                <FontAwesomeIcon icon={faArrowUp} />
+            </div>
         </footer>
     )
 }

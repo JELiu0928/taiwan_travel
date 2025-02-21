@@ -11,6 +11,7 @@ const RegionContext = React.createContext({
     setSpanIndexActive:() => {},
     offsetpiece:3,
     setOffsetpiece:() => {},
+    searchKeyword:() => {},
 })
 
 export default RegionContext;

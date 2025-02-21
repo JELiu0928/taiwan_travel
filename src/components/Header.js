@@ -17,7 +17,7 @@ const Header = () => {
     }
     useEffect(()=>{
         const handleResize = ()=>{
-            if(layout != LAYOUT.SMALL_TAB && layout != LAYOUT.PHONE){
+            if(layout !== LAYOUT.SMALL_TAB && layout != LAYOUT.PHONE){
                 setIsMenuShowing(false) //漢堡不見時關閉菜單
             }
         }
@@ -29,7 +29,7 @@ const Header = () => {
 
 
     return (
-        <header className={styles.header}>
+        <header className={styles.header} id="header">
             {/* <div className={styles["header__logo-wrap"]}> */}
             <div className={styles.header__zone}>
                 <Link to={"/"}>
@@ -50,12 +50,12 @@ const Header = () => {
                {/*  */}
                 <nav className={styles["header__navList-wrap"]}  ref={navListRef}>
                     <ul className={styles.header__navList}>
-                        <li className={styles["header__navList-item"]}><Link >特色活動</Link></li>
-                        <li className={styles["header__navList-item"]}><Link >美食饗宴</Link></li>
-                        <li className={styles["header__navList-item"]}><Link >精選住宿</Link></li>
+                        <li className={styles["header__navList-item"]}><a href="#">特色活動</a></li>
+                        <li className={styles["header__navList-item"]}><a href="#">美食饗宴</a></li>
+                        <li className={styles["header__navList-item"]}><a href="#">精選住宿</a></li>
                     </ul>
                 </nav>
-                <div className={styles.header__search} ref={searchRef}>
+                <div className={styles.header__search} ref={searchRef} style={{visibility:'hidden'}}>
                     <input type="text" placeholder="搜尋關鍵字..." className={styles["header__search-input"]}/>
                     <FontAwesomeIcon icon={faMagnifyingGlass} className={styles["header__search-icon"]}/>
                 </div>

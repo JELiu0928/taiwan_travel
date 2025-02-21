@@ -43,7 +43,7 @@ const FoodCard = (props) => {
 
     
     const location = useLocation()
-    // console.log(location)
+    // console.log('home',props)
 
    
     return (
@@ -54,14 +54,11 @@ const FoodCard = (props) => {
             <div className={styles.foodCard__mask}>
                 <div className={styles.foodCard__text}>
                     <span className={styles["foodCard__text--title"]}>{datas && datas.RestaurantName}</span>
-                    <span className={styles["foodCard__text--category"]}>{datas && datas.Class}</span>
+                    <span className={styles["foodCard__text--category"]}>{datas && datas.Class ? datas.Class: '其他'}</span>
                 </div>
                 <span className={styles.foodCard__city}>{datas && datas.City}</span>
             </div>
         </div>
-        
-        
-        
         </>
     )
 }

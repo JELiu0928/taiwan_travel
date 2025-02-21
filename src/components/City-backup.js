@@ -30,7 +30,7 @@ import "swiper/css/pagination";
 
 const City = () => {
     const {selectedArea,setSelectedArea,
-        filterAndRandomData,spanIndexActive,
+        filterJSONAndRandomData,spanIndexActive,
         setSpanIndexActive,
         cityName,setCityName,
         fetchAndRandomDatas} = useContext(CommonContext)
@@ -72,7 +72,7 @@ const City = () => {
         // newAccommodationData.sort(()=>Math.random() - 0.5)
         // setAccommodationDatas(newAccommodationData.slice(0,12))
         // 過濾掉沒有照片 並 隨機取筆數顯示
-        // function filterAndRandomData(datas,setState,databegin,datapiece){
+        // function filterJSONAndRandomData(datas,setState,databegin,datapiece){
         //     let filterDatas = datas.filter((item)=> Object.keys(item.Picture).length !== 0)
         //     // console.log('過濾',filterDatas)
         //     let newData = [...filterDatas]
@@ -81,7 +81,7 @@ const City = () => {
         // }
          // JSON版
         if(attractionTaoyuan){
-            filterAndRandomData(attractionTaoyuan,setCityAttractionData,0,12)
+            filterJSONAndRandomData(attractionTaoyuan,setCityAttractionData,0,12)
         }
         // 線上API (直接fetch)：新北、台中，彰化、雲林、桃園正常，台北沒地址很多縣市沒圖片
         // fetchAndRandomDatas(`https://tdx.transportdata.tw/api/basic/v2/Tourism/ScenicSpot/${cityName.EN}?%24top=100&%24skip=100&%24format=JSON`,
@@ -89,7 +89,7 @@ const City = () => {
 
         // JSON版
         if(activityTaipei){
-            filterAndRandomData(activityTaipei,setCityActivityData,0,12)
+            filterJSONAndRandomData(activityTaipei,setCityActivityData,0,12)
             // console.log('活動資料',cityActivityData)
         }
         // 線上API (直接fetch)：高雄只有一筆有圖片
@@ -98,7 +98,7 @@ const City = () => {
 
          // JSON版
         if(foodTaichung){
-            filterAndRandomData(foodTaichung,setCityFoodData,0,14)
+            filterJSONAndRandomData(foodTaichung,setCityFoodData,0,14)
         }
         // 線上API (直接fetch)：待測試
         // fetchAndRandomDatas(`https://tdx.transportdata.tw/api/basic/v2/Tourism/Restaurant/${cityName.EN}?%24top=100&%24format=JSON`,
@@ -106,7 +106,7 @@ const City = () => {
 
         // JSON版
         if(accommodationTaichung){
-            filterAndRandomData(accommodationTaichung,setCityAccommodationData,0,12)
+            filterJSONAndRandomData(accommodationTaichung,setCityAccommodationData,0,12)
         }
         // 線上API (直接fetch)：待測試
         // fetchAndRandomDatas(`https://tdx.transportdata.tw/api/basic/v2/Tourism/Hotel/${cityName.EN}?%24top=100&%24skip=500&%24format=JSON`,

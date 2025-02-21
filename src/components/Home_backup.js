@@ -16,7 +16,7 @@ import useMedia, { LAYOUT }  from '../hook/useMedia'
 import useTouchSlide from '../hook/useTouchSlide'
 
 const Home = () => {
-    const {selectedArea,setSelectedArea,filterAndRandomData,fetchAndRandomDatas} = useContext(RegionContext)
+    const {selectedArea,setSelectedArea,filterJSONAndRandomData,fetchAndRandomDatas} = useContext(RegionContext)
     const navigate = useNavigate()
     const SelectAreaHandler =(area)=>{
         console.log('area=======>',area)
@@ -43,7 +43,7 @@ const Home = () => {
         // 活動
         // JSON
         if(activityDatas){
-            filterAndRandomData(activityDatas,setRandomActivity,0,6)
+            filterJSONAndRandomData(activityDatas,setRandomActivity,0,6)
         }
         // 線上API(node版)
         // fetchAndRandomDatas("http://localhost:3010/activity",setRandomActivity,0,6)
@@ -53,7 +53,7 @@ const Home = () => {
         
         // JSON
         if(foodDatas){
-            filterAndRandomData(foodDatas,setRandomFood,0,10)
+            filterJSONAndRandomData(foodDatas,setRandomFood,0,10)
         }
         // 線上API (node版)
         // fetchAndRandomDatas("http://localhost:3010/food",setRandomFood,0,10)
@@ -64,7 +64,7 @@ const Home = () => {
         // 住宿
         // JSON
         if(accommodationDatas){
-            filterAndRandomData(accommodationDatas,setRandomAccommodation,0,4)
+            filterJSONAndRandomData(accommodationDatas,setRandomAccommodation,0,4)
         }
         // 線上API
         // fetchAndRandomDatas("http://localhost:3010/accommodation",setRandomAccommodation,0,10)

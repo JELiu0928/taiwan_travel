@@ -15,9 +15,9 @@ const sizeStyles = {
 
 // import activityData from '../../data/activity01.json'
 const CommonCard = (props) => {
-    
+
     const layout = useMedia()
-    const { data,activityData,type,accommodationData,attractionData,eventData,cityData,cityName,size = 'large'} = props
+    const { data,type,cityName,size = 'large'} = props
     let cardSize = sizeStyles[size] || sizeStyles.large; // 默認為 'medium'
     // console.log('type',type);
     if(layout === LAYOUT.TAB_PORT){
@@ -37,15 +37,12 @@ const CommonCard = (props) => {
     }
     
     
-    // if(accommodationData){
-    //     accommodationData = accommodationData.filter((item)=> item.Picture && item.Picture.length > 0)
-    // }
-    // attractionData && console.log('CommonCard-->attractiondata',attractionData.Images)
-    let pic,name,address,city,description,fullAddress,tel;
+    let pic,name,address,city,description,tel;
     let tags = []
    
-    
-    pic = data ? data.Picture.PictureUrl1 : "/img/test.jpg"
+    // pic = data ? data.Picture.PictureUrl1 : "/img/test.jpg"
+    pic = data && (data.Picture.PictureUrl1 || "../../../img/no-photo.png")
+
     address = data ? data.Address :"地址未提供"
     const renderContent = ()=>{
         switch(type){
@@ -70,13 +67,12 @@ const CommonCard = (props) => {
                 }
 
                 return ( <>
-                
-                <h3 className={styles["commonCard__text-main"]}>{name}</h3>
-                <p className={styles["commonCard__text-desc"]}>{description}</p>
-                <span className={styles["commonCard__text-address"]} style={{display:"block"}}>
-                    <FontAwesomeIcon icon={faLocationDot} />
-                    {address} 
-                </span>
+                    <h3 className={styles["commonCard__text-main"]}>{name}</h3>
+                    <p className={styles["commonCard__text-desc"]}>{description}</p>
+                    <span className={styles["commonCard__text-address"]} style={{display:"block"}}>
+                        <FontAwesomeIcon icon={faLocationDot} />
+                        {address} 
+                    </span>
                 </>
                 )
                 // break;
@@ -120,19 +116,8 @@ const CommonCard = (props) => {
     
     
         
-    
-  
-    useEffect(()=>{
-        // console.log('CommonCard datas===>',datas)
-        // console.log('CommonCard=>',props)
-        // console.log(data)
-        // console.log(datas.Picture)
-        
-    })
     return (
         <>
-        
-        {/* <div className={styles.commonCard} style={type === "attraction" ? {height:"40rem"} : {height:"34.9rem"}} > */}
         <div className={styles.commonCard} style={cardSize}>
             <div className={styles.commonCard__img}>
                 <img src={pic} alt="" />
@@ -151,72 +136,14 @@ const CommonCard = (props) => {
                                     )    
                                 })
                             }
-                            
                         </div>
                         <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
                     </div> 
                 ): ""
             }
-           
         </div>   
         </>
-    )         
-    // return (
-    //     <>
-    //     <div className={styles.commonCard}>
-    //         <div className={styles.commonCard__img}>
-    //             {/* <img src="/img/test.jpg" alt="" /> */}
-    //             <img src={pic} alt="" />
-    //         </div>
-    //         <div className={styles.commonCard__text}>
-    //             <h3 className={styles["commonCard__text-main"]}>{name}</h3>
-    //             {
-    //                 type === "attraction" ? <p className={styles["commonCard__text-desc"]}>{description}</p> : ''
-    //             }
-    //             {
-    //                 type === "attraction" ? 
-    //                     <span className={styles["commonCard__text-address"]} style={{display:"block"}}>
-    //                         <FontAwesomeIcon icon={faLocationDot} />
-    //                         {address}
-    //                     </span> :  <span className={styles["commonCard__text-sub"]} style={{display:"block"}} >{address}</span>
-    //             }
-    //             {
-    //                 type === "accommodation" ? 
-    //                     <span className={styles["commonCard__text-address"]} >
-    //                             <FontAwesomeIcon icon={faPhone} />{tel}
-    //                     </span> : 
-    //                     ''
-    //             }   
-    //         </div>
-    //         <div className={styles["commonCard__tag-zone"]}>
-    //             <div className={styles["commonCard__tag-zone--keyword"]}>
-    //                 {
-    //                     tags.map( (tag,i) =>{
-    //                         return (
-    //                             <span key={i}>{tag[1].slice(0,2)}</span>
-    //                         )    
-    //                     })
-    //                 }
-                    
-    //             </div>
-    //             <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
-    //         </div>
-    //         <div className={styles["commonCard__tag-zone"]}>
-    //             <div className={styles["commonCard__tag-zone--keyword"]}>
-    //                 {
-    //                     tags.map( (tag,i) =>{
-    //                         return (
-    //                             <span key={i}>{tag[1].slice(0,2)}</span>
-    //                         )    
-    //                     })
-    //                 }
-                    
-    //             </div>
-    //             <span className={styles["commonCard__tag-zone--city"]}>{city}</span>
-    //         </div>
-    //     </div>   
-    //     </>
-    // )         
+    )            
     
 }
 

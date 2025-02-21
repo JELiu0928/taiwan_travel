@@ -1,20 +1,11 @@
 @import "../../styles/base";
 .commonCard{
-    
     border-radius: 1rem;
     background-color: #fff;
     overflow: hidden;
-    // border: 1px red solid;
     display: flex;
     flex-direction: column;
     box-shadow: 0 .4rem 3rem rgba(0, 0, 0, 0.1);
-    // flex: 0 29rem;
-
-    // max-width: 1000px;
-    // flex-wrap: wrap;
-    &:not(:last-child){
-        // margin-right: 2.5rem;
-    }
     &__outer{
         display: flex;
         justify-content: center;
@@ -35,7 +26,6 @@
     }
     &__text{
         padding: 0 1.5rem;
-
         margin-top: 1.2rem;
         margin-bottom: 1.6rem;
 
